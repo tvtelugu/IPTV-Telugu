@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="IPTV Telugu" tvg-logo="https://cdn5.telegram-cdn.org/file/bK8ZADzHVb1hIe6DhQ3v65YrkuqLwl5iIL21dvnqMLKsB5hopmS3jilkbD0dIYTE7Ix-dQHMIam2iCzqmSkxOrz_D66B5Zcm86b62nDZ9zkCW4VoPxrH58w71ziyZrrZ32dNcAg2aPFDIqu8rs8FFNl_d0_zo03CptDdGVgIcNlkbdGcSX8iNk4-WVgtZayeiLEa3U0mogDSgmMRrOzB0QaFERlvM1Vbsax_G8Yw9zMCaQn4oDI4kkIOjnvzb-9iJIfbpssBxSKy4lZNsrMCawxRpNgv-cKacETIbKLkpp2YMgIX3eVUV-veeYmBgSe8QAgDJoq-1O0RFCTNfH-Dlg.jpg" group-title="Join At",IPTV Telugu
+https://t.me/tvtelugu
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="TV9 Telugu" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-258/list/tv9telugu1170fde098a9ffec4332ab3114d3246e31d9.png" group-title="News",TV9 Telugu
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-258
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="Discovery HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD
+http://103.99.249.107:81/play/a00m
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="National Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png" group-title="Infotainment",National Geo Wild HD
+http://103.99.249.107:81/play/a008
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="National Geo HD" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" group-title="Infotainment",National Geo HD
+http://103.99.249.107:81/play/a00n
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="BBC Earth HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment",BBC Earth HD
+http://103.99.249.107:81/play/a019
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="History TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png" group-title="Infotainment",History TV HD
+http://103.99.249.107:81/play/a017
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="Zee Telugu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetelugu/list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-title="Entertinment",Zee Telugu HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeetelugu
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="ETV Telugu HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/ETV_HD.png" group-title="Entertinment",ETV Telugu HD
+http://89.187.179.108:8080/ETVHD/LOCAL/TEL/index.m3u8?token=test
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="Star Maa HD" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Maa-HD-Logo.jpg" group-title="Entertinment",Star Maa HD
+http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="Gemini Tv HD" tvg-logo="https://sund-images.sunnxt.com/14019/640x360_GeminiTVHD_14019_39de8ab6-03bb-4eeb-9d93-558c8afe8dcc.jpg" group-title="Entertinment",Gemini Tv HD
+http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="Star Maa Gold" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Star_Maa_Gold_2019_logo.jpg" group-title="Entertinment",Star Maa Gold
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51416
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="Zee Cinemalu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinemalu/list/1170x6581642453232.png" group-title="Movies",Zee Cinemalu HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeecinemalu
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg" group-title="Movies",Gemini Movies HD
+http://89.187.179.108:8080/GeminiMovies-telu/index.m3u8?token=test
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="Star Maa Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg" group-title="Movies",Star Maa Movies
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51415
