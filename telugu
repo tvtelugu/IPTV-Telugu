@@ -4,7 +4,7 @@ https://t.me/tvtelugu
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="Zee Telugu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetelugu/list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-title="Entertinment",Zee Telugu HD
 http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeetelugu
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="ETV Telugu HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/ETV_HD.png" group-title="Entertinment",ETV Telugu HD
-http://138.199.27.56:8080/live/play/WlZSQmVYZzNjV1ZNV0V0YU1VcHNPWGxKWlZKUGQxaG1hMEl2UVRkTmNucFpRbGMxVHpOd1NqUm9XVDA9/136609.m3u8
+http://138.199.27.56:8080/live/play/UVVOM1ptVlRTWFpNYkc0NVNXaEtUMDVFT0hoaFVXcDViVTV6SzBaclUxRXJkemhCZDFVdlExTnlkejA9/136609.m3u8
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="Star Maa HD" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Maa-HD-Logo.jpg" group-title="Entertinment",Star Maa HD
 http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="Gemini Tv HD" tvg-logo="https://sund-images.sunnxt.com/14019/640x360_GeminiTVHD_14019_39de8ab6-03bb-4eeb-9d93-558c8afe8dcc.jpg" group-title="Entertinment",Gemini Tv HD
