@@ -19,6 +19,12 @@ http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeecinemalu
 http://89.187.179.108:8080/GeminiMovies-telu/index.m3u8?token=test
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="Star Maa Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg" group-title="Movies",Star Maa Movies
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51415
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="ETV CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/ETV_Cinema.jpg" group-title="Movies",ETV CINEMA
+http://satline.xyz:8080/1001663723110466003/4641663723110466/23128
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="ETV ABHIRUCHI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/ETV_Abhiruchi.jpg" group-title="Life Style",ETV ABHIRUCHI
+http://satline.xyz:8080/1001663723110466003/4641663723110466/23044
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="ETV LIFE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Etv-life-log.png" group-title="Life Style",ETV LIFE
+http://satline.xyz:8080/1001663723110466003/4641663723110466/23129
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="V6 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/V6_News.jpeg" group-title="News",V6 News
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1664294845/ei/XcsyY5OgGZaLz7sPgIaJwAs/ip/183.82.118.55/id/IQJNk94wUDs.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMvxursNcqQUe0wyoHgAvZDm60Bs3GyA34MekPqI9-SAAiEAwobg3XnZHAf3AT-eM24r27HbHeD2DiqmKd1AqhU-0WM%3D/file/index.m3u
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="ABN AndhraJyothy" tvg-logo="https://play-lh.googleusercontent.com/gb-ySurSCF7Ayiq1bavp40rtov1CgdRHYHcRz9-QR9l_cwykG_1NqLHBVHR_NVGACbA" group-title="News",ABN AndhraJyothy
