@@ -60,7 +60,7 @@ http://103.99.249.107:81/play/a019
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="History TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png" group-title="Infotainment",History TV HD
 http://103.99.249.107:81/play/a017
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="Star Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
-http://us-e1.watchindia.net:8880/live/vvv/vvv/2162.m3u8?token=TRINVkBbGwkUVg1UXQ9UBwxZXQoIAQELUwIDBAlUAQFTBVQCBlcOA1ASFRIXQxAGWVVmWlwSWApXVVcbGhBKBkRvDFMRCRsKBQgBEkgVFgpVXRsJCBxASA8HRw0aVwBRAwRTDhEfG1ZORFxCClYOPFxdT1pbVUACCBYJWxRHVg1pVABaUl1dEQwSCRJIFQsQSBoDXU1cDhREAQxDSgRNBhQKRwQCCwkRGhJaXxFZFhFBGgMRcX5AFEQGHUNdC0oKWV5HDRFeCkYOEhUSDUQ9EV1LTUFdUQ9dFEFfFQhHFUFbUR1oUFxXXVNTTVkLWRFBAhoKERQSD1cIChFYSjpJClISXxUBCwkFAgEIEhk=
+http://us-e1.watchindia.net:8880/live/vvv/vvv/2162.ts
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="Star Sports 1 HD 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
 http://us-e1.watchindia.net:8880/live/vvv/vvv/2186.m3u8?token=TRINVkBbGwkUBg8AUlUBUg4KWwoKUVMBA1IAVllcW1cPBwZVBFcPUQASFRIXQxAGWVVmWlwSWApXW1MbGhBKBkRvDFMRCRsKBQgBEkgVFgpVXRsJCBxASA8HRw0aVwFQAwJcBhEfG1ZORFxCClYOPFxdT1pbVUACCBYJWxRHVg1pVABaUl1dEQwSCRJIFQsQSBoDXU1cDhREAQxDSgRNBhQKRwYFAgERGhJaXxFZFhFBGgMRcX5AFEQGHUNdC0oKWV5HDRFeCkYOEhUSDUQ9EV1LTUFdUQ9dFEFfFQhHFUFbUR1oUFxXXVNTTVkLWRFBAhoKERQSD1cIChFYSjpJClISXxUBBg0HDgcAEhk=
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="Star Sports 1 HD 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
