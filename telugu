@@ -46,7 +46,7 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/83043
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 Telugu" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/(no tvg-id)/list/tv9telugu1170fde098a9ffec4332ab3114d3246e31d9.png" group-title="News",TV9 Telugu
 http://iamsomx.herokuapp.com/zee5.php?id=(no tvg-id)
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sakshi TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sakshi.jpg" group-title="News",Sakshi TV
-http://us-e1.watchindia.net:8880/live/vvv/vvv/955.m3u8?token=TRINVkBbGwkUUlwGBgIAUl0BDANbA1NcBwZVAAoGCVpUVQNTBwoABFcSFRIXQxAGWVVmWlwSWAFTVkkVTRZcEWlZARUJEQAADggbHEZDCw5dGgMDFBISUQJBX1lNCVVPFFUdQ1ZBV1Jab11VEl4BBhoCV0ZUXE4aCQ06U10IWA1SEl8VAhEVEV9DSRJeWRcPVBQbUVFEEFkSBkcNVhBVDxoSBlhGXU1BTxIDEi15QE8aXUFHXV4RUQkNRw0aCAoWDhJJFVpAZkFTQ01CAVYPBkoaAxEIEk4aCwIdaFsKVw1TUxFeXF1KEQwSChJIFQ8MVlFNXEpvElECQV9ZTQlVHg==
+http://nv1connect.com:80/mriptv/yzrcmJNqGZ/83451
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10 TV" tvg-logo="https://10tv.in/wp-content/themes/10tv_v_2.0/images/logo.png" group-title="News",10 TV
 http://us-e1.watchindia.net:8880/live/vvv/vvv/981.m3u8?token=TRINVkBbGwkUBwpUAAdTVV4IDQcIA1VZUlYHA1lWWwAOCQRSAQBcUgESFRIXQxAGWVVmWlwSWAFeUkkVTRZcEWlZARUJEQAADggbHEZDCw5dGgMDFBISUQJBXxUKXAxWAghVFR8RXEtCVUteBVs9B11OUFBdElhWEw8JGxoKVzxSVQhWXVcbCRQAGxxGXhETGgJXRlRcThoEChFFWRFcQQwSVA8HCxsfFFNWRQpDEBoaAht6dhJOGgMbEVJWFlAMWBJfFV4ATAsUHBtZF2gQBktMS1ZZXQdKRFlHBxpJGw5XSDpUXF1XVlVEUF8KREBZGgsbHxpdDVYPFwpFZxVQBxQKRwUGBwkABwAbTQ==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BHAKTI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Bhakthi_TV.jpeg" group-title="Bhakti",BHAKTI TV
@@ -65,7 +65,7 @@ http://103.99.249.107:81/play/a017
 http://nv1connect.com:80/mriptv/yzrcmJNqGZ/83372
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
 http://us-e1.watchindia.net:8880/live/vvv/vvv/2186.m3u8?token=TRINVkBbGwkUBg8AUlUBUg4KWwoKUVMBA1IAVllcW1cPBwZVBFcPUQASFRIXQxAGWVVmWlwSWApXW1MbGhBKBkRvDFMRCRsKBQgBEkgVFgpVXRsJCBxASA8HRw0aVwFQAwJcBhEfG1ZORFxCClYOPFxdT1pbVUACCBYJWxRHVg1pVABaUl1dEQwSCRJIFQsQSBoDXU1cDhREAQxDSgRNBhQKRwYFAgERGhJaXxFZFhFBGgMRcX5AFEQGHUNdC0oKWV5HDRFeCkYOEhUSDUQ9EV1LTUFdUQ9dFEFfFQhHFUFbUR1oUFxXXVNTTVkLWRFBAhoKERQSD1cIChFYSjpJClISXxUBBg0HDgcAEhk=
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 2 HD
 http://us-e1.watchindia.net:8880/live/vvv/vvv/2232.m3u8?token=TRINVkBbGwkUBgEIVFFaVV4MCgpZBlsMAwJcBghRWAIAVQFRBQVYUA8SFRIXQxAGWVVmWlwSWApUUFcbGhBKBkRvDFMRCRsKBQgBEkgVFgpVXRsJCBxASA8HRw0aVwBRAwRTABEfG1ZORFxCClYOPFxdT1pbVUACCBYJWxRHVg1pVABaUl1dEQwSCRJIFQsQSBoDXU1cDhREAQxDSgRNBhQKRwQBBw4RGhJaXxFZFhFBGgMRcX5AFEQGHUNdC0oKWV5HDRFeCkYOEhUSDUQ9EV1LTUFdUQ9dFEFfFQhHFUFbUR1oUFxXXVNTTVkLWRFBAhoKERQSD1cIChFYSjpJClISXxUBCwkEBgkKEhk=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1 HD
 http://nv1connect.com:80/mriptv/yzrcmJNqGZ/83356
