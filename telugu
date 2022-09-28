@@ -1,69 +1,73 @@
 #EXTM3U url-tvg="https://epg.it999.ru/epg.xml"
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="IPTV Telugu" tvg-logo="https://cdn5.telegram-cdn.org/file/bK8ZADzHVb1hIe6DhQ3v65YrkuqLwl5iIL21dvnqMLKsB5hopmS3jilkbD0dIYTE7Ix-dQHMIam2iCzqmSkxOrz_D66B5Zcm86b62nDZ9zkCW4VoPxrH58w71ziyZrrZ32dNcAg2aPFDIqu8rs8FFNl_d0_zo03CptDdGVgIcNlkbdGcSX8iNk4-WVgtZayeiLEa3U0mogDSgmMRrOzB0QaFERlvM1Vbsax_G8Yw9zMCaQn4oDI4kkIOjnvzb-9iJIfbpssBxSKy4lZNsrMCawxRpNgv-cKacETIbKLkpp2YMgIX3eVUV-veeYmBgSe8QAgDJoq-1O0RFCTNfH-Dlg.jpg" group-title="Join At",IPTV Telugu
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPTV Telugu" tvg-logo="https://cdn5.telegram-cdn.org/file/bK8ZADzHVb1hIe6DhQ3v65YrkuqLwl5iIL21dvnqMLKsB5hopmS3jilkbD0dIYTE7Ix-dQHMIam2iCzqmSkxOrz_D66B5Zcm86b62nDZ9zkCW4VoPxrH58w71ziyZrrZ32dNcAg2aPFDIqu8rs8FFNl_d0_zo03CptDdGVgIcNlkbdGcSX8iNk4-WVgtZayeiLEa3U0mogDSgmMRrOzB0QaFERlvM1Vbsax_G8Yw9zMCaQn4oDI4kkIOjnvzb-9iJIfbpssBxSKy4lZNsrMCawxRpNgv-cKacETIbKLkpp2YMgIX3eVUV-veeYmBgSe8QAgDJoq-1O0RFCTNfH-Dlg.jpg" group-title="Join At",IPTV Telugu
 https://github.com/madhukar7322/IPTV-Telugu/blob/main/iptv-telugu.ts?raw=true
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="Zee Telugu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetelugu/list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-title="Entertinment",Zee Telugu HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Telugu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetelugu/list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-title="Entertinment",Zee Telugu HD
 http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeetelugu
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="ETV Telugu HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/ETV_HD.png" group-title="Entertinment",ETV Telugu HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Telugu HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/ETV_HD.png" group-title="Entertinment",ETV Telugu HD
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136609
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="Star Maa HD" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Maa-HD-Logo.jpg" group-title="Entertinment",Star Maa HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa HD" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Maa-HD-Logo.jpg" group-title="Entertinment",Star Maa HD
 http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="Gemini Tv HD" tvg-logo="https://sund-images.sunnxt.com/14019/640x360_GeminiTVHD_14019_39de8ab6-03bb-4eeb-9d93-558c8afe8dcc.jpg" group-title="Entertinment",Gemini Tv HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Tv HD" tvg-logo="https://sund-images.sunnxt.com/14019/640x360_GeminiTVHD_14019_39de8ab6-03bb-4eeb-9d93-558c8afe8dcc.jpg" group-title="Entertinment",Gemini Tv HD
 http://lb.watchindia.net:8880/live/vvv/vvv/928.m3u8?token=TRINVkBbGwkUBg1UVQcBAAsPCgBaAQFZVFdUDlpSXQFXVl0PVQsOUQcSFRIXQxAGWVVmWlwSWAFUW0kVTRZcEWlZARUJEQAADggbHEZDCw5dGgMDFBISUQJBXxUKUQFSDhJJFVZLTVZEXlhcO1MHFVFbXBECXhdUCk9HWFY6XQZbUQtTEQkbAxQcG1kXR0BZVk1VXxQSAFESEQRDXUcDQQcGUQcRHxtQWUVXRBZOQFkacXcRFBIHQBIGC0RRCldBDBIIBEYLGx8UWUpvFlIRF0pdWF5dQkACRFNHGxoIWBtpUwpZXVZaR19fV0NGDUBQGhQbXldeC0wJETpHUQEbWRQCXAALARtO
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="Gemini Tv" tvg-logo="https://sund-images.sunnxt.com/9017/640x360_687e2f04-72ec-4fb6-8856-e3b33d26aff4.jpg" group-title="Entertinment",Gemini Tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Tv" tvg-logo="https://sund-images.sunnxt.com/9017/640x360_687e2f04-72ec-4fb6-8856-e3b33d26aff4.jpg" group-title="Entertinment",Gemini Tv
 http://nv1connect.com:80/mriptv/yzrcmJNqGZ/83258
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="Star Maa Gold" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Star_Maa_Gold_2019_logo.jpg" group-title="Entertinment",Star Maa Gold
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Gold" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Star_Maa_Gold_2019_logo.jpg" group-title="Entertinment",Star Maa Gold
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51416
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="GEMINI COMEDY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Gemini_Comedy.jpg" group-title="Entertinment",GEMINI COMEDY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI COMEDY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Gemini_Comedy.jpg" group-title="Entertinment",GEMINI COMEDY
 http://us-e1.watchindia.net:8880/live/vvv/vvv/971.m3u8?token=TRINVkBbGwkUBgEIXQNUAAoLX1IPA1pZUVQEB15QXAJTUVQCUgABUVMSFRIXQxAGWVVmWlwSWAFRUkkVTRZcEWlZARUJEQAADggbHEZDCw5dGgMDFBISUQJBXxUKUwhUAAZXFR8RXEtCVUteBVs9B11OUFBdElhWEw8JGxoKVzxSVQhWXVcbCRQAGxxGXhETGgJXRlRcThoEChFFWRFcQQwSVAACAxsfFFNWRQpDEBoaAht6dhJOGgMbEVJWFlAMWBJfFV4ATAsUHBtZF2gQBktMS1ZZXQdKRFlHBxpJGw5XSDpUXF1XVlVEUF8KREBZGgsbHxpdDVYPFwpFZxVQBxQKRwUGBw0EAAQbTQ==
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="ETV Plus" tvg-logo="https://etv-win-image.akamaized.net/etvwin/channels/channel/43786/etv-plus-320x240.png" group-title="Entertinment",ETV Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Plus" tvg-logo="https://etv-win-image.akamaized.net/etvwin/channels/channel/43786/etv-plus-320x240.png" group-title="Entertinment",ETV Plus
 http://lb.watchindia.net:8880/live/vvv/vvv/937.m3u8?token=TRINVkBbGwkUBQ8IB1QDUQ0OAQZZVFFdUgEHAFxXXFMCUQZWVVZbUVASFRIXQxAGWVVmWlwSWAFVVEkVTRZcEWlZARUJEQAADggbHEZDCw5dGgMDFBISUQJBXxUKUQhaARJJFVZLTVZEXlhcO1MHFVFbXBECXhdUCk9HWFY6XQZbUQtTEQkbAxQcG1kXR0BZVk1VXxQSAFESEQRDXUcDQQ8DVRUfEVpcQ15NQh0VWEFxdhsfGlUaTAMNFl5XCxtZFF1WQgsRFRFfQ2ZCAUQWEV1ZVFZKElgaVkFJFVUEQTxVXwtZVlBNWlleShJeFVFBFBpUXFZZFlcUPBVeXEcDQQQFVQ8KEUQ=
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="DD SAPTAGIRI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/DD_Saptagiri.jpg" group-title="Entertinment",DD SAPTAGIRI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD SAPTAGIRI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/DD_Saptagiri.jpg" group-title="Entertinment",DD SAPTAGIRI
 http://us-e1.watchindia.net:8880/live/vvv/vvv/974.m3u8?token=TRINVkBbGwkUVQgFV1JaUAxaC1deBFFcAFtRBQEDDwcOAlwHUABdAlUSFRIXQxAGWVVmWlwSWAFRV0kVTRZcEWlZARUJEQAADggbHEZDCw5dGgMDFBISUQJBXxUKVwlbBAlcFR8RXEtCVUteBVs9B11OUFBdElhWEw8JGxoKVzxSVQhWXVcbCRQAGxxGXhETGgJXRlRcThoEChFFWRFcQQwSVA8KAxsfFFNWRQpDEBoaAht6dhJOGgMbEVJWFlAMWBJfFV4ATAsUHBtZF2gQBktMS1ZZXQdKRFlHBxpJGw5XSDpUXF1XVlVEUF8KREBZGgsbHxpdDVYPFwpFZxVQBxQKRwUGBw0EAQIbTQ==
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="Zee Cinemalu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinemalu/list/1170x6581642453232.png" group-title="Movies",Zee Cinemalu HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinemalu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinemalu/list/1170x6581642453232.png" group-title="Movies",Zee Cinemalu HD
 http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeecinemalu
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg" group-title="Movies",Gemini Movies HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg" group-title="Movies",Gemini Movies HD
 http://89.187.179.108:8080/GeminiMovies-telu/index.m3u8?token=test
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="Star Maa Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg" group-title="Movies",Star Maa Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg" group-title="Movies",Star Maa Movies
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51415
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="ETV CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/ETV_Cinema.jpg" group-title="Movies",ETV CINEMA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/ETV_Cinema.jpg" group-title="Movies",ETV CINEMA
 http://satline.xyz:8080/1001663723110466003/4641663723110466/23128
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="Telugu BOX Office" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/tbo.jpg" group-title="Movies",Telugu BOX Office
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telugu BOX Office" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/tbo.jpg" group-title="Movies",Telugu BOX Office
 http://us-e1.watchindia.net:8880/live/vvv/vvv/2155.m3u8?token=TRINVkBbGwkUVQ9UXQQHAAgLCwQOCAQOUlYEAQxQCVYPU1ADBVdbUQUSFRIXQxAGWVVmWlwSWApXVlAbGhBKBkRvDFMRCRsKBQgBEkgVFgpVXRsJCBxASA8HRw0aVwxXDwRUDhEfG1ZORFxCClYOPFxdT1pbVUACCBYJWxRHVg1pVABaUl1dEQwSCRJIFQsQSBoDXU1cDhREAQxDSgRNBhQKRwULBQ0RGhJaXxFZFhFBGgMRcX5AFEQGHUNdC0oKWV5HDRFeCkYOEhUSDUQ9EV1LTUFdUQ9dFEFfFQhHFUFbUR1oUFxXXVNTTVkLWRFBAhoKERQSD1cIChFYSjpJClISXxUBAg8BAQQJEhk=
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="Gemini Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Gemini_Music.jpg" group-title="Music",Gemini Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Gemini_Music.jpg" group-title="Music",Gemini Music
 http://us-e1.watchindia.net:8880/live/vvv/vvv/929.m3u8?token=TRINVkBbGwkUVQsJVAJWVltcWwBZB1cLX1RVAQpdAAIHBVVVAAcIClISFRIXQxAGWVVmWlwSWAFUWkkVTRZcEWlZARUJEQAADggbHEZDCw5dGgMDFBISUQJBXxUJUw5aBgRVFR8RXEtCVUteBVs9B11OUFBdElhWEw8JGxoKVzxSVQhWXVcbCRQAGxxGXhETGgJXRlRcThoEChFFWRFcQQwSUAMLBxsfFFNWRQpDEBoaAht6dhJOGgMbEVJWFlAMWBJfFV4ATAsUHBtZF2gQBktMS1ZZXQdKRFlHBxpJGw5XSDpUXF1XVlVEUF8KREBZGgsbHxpdDVYPFwpFZxVQBxQKRwUGBw0FDgYbTQ==
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="Star Maa Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Star_Maa_Music_2020.jpg" group-title="Music",Star Maa Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Star_Maa_Music_2020.jpg" group-title="Music",Star Maa Music
 http://us-e1.watchindia.net:8880/live/vvv/vvv/2192.m3u8?token=TRINVkBbGwkUAw0IVwdWU1pbWwRZUwYMAFEAAwoACQcCCAZRCwtaCwUSFRIXQxAGWVVmWlwSWApXWlcbGhBKBkRvDFMRCRsKBQgBEkgVFgpVXRsJCBxASA8HRw0aVwBWBQNTAhEfG1ZORFxCClYOPFxdT1pbVUACCBYJWxRHVg1pVABaUl1dEQwSCRJIFQsQSBoDXU1cDhREAQxDSgRNBhQKRwUDAAERGhJaXxFZFhFBGgMRcX5AFEQGHUNdC0oKWV5HDRFeCkYOEhUSDUQ9EV1LTUFdUQ9dFEFfFQhHFUFbUR1oUFxXXVNTTVkLWRFBAhoKERQSD1cIChFYSjpJClISXxUBBg0CDwEOEhk=
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="Gemini Life" tvg-logo="https://sund-images.sunnxt.com/26572/640x360_3b657f25-1e0b-4386-bac1-55d4f9518fba.jpg" group-title="Music",Gemini Life
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Life" tvg-logo="https://sund-images.sunnxt.com/26572/640x360_3b657f25-1e0b-4386-bac1-55d4f9518fba.jpg" group-title="Music",Gemini Life
 http://us-e1.watchindia.net:8880/live/vvv/vvv/931.m3u8?token=TRINVkBbGwkUBltUUFIBW10MDAoACFcLBAJRBQkBClMEU1MFVQYIV1ASFRIXQxAGWVVmWlwSWAFVUkkVTRZcEWlZARUJEQAADggbHEZDCw5dGgMDFBISUQJBXxUKUwpXBgdUFR8RXEtCVUteBVs9B11OUFBdElhWEw8JGxoKVzxSVQhWXVcbCRQAGxxGXhETGgJXRlRcThoEChFFWRFcQQwSVAADBBsfFFNWRQpDEBoaAht6dhJOGgMbEVJWFlAMWBJfFV4ATAsUHBtZF2gQBktMS1ZZXQdKRFlHBxpJGw5XSDpUXF1XVlVEUF8KREBZGgsbHxpdDVYPFwpFZxVQBxQKRwUGBw0EBgEbTQ==
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="ETV ABHIRUCHI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/ETV_Abhiruchi.jpg" group-title="Life Style",ETV ABHIRUCHI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV ABHIRUCHI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/ETV_Abhiruchi.jpg" group-title="Life Style",ETV ABHIRUCHI
 http://satline.xyz:8080/1001663723110466003/4641663723110466/23044
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="ETV LIFE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Etv-life-log.png" group-title="Life Style",ETV LIFE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV LIFE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Etv-life-log.png" group-title="Life Style",ETV LIFE
 http://satline.xyz:8080/1001663723110466003/4641663723110466/23129
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="V6 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/V6_News.jpeg" group-title="News",V6 News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V6 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/V6_News.jpeg" group-title="News",V6 News
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/82968
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="ABN AndhraJyothy" tvg-logo="https://play-lh.googleusercontent.com/gb-ySurSCF7Ayiq1bavp40rtov1CgdRHYHcRz9-QR9l_cwykG_1NqLHBVHR_NVGACbA" group-title="News",ABN AndhraJyothy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABN AndhraJyothy" tvg-logo="https://play-lh.googleusercontent.com/gb-ySurSCF7Ayiq1bavp40rtov1CgdRHYHcRz9-QR9l_cwykG_1NqLHBVHR_NVGACbA" group-title="News",ABN AndhraJyothy
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/83043
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="TV9 Telugu" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-258/list/tv9telugu1170fde098a9ffec4332ab3114d3246e31d9.png" group-title="News",TV9 Telugu
-http://iamsomx.herokuapp.com/zee5.php?id=0-9-258
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="Sakshi TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sakshi.jpg" group-title="News",Sakshi TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 Telugu" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/(no tvg-id)/list/tv9telugu1170fde098a9ffec4332ab3114d3246e31d9.png" group-title="News",TV9 Telugu
+http://iamsomx.herokuapp.com/zee5.php?id=(no tvg-id)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sakshi TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sakshi.jpg" group-title="News",Sakshi TV
 http://us-e1.watchindia.net:8880/live/vvv/vvv/955.m3u8?token=TRINVkBbGwkUUlwGBgIAUl0BDANbA1NcBwZVAAoGCVpUVQNTBwoABFcSFRIXQxAGWVVmWlwSWAFTVkkVTRZcEWlZARUJEQAADggbHEZDCw5dGgMDFBISUQJBX1lNCVVPFFUdQ1ZBV1Jab11VEl4BBhoCV0ZUXE4aCQ06U10IWA1SEl8VAhEVEV9DSRJeWRcPVBQbUVFEEFkSBkcNVhBVDxoSBlhGXU1BTxIDEi15QE8aXUFHXV4RUQkNRw0aCAoWDhJJFVpAZkFTQ01CAVYPBkoaAxEIEk4aCwIdaFsKVw1TUxFeXF1KEQwSChJIFQ8MVlFNXEpvElECQV9ZTQlVHg==
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="10 TV" tvg-logo="https://10tv.in/wp-content/themes/10tv_v_2.0/images/logo.png" group-title="News",10 TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10 TV" tvg-logo="https://10tv.in/wp-content/themes/10tv_v_2.0/images/logo.png" group-title="News",10 TV
 http://us-e1.watchindia.net:8880/live/vvv/vvv/981.m3u8?token=TRINVkBbGwkUBwpUAAdTVV4IDQcIA1VZUlYHA1lWWwAOCQRSAQBcUgESFRIXQxAGWVVmWlwSWAFeUkkVTRZcEWlZARUJEQAADggbHEZDCw5dGgMDFBISUQJBXxUKXAxWAghVFR8RXEtCVUteBVs9B11OUFBdElhWEw8JGxoKVzxSVQhWXVcbCRQAGxxGXhETGgJXRlRcThoEChFFWRFcQQwSVA8HCxsfFFNWRQpDEBoaAht6dhJOGgMbEVJWFlAMWBJfFV4ATAsUHBtZF2gQBktMS1ZZXQdKRFlHBxpJGw5XSDpUXF1XVlVEUF8KREBZGgsbHxpdDVYPFwpFZxVQBxQKRwUGBwkABwAbTQ==
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="BHAKTI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Bhakthi_TV.jpeg" group-title="Bhakti",BHAKTI TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BHAKTI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Bhakthi_TV.jpeg" group-title="Bhakti",BHAKTI TV
 http://us-e1.watchindia.net:8880/live/vvv/vvv/977.m3u8?token=TRINVkBbGwkUVgsCXFNVB1sOXAIJU1tbA1oBVF0GDgdQAwFUAwRaAVMSFRIXQxAGWVVmWlwSWAFRVEkVTRZcEWlZARUJEQAADggbHEZDCw5dGgMDFBISUQJBXxUKXQhbDgNdFR8RXEtCVUteBVs9B11OUFBdElhWEw8JGxoKVzxSVQhWXVcbCRQAGxxGXhETGgJXRlRcThoEChFFWRFcQQwSXQ8EERURVV9MXhBFG0ECGnB9GhxAXR4XAFlLDFYNFApHWgBGAREaElBDO0UHEExKXFJVVRAaXEFVFRRHVAJObwZYXV1cUEJZVl4XFVhBCxoVEVVfDFESDBdoSAxdQQwSVwIHBw4EDhJE
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="Discovery HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD
 http://103.99.249.107:81/play/a00m
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="National Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png" group-title="Infotainment",National Geo Wild HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png" group-title="Infotainment",National Geo Wild HD
 http://103.99.249.107:81/play/a008
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="National Geo HD" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" group-title="Infotainment",National Geo HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geo HD" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" group-title="Infotainment",National Geo HD
 http://103.99.249.107:81/play/a00n
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="BBC Earth HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment",BBC Earth HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Earth HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment",BBC Earth HD
 http://103.99.249.107:81/play/a019
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="History TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png" group-title="Infotainment",History TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png" group-title="Infotainment",History TV HD
 http://103.99.249.107:81/play/a017
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="Star Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
-http://us-e1.watchindia.net:8880/live/vvv/vvv/2162.ts
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="Star Sports 1 HD 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD (HINDI)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD (HINDI)
+http://nv1connect.com:80/mriptv/yzrcmJNqGZ/83372
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
 http://us-e1.watchindia.net:8880/live/vvv/vvv/2186.m3u8?token=TRINVkBbGwkUBg8AUlUBUg4KWwoKUVMBA1IAVllcW1cPBwZVBFcPUQASFRIXQxAGWVVmWlwSWApXW1MbGhBKBkRvDFMRCRsKBQgBEkgVFgpVXRsJCBxASA8HRw0aVwFQAwJcBhEfG1ZORFxCClYOPFxdT1pbVUACCBYJWxRHVg1pVABaUl1dEQwSCRJIFQsQSBoDXU1cDhREAQxDSgRNBhQKRwYFAgERGhJaXxFZFhFBGgMRcX5AFEQGHUNdC0oKWV5HDRFeCkYOEhUSDUQ9EV1LTUFdUQ9dFEFfFQhHFUFbUR1oUFxXXVNTTVkLWRFBAhoKERQSD1cIChFYSjpJClISXxUBBg0HDgcAEhk=
-#EXTINF:-1 tvg-id="0-9-258" tvg-name="Star Sports 1 HD 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
 http://us-e1.watchindia.net:8880/live/vvv/vvv/2232.m3u8?token=TRINVkBbGwkUBgEIVFFaVV4MCgpZBlsMAwJcBghRWAIAVQFRBQVYUA8SFRIXQxAGWVVmWlwSWApUUFcbGhBKBkRvDFMRCRsKBQgBEkgVFgpVXRsJCBxASA8HRw0aVwBRAwRTABEfG1ZORFxCClYOPFxdT1pbVUACCBYJWxRHVg1pVABaUl1dEQwSCRJIFQsQSBoDXU1cDhREAQxDSgRNBhQKRwQBBw4RGhJaXxFZFhFBGgMRcX5AFEQGHUNdC0oKWV5HDRFeCkYOEhUSDUQ9EV1LTUFdUQ9dFEFfFQhHFUFbUR1oUFxXXVNTTVkLWRFBAhoKERQSD1cIChFYSjpJClISXxUBCwkEBgkKEhk=
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1 HD
+http://nv1connect.com:80/mriptv/yzrcmJNqGZ/83356
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HDNew_Masthead_Logo.png" group-title="Sports",Sony Ten 2 HD
+http://nv1connect.com:80/mriptv/yzrcmJNqGZ/83357
