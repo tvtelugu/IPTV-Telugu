@@ -14,7 +14,7 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51416
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="GEMINI COMEDY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Gemini_Comedy.jpg" group-title="Entertinment",GEMINI COMEDY
 http://us-e1.watchindia.net:8880/live/vvv/vvv/971.m3u8?token=TRINVkBbGwkUBgEIXQNUAAoLX1IPA1pZUVQEB15QXAJTUVQCUgABUVMSFRIXQxAGWVVmWlwSWAFRUkkVTRZcEWlZARUJEQAADggbHEZDCw5dGgMDFBISUQJBXxUKUwhUAAZXFR8RXEtCVUteBVs9B11OUFBdElhWEw8JGxoKVzxSVQhWXVcbCRQAGxxGXhETGgJXRlRcThoEChFFWRFcQQwSVAACAxsfFFNWRQpDEBoaAht6dhJOGgMbEVJWFlAMWBJfFV4ATAsUHBtZF2gQBktMS1ZZXQdKRFlHBxpJGw5XSDpUXF1XVlVEUF8KREBZGgsbHxpdDVYPFwpFZxVQBxQKRwUGBw0EAAQbTQ==
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="DD SAPTAGIRI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/DD_Saptagiri.jpg" group-title="Entertinment",DD SAPTAGIRI
-http://satline.xyz:8080/1001663723110466003/4641663723110466/23101
+http://us-e1.watchindia.net:8880/live/vvv/vvv/974.m3u8?token=TRINVkBbGwkUVQgFV1JaUAxaC1deBFFcAFtRBQEDDwcOAlwHUABdAlUSFRIXQxAGWVVmWlwSWAFRV0kVTRZcEWlZARUJEQAADggbHEZDCw5dGgMDFBISUQJBXxUKVwlbBAlcFR8RXEtCVUteBVs9B11OUFBdElhWEw8JGxoKVzxSVQhWXVcbCRQAGxxGXhETGgJXRlRcThoEChFFWRFcQQwSVA8KAxsfFFNWRQpDEBoaAht6dhJOGgMbEVJWFlAMWBJfFV4ATAsUHBtZF2gQBktMS1ZZXQdKRFlHBxpJGw5XSDpUXF1XVlVEUF8KREBZGgsbHxpdDVYPFwpFZxVQBxQKRwUGBw0EAQIbTQ==
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="Zee Cinemalu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinemalu/list/1170x6581642453232.png" group-title="Movies",Zee Cinemalu HD
 http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeecinemalu
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg" group-title="Movies",Gemini Movies HD
@@ -23,6 +23,8 @@ http://89.187.179.108:8080/GeminiMovies-telu/index.m3u8?token=test
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51415
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="ETV CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/ETV_Cinema.jpg" group-title="Movies",ETV CINEMA
 http://satline.xyz:8080/1001663723110466003/4641663723110466/23128
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="Telugu BOX Office" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/tbo.jpg" group-title="Movies",Telugu BOX Office
+http://us-e1.watchindia.net:8880/live/vvv/vvv/2155.m3u8?token=TRINVkBbGwkUVQ9UXQQHAAgLCwQOCAQOUlYEAQxQCVYPU1ADBVdbUQUSFRIXQxAGWVVmWlwSWApXVlAbGhBKBkRvDFMRCRsKBQgBEkgVFgpVXRsJCBxASA8HRw0aVwxXDwRUDhEfG1ZORFxCClYOPFxdT1pbVUACCBYJWxRHVg1pVABaUl1dEQwSCRJIFQsQSBoDXU1cDhREAQxDSgRNBhQKRwULBQ0RGhJaXxFZFhFBGgMRcX5AFEQGHUNdC0oKWV5HDRFeCkYOEhUSDUQ9EV1LTUFdUQ9dFEFfFQhHFUFbUR1oUFxXXVNTTVkLWRFBAhoKERQSD1cIChFYSjpJClISXxUBAg8BAQQJEhk=
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="Gemini Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Gemini_Music.jpg" group-title="Music",Gemini Music
 http://us-e1.watchindia.net:8880/live/vvv/vvv/929.m3u8?token=TRINVkBbGwkUVQsJVAJWVltcWwBZB1cLX1RVAQpdAAIHBVVVAAcIClISFRIXQxAGWVVmWlwSWAFUWkkVTRZcEWlZARUJEQAADggbHEZDCw5dGgMDFBISUQJBXxUJUw5aBgRVFR8RXEtCVUteBVs9B11OUFBdElhWEw8JGxoKVzxSVQhWXVcbCRQAGxxGXhETGgJXRlRcThoEChFFWRFcQQwSUAMLBxsfFFNWRQpDEBoaAht6dhJOGgMbEVJWFlAMWBJfFV4ATAsUHBtZF2gQBktMS1ZZXQdKRFlHBxpJGw5XSDpUXF1XVlVEUF8KREBZGgsbHxpdDVYPFwpFZxVQBxQKRwUGBw0FDgYbTQ==
 #EXTINF:-1 tvg-id="0-9-258" tvg-name="Gemini Life" tvg-logo="https://sund-images.sunnxt.com/26572/640x360_3b657f25-1e0b-4386-bac1-55d4f9518fba.jpg" group-title="Music",Gemini Life
