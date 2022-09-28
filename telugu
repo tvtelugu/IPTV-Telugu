@@ -19,6 +19,8 @@ http://us-e1.watchindia.net:8880/live/vvv/vvv/971.m3u8?token=TRINVkBbGwkUBgEIXQN
 http://lb.watchindia.net:8880/live/vvv/vvv/937.m3u8?token=TRINVkBbGwkUBQ8IB1QDUQ0OAQZZVFFdUgEHAFxXXFMCUQZWVVZbUVASFRIXQxAGWVVmWlwSWAFVVEkVTRZcEWlZARUJEQAADggbHEZDCw5dGgMDFBISUQJBXxUKUQhaARJJFVZLTVZEXlhcO1MHFVFbXBECXhdUCk9HWFY6XQZbUQtTEQkbAxQcG1kXR0BZVk1VXxQSAFESEQRDXUcDQQ8DVRUfEVpcQ15NQh0VWEFxdhsfGlUaTAMNFl5XCxtZFF1WQgsRFRFfQ2ZCAUQWEV1ZVFZKElgaVkFJFVUEQTxVXwtZVlBNWlleShJeFVFBFBpUXFZZFlcUPBVeXEcDQQQFVQ8KEUQ=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD SAPTAGIRI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/DD_Saptagiri.jpg" group-title="Entertinment",DD SAPTAGIRI
 http://us-e1.watchindia.net:8880/live/vvv/vvv/974.m3u8?token=TRINVkBbGwkUVQgFV1JaUAxaC1deBFFcAFtRBQEDDwcOAlwHUABdAlUSFRIXQxAGWVVmWlwSWAFRV0kVTRZcEWlZARUJEQAADggbHEZDCw5dGgMDFBISUQJBXxUKVwlbBAlcFR8RXEtCVUteBVs9B11OUFBdElhWEw8JGxoKVzxSVQhWXVcbCRQAGxxGXhETGgJXRlRcThoEChFFWRFcQQwSVA8KAxsfFFNWRQpDEBoaAht6dhJOGgMbEVJWFlAMWBJfFV4ATAsUHBtZF2gQBktMS1ZZXQdKRFlHBxpJGw5XSDpUXF1XVlVEUF8KREBZGgsbHxpdDVYPFwpFZxVQBxQKRwUGBw0EAQIbTQ==
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD YADHAGIRI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/DD_Yadagiri.png" group-title="Entertinment",DD YADHAGIRI
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668114
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinemalu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinemalu/list/1170x6581642453232.png" group-title="Movies",Zee Cinemalu HD
 http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeecinemalu
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg" group-title="Movies",Gemini Movies HD
@@ -43,8 +45,8 @@ http://satline.xyz:8080/1001663723110466003/4641663723110466/23129
 http://nv1connect.com:80/mriptv/yzrcmJNqGZ/83455
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABN AndhraJyothy" tvg-logo="https://play-lh.googleusercontent.com/gb-ySurSCF7Ayiq1bavp40rtov1CgdRHYHcRz9-QR9l_cwykG_1NqLHBVHR_NVGACbA" group-title="News",ABN AndhraJyothy
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/83043
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 Telugu" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/(no tvg-id)/list/tv9telugu1170fde098a9ffec4332ab3114d3246e31d9.png" group-title="News",TV9 Telugu
-http://iamsomx.herokuapp.com/zee5.php?id=(no tvg-id)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 Telugu" tvg-logo="https://play-lh.googleusercontent.com/cJXp31QTNkMkykn7LEFluK_WzOjrk_67t_XfvYkH0EpFb6W8hVjc5yyaGZ_FU51c3w" group-title="News",TV9 Telugu
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668148
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sakshi TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sakshi.jpg" group-title="News",Sakshi TV
 http://nv1connect.com:80/mriptv/yzrcmJNqGZ/83451
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10 TV" tvg-logo="https://10tv.in/wp-content/themes/10tv_v_2.0/images/logo.png" group-title="News",10 TV
