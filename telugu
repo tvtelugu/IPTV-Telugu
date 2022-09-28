@@ -61,12 +61,12 @@ http://103.99.249.107:81/play/a00n
 http://103.99.249.107:81/play/a019
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png" group-title="Infotainment",History TV HD
 http://103.99.249.107:81/play/a017
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
+http://103.162.136.235:4500/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg" group-title="Sports",Star Sports 2 HD
+http://103.162.136.235:4500/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD (HINDI)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD (HINDI)
-http://nv1connect.com:80/mriptv/yzrcmJNqGZ/83372
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
-http://us-e1.watchindia.net:8880/live/vvv/vvv/2186.m3u8?token=TRINVkBbGwkUBg8AUlUBUg4KWwoKUVMBA1IAVllcW1cPBwZVBFcPUQASFRIXQxAGWVVmWlwSWApXW1MbGhBKBkRvDFMRCRsKBQgBEkgVFgpVXRsJCBxASA8HRw0aVwFQAwJcBhEfG1ZORFxCClYOPFxdT1pbVUACCBYJWxRHVg1pVABaUl1dEQwSCRJIFQsQSBoDXU1cDhREAQxDSgRNBhQKRwYFAgERGhJaXxFZFhFBGgMRcX5AFEQGHUNdC0oKWV5HDRFeCkYOEhUSDUQ9EV1LTUFdUQ9dFEFfFQhHFUFbUR1oUFxXXVNTTVkLWRFBAhoKERQSD1cIChFYSjpJClISXxUBBg0HDgcAEhk=
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 2 HD
-http://us-e1.watchindia.net:8880/live/vvv/vvv/2232.m3u8?token=TRINVkBbGwkUBgEIVFFaVV4MCgpZBlsMAwJcBghRWAIAVQFRBQVYUA8SFRIXQxAGWVVmWlwSWApUUFcbGhBKBkRvDFMRCRsKBQgBEkgVFgpVXRsJCBxASA8HRw0aVwBRAwRTABEfG1ZORFxCClYOPFxdT1pbVUACCBYJWxRHVg1pVABaUl1dEQwSCRJIFQsQSBoDXU1cDhREAQxDSgRNBhQKRwQBBw4RGhJaXxFZFhFBGgMRcX5AFEQGHUNdC0oKWV5HDRFeCkYOEhUSDUQ9EV1LTUFdUQ9dFEFfFQhHFUFbUR1oUFxXXVNTTVkLWRFBAhoKERQSD1cIChFYSjpJClISXxUBCwkEBgkKEhk=
+http://103.162.136.235:4500/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1 HD
 http://nv1connect.com:80/mriptv/yzrcmJNqGZ/83356
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HDNew_Masthead_Logo.png" group-title="Sports",Sony Ten 2 HD
