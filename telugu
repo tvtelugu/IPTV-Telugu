@@ -29,6 +29,8 @@ http://89.187.179.108:8080/GeminiMovies-telu/index.m3u8?token=test
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51415
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/ETV_Cinema.jpg" group-title="Movies",ETV CINEMA
 http://satline.xyz:8080/1001663723110466003/4641663723110466/23128
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rasi Telugu HD" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="Movies",Rasi Telugu HD
+rtmp://singamcloud.in:1935/rasinetwork/rasitelugu
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telugu BOX Office" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/tbo.jpg" group-title="Movies",Telugu BOX Office
 http://us-e1.watchindia.net:8880/live/vvv/vvv/2155.m3u8?token=TRINVkBbGwkUVQ9UXQQHAAgLCwQOCAQOUlYEAQxQCVYPU1ADBVdbUQUSFRIXQxAGWVVmWlwSWApXVlAbGhBKBkRvDFMRCRsKBQgBEkgVFgpVXRsJCBxASA8HRw0aVwxXDwRUDhEfG1ZORFxCClYOPFxdT1pbVUACCBYJWxRHVg1pVABaUl1dEQwSCRJIFQsQSBoDXU1cDhREAQxDSgRNBhQKRwULBQ0RGhJaXxFZFhFBGgMRcX5AFEQGHUNdC0oKWV5HDRFeCkYOEhUSDUQ9EV1LTUFdUQ9dFEFfFQhHFUFbUR1oUFxXXVNTTVkLWRFBAhoKERQSD1cIChFYSjpJClISXxUBAg8BAQQJEhk=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Gemini_Music.jpg" group-title="Music",Gemini Music
