@@ -1,5 +1,5 @@
 EXTM3U url-tvg="https://epg.it999.ru/epg.xml"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPTV Telugu" tvg-logo="https://cdn5.telegram-cdn.org/file/bK8ZADzHVb1hIe6DhQ3v65YrkuqLwl5iIL21dvnqMLKsB5hopmS3jilkbD0dIYTE7Ix-dQHMIam2iCzqmSkxOrz_D66B5Zcm86b62nDZ9zkCW4VoPxrH58w71ziyZrrZ32dNcAg2aPFDIqu8rs8FFNl_d0_zo03CptDdGVgIcNlkbdGcSX8iNk4-WVgtZayeiLEa3U0mogDSgmMRrOzB0QaFERlvM1Vbsax_G8Yw9zMCaQn4oDI4kkIOjnvzb-9iJIfbpssBxSKy4lZNsrMCawxRpNgv-cKacETIbKLkpp2YMgIX3eVUV-veeYmBgSe8QAgDJoq-1O0RFCTNfH-Dlg.jpg" group-title="Join At",IPTV Telugu
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPTV Telugu" tvg-logo="https://i.postimg.cc/nLPn9KQz/IMG-20220929-232230-181.jpg",IPTV Telugu
 https://github.com/madhukar7322/IPTV-Telugu/blob/main/iptv-telugu.ts?raw=true 
 #EXTINF:-1,SONY SET HD
 https://bit.ly/3fKTNU8seTHd
