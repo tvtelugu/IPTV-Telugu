@@ -55,6 +55,20 @@ http://nv1connect.com:80/mriptv/yzrcmJNqGZ/83451
 http://us-e1.watchindia.net:8880/live/vvv/vvv/981.m3u8?token=TRINVkBbGwkUBwpUAAdTVV4IDQcIA1VZUlYHA1lWWwAOCQRSAQBcUgESFRIXQxAGWVVmWlwSWAFeUkkVTRZcEWlZARUJEQAADggbHEZDCw5dGgMDFBISUQJBXxUKXAxWAghVFR8RXEtCVUteBVs9B11OUFBdElhWEw8JGxoKVzxSVQhWXVcbCRQAGxxGXhETGgJXRlRcThoEChFFWRFcQQwSVA8HCxsfFFNWRQpDEBoaAht6dhJOGgMbEVJWFlAMWBJfFV4ATAsUHBtZF2gQBktMS1ZZXQdKRFlHBxpJGw5XSDpUXF1XVlVEUF8KREBZGgsbHxpdDVYPFwpFZxVQBxQKRwUGBwkABwAbTQ==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BHAKTI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Bhakthi_TV.jpeg" group-title="Bhakti",BHAKTI TV
 http://satline.xyz:8080/1001663723110466003/4641663723110466/23044
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YUPPTV VEDA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/bnw/veda_white.png" group-title="Bhakti",YUPPTV VEDA
+http://pprotv.com:80/fahad70/fahad70/166738
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OM CVR" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/cvr-om-tv-channel-logo.jpg" group-title="Bhakti",OM CVR
+http://pprotv.com:80/fahad70/fahad70/166749
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hindu Dharmam" tvg-logo="https://www.seekpng.com/png/full/270-2704408_hindu-dharamam-hindu-dharmam-telugu-monthly-magazine.png" group-title="Bhakti",Hindu Dharmam
+http://pprotv.com:80/fahad70/fahad70/166752
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hindu Dharmam" tvg-logo="https://www.seekpng.com/png/full/270-2704408_hindu-dharamam-hindu-dharmam-telugu-monthly-magazine.png" group-title="Bhakti",Hindu Dharmam
+http://pprotv.com:80/fahad70/fahad70/166938
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Yay " tvg-logo="https://files.thehandbook.com/uploads/2021/04/aauvwnioqqqsc-rxdwpsynulkf3m5xzow6bjoqne0bncs800-c-k-c0x00ffffff-no-rj.jpg" group-title="KIDS",Sony YAY
+http://pprotv.com:80/fahad70/fahad70/166385
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NICK " tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/nick-logo.jpg" group-title="KIDS",NICK
+http://pprotv.com:80/fahad70/fahad70/166526
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CN HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cartoon_Network_HD%2B_India_logo.png/250px-Cartoon_Network_HD%2B_India_logo.png" group-title="KIDS",CN HD+
+http://pprotv.com:80/fahad70/fahad70/166539
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD
 http://103.99.249.107:81/play/a00m
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png" group-title="Infotainment",National Geo Wild HD
