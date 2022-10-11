@@ -10,7 +10,7 @@ https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=ETV_Telugu&q=800&e=.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa HD" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Maa-HD-Logo.jpg" group-title="Entertinment",Star Maa HD
 http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Tv HD" tvg-logo="https://sund-images.sunnxt.com/14019/640x360_GeminiTVHD_14019_39de8ab6-03bb-4eeb-9d93-558c8afe8dcc.jpg" group-title="Entertinment",Gemini Tv HD
-http://89.187.179.108:8080/GEMINITVHD/LOCAL/TEL/tracks-v1a1/mono.m3u8?token=test
+http://103.147.87.13:8000/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Tv" tvg-logo="https://sund-images.sunnxt.com/9017/640x360_687e2f04-72ec-4fb6-8856-e3b33d26aff4.jpg" group-title="Entertinment",Gemini Tv
 http://pprotv.com:80/fahad70/fahad70/61084
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Gold" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Star_Maa_Gold_2019_logo.jpg" group-title="Entertinment",Star Maa Gold
