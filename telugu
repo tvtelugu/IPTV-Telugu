@@ -38,17 +38,13 @@ https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=ETV_Cinema&q=800&e=.
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rasi Telugu HD" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="Movies",Rasi Telugu HD
 rtmp://singamcloud.in:1935/rasinetwork/rasitelugu
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telugu BOX Office" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/tbo.jpg" group-title="Movies",Telugu BOX Office
-http://pprotv.com:80/fahad70/fahad70/61097
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telugu BOX Office" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/tbo.jpg" group-title="Movies",Telugu BOX Office
-http://pprotv.com:80/fahad70/fahad70/166736
+http://watchindia.net:8880/live/vvv/vvv/2155.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Music HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Gemini_Music.jpg" group-title="Music",Gemini Music HD
-http://pprotv.com:80/fahad70/fahad70/61086
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Music HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Gemini_Music.jpg" group-title="Music",Gemini Music HD
-http://pprotv.com:80/fahad70/fahad70/166725
+http://watchindia.net:8880/live/vvv/vvv/929.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Star_Maa_Music_2020.jpg" group-title="Music",Star Maa Music
-http://pprotv.com:80/fahad70/fahad70/166730
+http://watchindia.net:8880/live/vvv/vvv/2192.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Life" tvg-logo="https://sund-images.sunnxt.com/26572/640x360_3b657f25-1e0b-4386-bac1-55d4f9518fba.jpg" group-title="Music",Gemini Life
-http://pprotv.com:80/fahad70/fahad70/166727
+http://watchindia.net:8880/live/vvv/vvv/931.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV ABHIRUCHI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/ETV_Abhiruchi.jpg" group-title="Life Style",ETV ABHIRUCHI
 https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=ETV_Abhiruchi&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV LIFE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Etv-life-log.png" group-title="Life Style",ETV LIFE
