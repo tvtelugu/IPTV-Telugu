@@ -4,7 +4,7 @@ https://github.com/madhukar7322/IPTV-Telugu/blob/main/iptv-telugu.ts?raw=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Telugu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetelugu/list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-title="Entertinment",Zee Telugu HD
 http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeetelugu
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/ETV_HD.png" group-title="Entertinment",ETV HD
-http://89.187.179.108:8080/ETVHD/LOCAL/TEL/tracks-v1a1/mono.m3u8?token=test
+http://appleiptv.com:80/3902/3902/146754
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV" tvg-logo="http://cdn.etv.co.in/1415851948447_wt_home" group-title="Entertinment",ETV
 https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=ETV_Telugu&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa HD" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Maa-HD-Logo.jpg" group-title="Entertinment",Star Maa HD
