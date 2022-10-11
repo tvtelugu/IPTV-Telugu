@@ -26,7 +26,7 @@ https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=DD_Saptagiri&q=800&e
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD YADHAGIRI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/DD_Yadagiri.png" group-title="Entertinment",DD YADHAGIRI
 https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668114
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu
-https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=Zee_Cinemalu&q=800&e=.m3u8
+http://watchindia.net:8880/live/vvv/vvv/941.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinemalu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinemalu/list/1170x6581642453232.png" group-title="Movies",Zee Cinemalu HD
 http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeecinemalu
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg" group-title="Movies",Gemini Movies HD
@@ -50,7 +50,7 @@ https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=ETV_Abhiruchi&q=800&
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV LIFE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Etv-life-log.png" group-title="Life Style",ETV LIFE
 https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=ETV_Life&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V6 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/V6_News.jpeg" group-title="News",V6 News
-https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=V6_News&q=800&e=.m3u8
+http://watchindia.net:8880/live/vvv/vvv/943.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T News" tvg-logo="https://play-lh.googleusercontent.com/8eDvXLBqF5llVR6bATb3H1n8XmET8AT19ue2RTt2Uwove2_5kk_m-aXXhmFStokEaHIE" group-title="News",T News
 https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=T_News&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Andhra Pradesh" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_XAa0n__jv2j2EgOhhQZfpFl4AtqkLUVs_duK8YQ" group-title="News",ETV Andhra Pradesh
