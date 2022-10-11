@@ -14,7 +14,7 @@ http://103.147.87.13:8000/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Tv" tvg-logo="https://sund-images.sunnxt.com/9017/640x360_687e2f04-72ec-4fb6-8856-e3b33d26aff4.jpg" group-title="Entertinment",Gemini Tv
 http://pprotv.com:80/fahad70/fahad70/61084
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Gold" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Star_Maa_Gold_2019_logo.jpg" group-title="Entertinment",Star Maa Gold
-http://pprotv.com:80/fahad70/fahad70/166731
+http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI COMEDY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Gemini_Comedy.jpg" group-title="Entertinment",GEMINI COMEDY
 http://50.7.237.4:8080/GEMINICOMEDY/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Plus" tvg-logo="https://etv-win-image.akamaized.net/etvwin/channels/channel/43786/etv-plus-320x240.png" group-title="Entertinment",ETV Plus
