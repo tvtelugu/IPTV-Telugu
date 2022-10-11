@@ -4,19 +4,19 @@ https://github.com/madhukar7322/IPTV-Telugu/blob/main/iptv-telugu.ts?raw=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Telugu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetelugu/list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-title="Entertinment",Zee Telugu HD
 http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeetelugu
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/ETV_HD.png" group-title="Entertinment",ETV HD
-http://pprotv.com:80/fahad70/fahad70/61122
+http://89.187.179.108:8080/ETVHD/LOCAL/TEL/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV" tvg-logo="http://cdn.etv.co.in/1415851948447_wt_home" group-title="Entertinment",ETV
 http://pprotv.com:80/fahad70/fahad70/166756
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa HD" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Maa-HD-Logo.jpg" group-title="Entertinment",Star Maa HD
-http://pprotv.com:80/fahad70/fahad70/61089
+http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Tv HD" tvg-logo="https://sund-images.sunnxt.com/14019/640x360_GeminiTVHD_14019_39de8ab6-03bb-4eeb-9d93-558c8afe8dcc.jpg" group-title="Entertinment",Gemini Tv HD
-http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76779
+http://89.187.179.108:8080/GEMINITVHD/LOCAL/TEL/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Tv" tvg-logo="https://sund-images.sunnxt.com/9017/640x360_687e2f04-72ec-4fb6-8856-e3b33d26aff4.jpg" group-title="Entertinment",Gemini Tv
 http://pprotv.com:80/fahad70/fahad70/61084
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Gold" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Star_Maa_Gold_2019_logo.jpg" group-title="Entertinment",Star Maa Gold
 http://pprotv.com:80/fahad70/fahad70/166731
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI COMEDY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Gemini_Comedy.jpg" group-title="Entertinment",GEMINI COMEDY
-http://pprotv.com:80/fahad70/fahad70/61087
+http://50.7.237.4:8080/GEMINICOMEDY/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Plus" tvg-logo="https://etv-win-image.akamaized.net/etvwin/channels/channel/43786/etv-plus-320x240.png" group-title="Entertinment",ETV Plus
 http://pprotv.com:80/fahad70/fahad70/61094
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD SAPTAGIRI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/DD_Saptagiri.jpg" group-title="Entertinment",DD SAPTAGIRI
@@ -28,7 +28,7 @@ http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeecinemalu
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg" group-title="Movies",Gemini Movies HD
 http://89.187.179.108:8080/GeminiMovies-telu/index.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg" group-title="Movies",Star Maa Movies
-http://pprotv.com:80/fahad70/fahad70/166729
+http://89.187.179.108:8080/MaaMovies-telu/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/ETV_Cinema.jpg" group-title="Movies",ETV CINEMA
 http://satline.xyz:8080/1001663723110466003/4641663723110466/23128
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rasi Telugu HD" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="Movies",Rasi Telugu HD
