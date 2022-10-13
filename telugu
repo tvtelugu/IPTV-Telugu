@@ -11,8 +11,6 @@ https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=ETV_Telugu&q=800&e=.
 http://watchindia.net:8880/live/vvv/vvv/933.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Tv HD" tvg-logo="https://sund-images.sunnxt.com/14019/640x360_GeminiTVHD_14019_39de8ab6-03bb-4eeb-9d93-558c8afe8dcc.jpg" group-title="Entertinment",Gemini Tv HD
 http://watchindia.net:8880/live/vvv/vvv/928.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Tv" tvg-logo="https://sund-images.sunnxt.com/9017/640x360_687e2f04-72ec-4fb6-8856-e3b33d26aff4.jpg" group-title="Entertinment",Gemini Tv
-http://hwdata.xyz:80/btinternal@/5616061093/105459
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Gold" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Star_Maa_Gold_2019_logo.jpg" group-title="Entertinment",Star Maa Gold
 http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI COMEDY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Gemini_Comedy.jpg" group-title="Entertinment",GEMINI COMEDY
@@ -28,7 +26,7 @@ https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668114
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinemalu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinemalu/list/1170x6581642453232.png" group-title="Movies",Zee Cinemalu HD
 http://watchindia.net:8880/live/vvv/vvv/941.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg" group-title="Movies",Gemini Movies HD
-http://89.187.179.108:8080/GeminiMovies-telu/index.m3u8?token=test
+http://watchindia.net:8880/live/vvv/vvv/930.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg" group-title="Movies",Star Maa Movies
 http://89.187.179.108:8080/MaaMovies-telu/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/ETV_Cinema.jpg" group-title="Movies",ETV CINEMA
@@ -107,14 +105,12 @@ http://103.99.249.107:81/play/a019
 http://103.99.249.107:81/play/a017
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jio Cricket Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png" group-title="Sports",Jio Cricket Telugu
 https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=Jio_Cricket_Telugu&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jio Football Telugu" tvg-logo="https://sbhplecdnems06.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="Sports",Jio Football Telugu
-http://pprotv.com:80/fahad70/fahad70/61307
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony TEN 4" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="Sports",Sony TEN 4
 http://pprotv.com:80/fahad70/fahad70/167011
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
-http://103.162.136.235:4500/play/a015/index.m3u8
+http://watchindia.net:8880/live/vvv/vvv/808.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg" group-title="Sports",Star Sports 2 HD
-http://103.162.136.235:4500/play/a016/index.m3u8
+http://watchindia.net:8880/live/vvv/vvv/2162.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD (HINDI)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD (HINDI)
 http://103.162.136.235:4500/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1 HD
