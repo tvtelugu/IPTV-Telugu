@@ -29,8 +29,8 @@ https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668114
 http://watchindia.net:8880/live/vvv/vvv/941.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu
 https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=Zee_Cinemalu&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Movies" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg" group-title="Movies",Gemini Movies HD
-https://suntvlive.akamaized.net/hls/live/2093462/GeminiMoviesHD/master.m3u8?hdnea=st=1665982184~exp=1665982484~acl=!*/2093462/GeminiMoviesHD/*~hmac=d722d37c7b453c0bafaab05a337de85e9248e4927af75de649846cadf5815a6c&PlayBackId=2371528880&cid=26570&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg" group-title="Movies",Gemini Movies HD
+https://suntvlive.akamaized.net/hls/live/2093462/GeminiMoviesHD/master.m3u8?hdnea=st=1665982458~exp=1665982758~acl=!*/2093462/GeminiMoviesHD/*~hmac=61d185355670a4565a6d602cb41283b5573bf13bd56fef282700b2350265c667&PlayBackId=2371528880&cid=26570&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg" group-title="Movies",Star Maa Movies
 http://89.187.179.108:8080/MaaMovies-telu/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV CINEMA" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="Movies",ETV CINEMA
