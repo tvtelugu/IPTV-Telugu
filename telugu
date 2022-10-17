@@ -4,7 +4,7 @@ https://github.com/madhukar7322/IPTV-Telugu/blob/main/iptv-telugu.ts?raw=true
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Telugu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetelugu/list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-title="Entertinment",Zee Telugu HD 
 https://z5ak-live.zee5.com/out/v1/95ba4533288e40a997c2b378f6b5c3b9/index.m3u8?hdnts=st=1665983224~exp=1665986224~acl=/out/v1/95ba4533288e40a997c2b378f6b5c3b9/index.m3u8*~hmac=6b2da0b0efea0789823d1f3324ff8f1a45b11034414252995a18e72373ac439c
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Entertinment",Zee Telugu
-https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=Zee_Telugu&q=800&e=.m3u8
+https://jio.dooflix.in/live.php?c=Zee_Telugu&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/ETV_HD.png" group-title="Entertinment",ETV HD
 http://watchindia.net:8880/live/vvv/vvv/936.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV" tvg-logo="http://cdn.etv.co.in/1415851948447_wt_home" group-title="Entertinment",ETV 
@@ -28,7 +28,7 @@ https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668114
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinemalu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinemalu/list/1170x6581642453232.png" group-title="Movies",Zee Cinemalu HD
 https://z5ak-live.zee5.com/out/v1/ed1f9e619ad44d82a70d6e25b027c809/index.m3u8?hdnts=st=1665983568~exp=1665986568~acl=/out/v1/ed1f9e619ad44d82a70d6e25b027c809/index.m3u8*~hmac=6656e3c507376ae53ccc8b6663924e743fe17d07cd30e58ed5e175023e7b47f7
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu
-https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=Zee_Cinemalu&q=800&e=.m3u8
+https://jio.dooflix.in/live.php?c=Zee_Cinemalu&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg" group-title="Movies",Gemini Movies HD
 https://suntvlive.akamaized.net/hls/live/2093462/GeminiMoviesHD/master.m3u8?hdnea=st=1665982458~exp=1665982758~acl=!*/2093462/GeminiMoviesHD/*~hmac=61d185355670a4565a6d602cb41283b5573bf13bd56fef282700b2350265c667&PlayBackId=2371528880&cid=26570&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg" group-title="Movies",Star Maa Movies
@@ -70,7 +70,7 @@ https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=ETV_Telangana&q=800&
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABN Andhra Jyothy" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN AndhraJyothy
 https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=ABN_Andhra_Jyothi&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 Telugu" tvg-logo="https://play-lh.googleusercontent.com/cJXp31QTNkMkykn7LEFluK_WzOjrk_67t_XfvYkH0EpFb6W8hVjc5yyaGZ_FU51c3w" group-title="News",TV9 Telugu
-https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=TV9_Telugu_News&q=800&e=.m3u8
+https://jio.dooflix.in/live.php?c=TV9_Telugu_News&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sakshi TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sakshi.jpg" group-title="News",Sakshi TV
 https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=Sakshi_tv&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10 TV" tvg-logo="https://10tv.in/wp-content/themes/10tv_v_2.0/images/logo.png" group-title="News",10 TV
