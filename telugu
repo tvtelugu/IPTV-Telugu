@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPTV Telugu" tvg-logo="https://i.postimg.cc/PfSfj5xm/photo-2022-10-14-14-15-53.jpg" group-title="Join At",IPTV Telugu
 https://github.com/madhukar7322/IPTV-Telugu/blob/main/iptv-telugu.ts?raw=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Telugu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetelugu/list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-title="Entertinment",Zee Telugu HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Telugu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetelugu/list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-title="Entertinment",Zee Telugu HD 
 https://z5ak-live.zee5.com/out/v1/95ba4533288e40a997c2b378f6b5c3b9/index.m3u8?hdnts=st=1665983224~exp=1665986224~acl=/out/v1/95ba4533288e40a997c2b378f6b5c3b9/index.m3u8*~hmac=6b2da0b0efea0789823d1f3324ff8f1a45b11034414252995a18e72373ac439c
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Entertinment",Zee Telugu
 https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=Zee_Telugu&q=800&e=.m3u8
