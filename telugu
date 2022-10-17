@@ -55,8 +55,6 @@ https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=ETV_Abhiruchi&q=800&
 https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=ETV_Life&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aastha Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Life Style",Aastha Telugu
 https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=Aastha_Telugu&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aastha Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Life Style",Aastha Telugu
-https://jiotv.techiesneh.tk/live.php?c=Aastha_Telugu&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CVR Health" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png" group-title="Life Style",CVR Health
 https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=CVR_Health&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vanitha" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title="Life Style",Vanitha
