@@ -7,7 +7,7 @@ https://z5ak-live.zee5.com/out/v1/95ba4533288e40a997c2b378f6b5c3b9/index.m3u8?hd
 https://jio.dooflix.in/live.php?c=Zee_Telugu&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/ETV_HD.png" group-title="Entertinment",ETV HD
 https://jio.dooflix.in/live.php?c=ETV_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV" tvg-logo="http://cdn.etv.co.in/1415851948447_wt_home" group-title="Entertinment",ETV 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Telugu" tvg-logo="http://cdn.etv.co.in/1415851948447_wt_home" group-title="Entertinment",ETV
 https://jio.dooflix.in/live.php?c=ETV_Telugu&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="Entertinment",Star Maa HD
 http://watchindia.net:8880/live/vvv/vvv/933.ts
