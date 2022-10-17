@@ -17,7 +17,7 @@ https://suntvlive.akamaized.net/hls/live/2093460/GeminiTVHD/master.m3u8?hdnea=st
 http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI COMEDY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Gemini_Comedy.jpg" group-title="Entertinment",GEMINI COMEDY
 http://50.7.237.4:8080/GEMINICOMEDY/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="Entertinment",ETV Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="Entertinment",ETV Plus 
 https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=ETV_Plus&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vissa TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" group-title="Entertinment",Vissa TV
 https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=Vissa_TV&q=800&e=.m3u8
