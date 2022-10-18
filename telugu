@@ -10,7 +10,7 @@ https://jiotv.hadinetbd.tech/jio/v1/ETV_HD/ETV_HD/ETV_HD.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="Entertinment",ETV SD
 https://jiotv.hadinetbd.tech/jio/v1/ETV_Telugu/ETV_Telugu/ETV_Telugu.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="Entertinment",Star Maa HD
-http://watchindia.net:8880/live/vvv/vvv/933.ts
+http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Tv HD" tvg-logo="https://sund-images.sunnxt.com/14019/640x360_GeminiTVHD_14019_39de8ab6-03bb-4eeb-9d93-558c8afe8dcc.jpg" group-title="Entertinment",Gemini Tv HD
 http://premium.video-flixtv.com:8080/9999/9999/4505
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Gold" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png" group-title="Entertinment",Star Maa Gold
@@ -46,7 +46,7 @@ https://jiotv.hadinetbd.tech/jio/v1/Studio_One/Studio_One/Studio_One.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Music HD" tvg-logo="https://sund-images.sunnxt.com/26568/300x300_eaa4e437-cce0-4411-8e46-13640be94c55.jpgg" group-title="Music",Gemini Music HD
 https://suntvlive.akamaized.net/hls/live/2093464/GeminiMusicHD/master.m3u8?hdnea=st=1665981946~exp=1665982246~acl=!*/2093464/GeminiMusicHD/*~hmac=441406dd92e5d6d1c0cafb85ec71b0932bcea50f74390c4bc8f3e699bc3c4bc8&PlayBackId=2371528880&cid=26568&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Star_Maa_Music_2020.jpg" group-title="Music",Star Maa Music
-http://watchindia.net:8880/live/vvv/vvv/2192.ts
+http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Music Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="Music",Raj Music Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Raj_Music_Telugu/Raj_Music_Telugu/Raj_Music_Telugu.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Life" tvg-logo="https://sund-images.sunnxt.com/26572/640x360_3b657f25-1e0b-4386-bac1-55d4f9518fba.jpg" group-title="Music",Gemini Life
