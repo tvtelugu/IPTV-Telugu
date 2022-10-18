@@ -30,9 +30,9 @@ https://z5ak-live.zee5.com/out/v1/ed1f9e619ad44d82a70d6e25b027c809/index.m3u8?hd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu
 https://jiotv.hadinetbd.tech/jio/v1/Zee_Cinemalu/Zee_Cinemalu/Zee_Cinemalu.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg" group-title="Movies",Gemini Movies HD
-https://suntvlive.akamaized.net/hls/live/2093462/GeminiMoviesHD/master.m3u8?hdnea=st=1665982458~exp=1665982758~acl=!*/2093462/GeminiMoviesHD/*~hmac=61d185355670a4565a6d602cb41283b5573bf13bd56fef282700b2350265c667&PlayBackId=2371528880&cid=26570&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
+http://89.187.179.108:8080/GeminiMovies-telu/index.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Movies" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Movies",Star Maa Movies
-http://89.187.179.108:8080/MaaMovies-telu/tracks-v1a1/mono.m3u8?token=test
+http://89.187.179.108:8080/MaaMovies-telu/index.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="Movies",ETV Cinema
 https://jiotv.hadinetbd.tech/jio/v1/ETV_Cinema/ETV_Cinema/ETV_Cinema.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rasi Telugu" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="Movies",Rasi Telugu HD
