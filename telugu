@@ -70,7 +70,7 @@ https://jio.dooflix.in/live.php?c=ETV_Andhra_pradesh&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Telangana" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="News",ETV Telangana
 https://jio.dooflix.in/live.php?c=ETV_Telangana&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABN Andhra Jyothi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
-https://jio.dooflix.in/live.php?c=ABN_Andhra_Jyothi&q=1200&e=junk.m3u8
+https://jiotv.hadinetbd.tech/jio/v1/ABN_Andhra_Jyothi/ABN_Andhra_Jyothi/ABN_Andhra_Jyothi.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 Telugu" tvg-logo="https://play-lh.googleusercontent.com/cJXp31QTNkMkykn7LEFluK_WzOjrk_67t_XfvYkH0EpFb6W8hVjc5yyaGZ_FU51c3w" group-title="News",TV9 Telugu
 https://jio.dooflix.in/live.php?c=TV9_Telugu_News&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sakshi TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sakshi.jpg" group-title="News",Sakshi TV
