@@ -131,6 +131,8 @@ http://103.99.249.107:81/play/a00n
 http://103.99.249.107:81/play/a019
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png" group-title="Infotainment",History TV HD
 http://103.99.249.107:81/play/a017
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 Men's 2022" tvg-logo="https://resources.pulse.icc-cricket.com/whitelabel-assets/33992/emblem.svg" group-title="Sports",T20 Men's 2022
+https://11live02.akamaized.net/FTX2_WILLOW/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jio Cricket Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png" group-title="Sports",Jio Cricket Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Jio_Cricket_Telugu_HD/Jio_Cricket_Telugu_HD/Jio_Cricket_Telugu_HD.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten 4 Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="Sports",Sony TEN 4
