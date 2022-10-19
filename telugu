@@ -148,10 +148,9 @@ http://nv1connect.com:80/mriptv/yzrcmJNqGZ/83356
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HDNew_Masthead_Logo.png" group-title="Sports",Sony Ten 2 HD
 http://nv1connect.com:80/mriptv/yzrcmJNqGZ/83357
 #EXTINF:-1 tvg-id="(no tvg-id)" group-title="Educational" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png",AP-BIE-ARTS
-https://jio.dooflix.in/live.php?c=AP_BIE_ARTS&q=1200&e=junk.m3u8
+https://jiotv.hadinetbd.tech/jio/v1/AP_BIE_ARTS/AP_BIE_ARTS/AP_BIE_ARTS.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" group-title="Educational"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png",AP-BIE-SCIENCE
-https://jio.dooflix.in/live.php?c=AP_BIE_SCIENCE&q=1200&e=junk.m3u8
+https://jiotv.hadinetbd.tech/jio/v1/AP_BIE_SCIENCE/AP_BIE_SCIENCE/AP_BIE_SCIENCE.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" group-title="Educational"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png",AP-CIE-SIVE
-https://jio.dooflix.in/live.php?c=AP_CIE_SIVE&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" group-title="Educational"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png",Axxcccc
-https://www.youtube.com/embed/BkYJYN362qE?autoplay=1&modestbranding=1
+https://jiotv.hadinetbd.tech/jio/v1/AP_CIE_SIVE/AP_CIE_SIVE/AP_CIE_SIVE.m3u8
+
