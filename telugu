@@ -9,7 +9,7 @@ https://jiotv.hadinetbd.tech/jio/v1/Zee_Telugu/Zee_Telugu/Zee_Telugu.m3u8
 https://jiotv.hadinetbd.tech/jio/v1/ETV_HD/ETV_HD/ETV_HD.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="Entertinment",ETV Telugu
 https://jiotv.hadinetbd.tech/jio/v1/ETV_Telugu/ETV_Telugu/ETV_Telugu.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="Entertinment",Star Maa HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="Entertinment",Star Maa HD
 http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Tv HD" tvg-logo="https://sund-images.sunnxt.com/14019/640x360_GeminiTVHD_14019_39de8ab6-03bb-4eeb-9d93-558c8afe8dcc.jpg" group-title="Entertinment",Gemini Tv HD
 http://89.187.179.108:8080/GEMINITVHD/LOCAL/TEL/index.m3u8?token=test
