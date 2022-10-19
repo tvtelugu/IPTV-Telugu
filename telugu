@@ -11,7 +11,7 @@ https://jiotv.hadinetbd.tech/jio/v1/ETV_HD/ETV_HD/ETV_HD.m3u8
 https://jiotv.hadinetbd.tech/jio/v1/ETV_Telugu/ETV_Telugu/ETV_Telugu.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="Entertinment",Maa TV
 http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Tv HD" tvg-logo="https://sund-images.sunnxt.com/14019/200x200_GeminiTVHD_14019_65bc2d50-f266-4521-8fd5-38791f3272b4.png" group-title="Entertinment",Gemini Tv HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini" tvg-logo="https://sund-images.sunnxt.com/14019/200x200_GeminiTVHD_14019_65bc2d50-f266-4521-8fd5-38791f3272b4.png" group-title="Entertinment",Gemini
 http://89.187.179.108:8080/GEMINITVHD/LOCAL/TEL/index.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maa Gold" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png" group-title="Entertinment",Maa Gold
 http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
@@ -25,7 +25,7 @@ https://jiotv.hadinetbd.tech/jio/v1/Vissa_TV/Vissa_TV/Vissa_TV.m3u8
 https://jiotv.hadinetbd.tech/jio/v1/DD_Saptagiri/DD_Saptagiri/DD_Saptagiri.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD YADHAGIRI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/DD_Yadagiri.png" group-title="Entertinment",DD YADHAGIRI
 https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668114
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinemalu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinemalu/list/1170x6581642453232.png" group-title="Movies",Zee Cinemalu HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinemalu" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png" group-title="Movies",Zee Cinemalu
 http://ranapk.1.mywebsites.link/zee5x/Z5RanaxPk.php?c=0-9-zeecinemalu
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu
 https://jiotv.hadinetbd.tech/jio/v1/Zee_Cinemalu/Zee_Cinemalu/Zee_Cinemalu.m3u8
