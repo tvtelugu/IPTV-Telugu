@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IPTV Telugu" tvg-logo="https://i.postimg.cc/PfSfj5xm/photo-2022-10-14-14-15-53.jpg" group-title="Join At",IPTV Telugu
 https://github.com/madhukar7322/IPTV-Telugu/blob/main/iptv-telugu.ts?raw=true
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Telugu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetelugu/list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-title="Entertinment",Zee Telugu HD 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Telugu" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetelugu/list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-title="Entertinment",Zee Telugu HD 
 http://ranapk.1.mywebsites.link/zee5x/Z5RanaxPk.php?c=0-9-zeetelugu
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Entertinment",Zee Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Zee_Telugu/Zee_Telugu/Zee_Telugu.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertinment",ETV HD
 https://jiotv.hadinetbd.tech/jio/v1/ETV_HD/ETV_HD/ETV_HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="Entertinment",ETV SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="Entertinment",ETV Telugu
 https://jiotv.hadinetbd.tech/jio/v1/ETV_Telugu/ETV_Telugu/ETV_Telugu.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="Entertinment",Star Maa HD
 http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
@@ -147,10 +147,10 @@ http://103.162.136.235:4500/play/a017/index.m3u8
 http://nv1connect.com:80/mriptv/yzrcmJNqGZ/83356
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HDNew_Masthead_Logo.png" group-title="Sports",Sony Ten 2 HD
 http://nv1connect.com:80/mriptv/yzrcmJNqGZ/83357
-#EXTINF:-1 tvg-id="(no tvg-id)" group-title="Educational" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png",AP-BIE-ARTS
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="Educational" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png",AP BIE ARTS
 https://jiotv.hadinetbd.tech/jio/v1/AP_BIE_ARTS/AP_BIE_ARTS/AP_BIE_ARTS.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" group-title="Educational"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png",AP-BIE-SCIENCE
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="Educational"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png",AP BIE SCIENCE
 https://jiotv.hadinetbd.tech/jio/v1/AP_BIE_SCIENCE/AP_BIE_SCIENCE/AP_BIE_SCIENCE.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" group-title="Educational"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png",AP-CIE-SIVE
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="Educational"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png",AP CIE SIVE
 https://jiotv.hadinetbd.tech/jio/v1/AP_CIE_SIVE/AP_CIE_SIVE/AP_CIE_SIVE.m3u8
 
