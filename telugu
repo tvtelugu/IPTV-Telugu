@@ -153,3 +153,5 @@ https://jio.dooflix.in/live.php?c=AP_BIE_ARTS&q=1200&e=junk.m3u8
 https://jio.dooflix.in/live.php?c=AP_BIE_SCIENCE&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" group-title="Educational"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png",AP-CIE-SIVE
 https://jio.dooflix.in/live.php?c=AP_CIE_SIVE&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="Educational"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png",Axxcccc
+https://www.youtube.com/embed/BkYJYN362qE?autoplay=1&modestbranding=1
