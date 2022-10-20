@@ -157,6 +157,15 @@ https://jiotv.hadinetbd.tech/jio/v1/AP_BIE_ARTS/AP_BIE_ARTS/AP_BIE_ARTS.m3u8
 https://jiotv.hadinetbd.tech/jio/v1/AP_BIE_SCIENCE/AP_BIE_SCIENCE/AP_BIE_SCIENCE.m3u8
 #EXTINF:-0 tvg-id="Telugu" group-title="Educational"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png",AP CIE SIVE
 https://jiotv.hadinetbd.tech/jio/v1/AP_CIE_SIVE/AP_CIE_SIVE/AP_CIE_SIVE.m3u8
-#EXTINF:-1 tvg-id="VOD" tvg-info="Oke Oka Jeevitham By IPTV Telugu" tvg-name="Oke Oka Jeevitham (2022)" tvg-logo="https://shotcan.com/images/Fc6mTR-aIAAnz-3.jpg" group-title="VOD",2022 || Oke Oka Jeevitham (2022)
+#EXTINF:-1 tvg-id="VOD" tvg-name="Oke Oka Jeevitham (2022)" tvg-logo="https://shotcan.com/images/Fc6mTR-aIAAnz-3.jpg" group-title="VOD || Movies",Oke Oka Jeevitham (2022)
 https://assets-1.entertainvideo.com/assets/media/2c1a96cd2f052c64a9305d79bbdacd70/dash/4f20990f3cdf24ef53edca1457abf14d.mpd
+#EXTINF:-1 tvg-id="VOD" tvg-name="Nenu Meeku Baaga Kavalsinavaadini (2022)" tvg-logo="https://i3.extraimage.xyz/pix/2022/10/12/RVQylb.jpg" group-title="VOD || Movies",Nenu Meeku Baaga Kavalsinavaadini (2022)
+https://assets-1.entertainvideo.com/assets/media/d1954064ebffce01005806bcc6330dd0/dash/be62d9abd0d5535a454835ee462e858a.mpd
+#EXTINF:-1 tvg-id="VOD" tvg-name="Dongalunnaru Jagratha (2022)" tvg-logo="https://pbs.twimg.com/media/FdWGM7aaAAAxTv3?format=jpg" group-title="VOD || Movies",Dongalunnaru Jagratha (2022)
+https://assets-1.mypowerdisk.com/transcode_video/11a6e749170663bb69203d2f2bad18a8/dash/4aea1b36ba7090be5526d00bf74210a6.mpd
+#EXTINF:-1 tvg-id="VOD" tvg-name="Ammu (2022)" tvg-logo="https://pbs.twimg.com/media/Ffb86zpXoAEXxoA?format=jpg" group-title="VOD || Originals",Ammu (2022)
+https://assets-1.entertainvideo.com/assets/media/b2028662f58bcb26c0517eb42d34939b/dash/6702b538564aa6d67d21d5615f451a1f.mpd
+#EXTINF:-1 tvg-id="VOD" tvg-name="Unstoppable (2022)" tvg-logo="https://i3.extraimage.xyz/pix/2022/10/14/RVxmKA.jpg" group-title="VOD || Web Series",Unstoppable (2022) S02 EP01
+https://assets-1.entertainvideo.com/assets/media/6c03277445da997231899a065c730a3d/dash/527748a2ed1ac3a0688ad1b4da9fb2f9.mpd
+
 
