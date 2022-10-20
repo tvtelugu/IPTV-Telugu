@@ -159,4 +159,5 @@ https://jiotv.hadinetbd.tech/jio/v1/AP_BIE_SCIENCE/AP_BIE_SCIENCE/AP_BIE_SCIENCE
 https://jiotv.hadinetbd.tech/jio/v1/AP_CIE_SIVE/AP_CIE_SIVE/AP_CIE_SIVE.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Devil's Advocate (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg" group-title="Drama & Thriller",The Devil's Advocate (1997)
 https://assets-1.entertainvideo.com/assets/media/2c1a96cd2f052c64a9305d79bbdacd70/dash/4f20990f3cdf24ef53edca1457abf14d.mpd
-
+#EXTINF:-1 tvg-id="" tvg-name="The Devil's Advocate (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg" group-title="Drama & Thriller",The Devil's Advocate (1997)
+http://19.1222908.net:8019/movie/c3d55980-2440-44c7-832a-f98393aaafef/MBUFaXGu6E/393269.mp4
