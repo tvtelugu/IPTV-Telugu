@@ -1,1 +1,386 @@
-%23EXTM3U%20url-tvg%3D%22https%3A%2F%2F3o77.short.gy%2Fepg.xml.gz%22%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22IPTV%20Telugu%22%20tvg-logo%3D%22https%3A%2F%2Fi.postimg.cc%2FPfSfj5xm%2Fphoto-2022-10-14-14-15-53.jpg%22%20group-title%3D%22Join%20At%22%2CIPTV%20Telugu%0Ahttps%3A%2F%2Fgithub.com%2Fmadhukar7322%2FIPTV-Telugu%2Fblob%2Fmain%2Fiptv-telugu.ts%3Fraw%3Dtrue%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Zee%20Telugu%22%20tvg-logo%3D%22https%3A%2F%2Fimage.airtel.tv%2FMWTV%2FMWTV_LIVETVCHANNEL_1008%2FPORTRAIT%2Fk54DafKg.png%22%20group-title%3D%22Entertinment%22%2CZee%20Telugu%0Ahttp%3A%2F%2Franapk.1.mywebsites.link%2Fzee5x%2FZ5RanaxPk.php%3Fc%3D0-9-zeetelugu%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Zee%20Telugu%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FZee_Telugu.png%22%20group-title%3D%22Entertinment%22%2CZee%20Telugu%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FZee_Telugu%2FZee_Telugu%2FZee_Telugu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22ETV%20HD%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FETV_HD.png%22%20group-title%3D%22Entertinment%22%2CETV%20HD%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FETV_HD%2FETV_HD%2FETV_HD.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22ETV%20Telugu%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FETV_Telugu.png%22%20group-title%3D%22Entertinment%22%2CETV%20Telugu%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FETV_Telugu%2FETV_Telugu%2FETV_Telugu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Maa%20TV%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FMaa_TV.png%22%20group-title%3D%22Entertinment%22%2CMaa%20TV%0Ahttp%3A%2F%2F89.187.179.108%3A8080%2FMAATVHD%2FLOCAL%2FTEL%2Findex.m3u8%3Ftoken%3Dtest%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Gemini%22%20tvg-logo%3D%22https%3A%2F%2Fsund-images.sunnxt.com%2F14019%2F200x200_GeminiTVHD_14019_65bc2d50-f266-4521-8fd5-38791f3272b4.png%22%20group-title%3D%22Entertinment%22%2CGemini%0Ahttp%3A%2F%2F89.187.179.108%3A8080%2FGEMINITVHD%2FLOCAL%2FTEL%2Findex.m3u8%3Ftoken%3Dtest%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Gemini%20%22%20tvg-logo%3D%22https%3A%2F%2Fi.ibb.co%2FMByCrHs%2FGemini.png%22%20group-title%3D%22Entertinment%22%2CGemini%0Ahttp%3A%2F%2Fhe11o.akadatel.com%2Fiptv%2FRHA3G7Y2NYUP4E%2F6709%2Findex.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Maa%20Gold%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FMaa_Gold.png%22%20group-title%3D%22Entertinment%22%2CMaa%20Gold%0Ahttp%3A%2F%2F89.187.179.108%3A8080%2FMaaGold-telu%2Findex.m3u8%3Ftoken%3Dtest%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Gemini%20Comedy%22%20tvg-logo%3D%22https%3A%2F%2Fsund-images.sunnxt.com%2F9027%2F200x200_GeminiComedy_9027_54480d40-b0f2-4b28-90cd-238a161dab4c.png%22%20group-title%3D%22Entertinment%22%2CGemini%20Comedy%0Ahttp%3A%2F%2Fhe11o.akadatel.com%2Fiptv%2FRHA3G7Y2NYUP4E%2F6711%2Findex.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22ETV%20Plus%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FETV_Plus.png%22%20group-title%3D%22Entertinment%22%2CETV%20Plus%20%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FETV_Plus%2FETV_Plus%2FETV_Plus.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Vissa%20TV%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FVissa_TV.png%22%20group-title%3D%22Entertinment%22%2CVissa%20TV%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FVissa_TV%2FVissa_TV%2FVissa_TV.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22DD%20SAPTAGIRI%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FDD_Saptagiri.png%22%20group-title%3D%22Entertinment%22%2CDD%20SAPTAGIRI%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FDD_Saptagiri%2FDD_Saptagiri%2FDD_Saptagiri.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22DD%20YADHAGIRI%22%20tvg-logo%3D%22https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2F6%2F6d%2FDD_Yadagiri.png%22%20group-title%3D%22Entertinment%22%2CDD%20YADHAGIRI%0Ahttps%3A%2F%2Fm3u-editor.com%2Fserve%2F12ef7560-34b8-11ed-a954-7771ae1e6bdd%2F639668114%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Zee%20Cinemalu%22%20tvg-logo%3D%22https%3A%2F%2Fimage.airtel.tv%2FMWTV%2FMWTV_LIVETVCHANNEL_1009%2FPORTRAIT%2FqmhsTcVm.png%22%20group-title%3D%22Movies%22%2CZee%20Cinemalu%0Ahttp%3A%2F%2Franapk.1.mywebsites.link%2Fzee5x%2FZ5RanaxPk.php%3Fc%3D0-9-zeecinemalu%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Zee%20Cinemalu%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FZee_Cinemalu.png%22%20group-title%3D%22Movies%22%2CZee%20Cinemalu%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FZee_Cinemalu%2FZee_Cinemalu%2FZee_Cinemalu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Gemini%20Movies%20HD%22%20tvg-logo%3D%22https%3A%2F%2Fsund-images.sunnxt.com%2F26570%2F200x200_GeminiMoviesHD_26570_0ca1d1e8-f04d-41d0-943d-5e8948e271bc.png%22%20group-title%3D%22Movies%22%2CGemini%20Movies%20HD%0Ahttp%3A%2F%2Fhe11o.akadatel.com%2Fiptv%2FRHA3G7Y2NYUP4E%2F6710%2Findex.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Maa%20Movies%22%20tvg-logo%3Dhttp%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FMaa_Movies.png%22%20group-title%3D%22Movies%22%2CMaa%20Movies%0Ahttp%3A%2F%2F89.187.179.108%3A8080%2FMaaMovies-telu%2Findex.m3u8%3Ftoken%3Dtest%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22ETV%20Cinema%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FETV_Cinema.png%22%20group-title%3D%22Movies%22%2CETV%20Cinema%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FETV_Cinema%2FETV_Cinema%2FETV_Cinema.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Rasi%20Telugu%22%20tvg-logo%3D%22https%3A%2F%2Fimage.winudf.com%2Fv2%2Fimage%2FaW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4%2Fscreen-0.jpg%3Fh%3D500%26fakeurl%3D1%26type%3D.jpg%22%20group-title%3D%22Movies%22%2CRasi%20Telugu%20HD%0Artmp%3A%2F%2Fsingamcloud.in%3A1935%2Frasinetwork%2Frasitelugu%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Telugu%20BOX%20Office%22%20tvg-logo%3D%22https%3A%2F%2Fd229kpbsb5jevy.cloudfront.net%2Ftv%2F480%2F270%2Flanguages%2Ftbo.jpg%22%20group-title%3D%22Movies%22%2CTelugu%20BOX%20Office%0Ahttp%3A%2F%2Fwatchindia.net%3A8880%2Flive%2Fvvv%2Fvvv%2F2155.ts%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Studio%20Yuva%20Alpha%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStudio_Yuva_Alpha.png%22%20group-title%3D%22Movies%22%2CStudio%20Yuva%20Alpha%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FStudio_Yuva_Alpha%2FStudio_Yuva_Alpha%2FStudio_Yuva_Alpha.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Studio%20One%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FStudio_One.png%22%20group-title%3D%22Movies%22%2CStudio%20One%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FStudio_One%2FStudio_One%2FStudio_One.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Gemini%20Music%22%20tvg-logo%3D%22https%3A%2F%2Fsund-images.sunnxt.com%2F26568%2F200x200_GeminiMusicHD_26568_2dc0c46d-afdf-407d-8862-3c2df67bee5b.png%22%20group-title%3D%22Music%22%2CGemini%20Music%0Ahttps%3A%2F%2Fthe-nayeemparvez.ml%2Fstar7api%2Fstar7.php%3Fchid%3D47989%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Maa%20Music%22%20tvg-logo%3D%22https%3A%2F%2Fd229kpbsb5jevy.cloudfront.net%2Ftv%2F150%2F150%2Fbnw%2Fmaa-music-black.png%22%20group-title%3D%22Music%22%2CMaa%20Music%0Ahttp%3A%2F%2F89.187.179.108%3A8080%2FMaaMusic-telu%2Findex.m3u8%3Ftoken%3Dtest%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Raj%20Music%20Telugu%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FRaj_Music_Telugu.png%22%20group-title%3D%22Music%22%2CRaj%20Music%20Telugu%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FRaj_Music_Telugu%2FRaj_Music_Telugu%2FRaj_Music_Telugu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Gemini%20Life%22%20tvg-logo%3D%22https%3A%2F%2Fsund-images.sunnxt.com%2F26572%2F200x200_GeminiLife_26572_797a9d8c-2ec2-4af8-b3dc-3b10c16c060d.png%22%20group-title%3D%22Music%22%2CGemini%20Life%0Ahttps%3A%2F%2Fthe-nayeemparvez.ml%2Fstar7api%2Fstar7.php%3Fchid%3D47990%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22ETV%20Abhiruchi%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FETV_Abhiruchi.png%22%20group-title%3D%22Life%20Style%22%2CETV%20Abhiruchi%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FETV_Abhiruchi%2FETV_Abhiruchi%2FETV_Abhiruchi.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22ETV%20Life%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FETV_Life.png%22%20group-title%3D%22Life%20Style%22%2CETV%20Life%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FETV_Life%2FETV_Life%2FETV_Life.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Aastha%20Telugu%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FAastha_Telugu.png%22%20group-title%3D%22Life%20Style%22%2CAastha%20Telugu%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FAastha_Telugu%2FAastha_Telugu%2FAastha_Telugu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22CVR%20Health%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FCVR_Health.png%22%20group-title%3D%22Life%20Style%22%2CCVR%20Health%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FCVR_Health%2FCVR_Health%2FCVR_Health.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Vanitha%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FVanitha.png%22%20group-title%3D%22Life%20Style%22%2CVanitha%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FVanitha%2FVanitha%2FVanitha.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22V6%20News%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FV6_News.png%22%20group-title%3D%22News%22%2CV6%20News%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FV6_News%2FV6_News%2FV6_News.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22T%20News%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FT_News.png%22%20group-title%3D%22News%22%2CT%20News%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FT_News%2FT_News%2FT_News.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22ETV%20Andhra%20Pradesh%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FETV_Andhra_pradesh.png%22%20group-title%3D%22News%22%2CETV%20Andhra%20Pradesh%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FETV_Andhra_pradesh%2FETV_Andhra_pradesh%2FETV_Andhra_pradesh.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22ETV%20Telangana%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FETV_Telangana.png%22%20group-title%3D%22News%22%2CETV%20Telangana%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FETV_Telangana%2FETV_Telangana%2FETV_Telangana.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22ABN%20Andhra%20Jyothi%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FABN_Andhra_Jyothi.png%22%20group-title%3D%22News%22%2CABN%20Andhra%20Jyothi%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FABN_Andhra_Jyothi%2FABN_Andhra_Jyothi%2FABN_Andhra_Jyothi.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22TV9%20Telugu%20News%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FTV9_Telugu_News.png%22%20group-title%3D%22News%22%2CTV9%20Telugu%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FTV9_Telugu_News%2FTV9_Telugu_News%2FTV9_Telugu_News.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Sakshi%20tv%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FSakshi_tv.png%22%20group-title%3D%22News%22%2CSakshi%20TV%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FSakshi_tv%2FSakshi_tv%2FSakshi_tv.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%2210%20TV%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2F10_TV.png%22%20group-title%3D%22News%22%2C10%20TV%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2F10_TV%2F10_TV%2F10_TV.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22I%20News%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FI_News.png%22%20group-title%3D%22News%22%2CI%20News%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FI_News%2FI_News%2FI_News.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22RAJ%20News%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FRaj_News_Telugu.png%22%20group-title%3D%22News%22%2CRAJ%20News%0Ahttps%3A%2F%2Fjiotv2-gzk1w22e5-ranapk73.vercel.app%2Fapi%2Flive.php%3Fc%3DRaj_News_Telugu%26q%3D800%26e%3D.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22TV%205%20News%22%20tvg-logo%3D%22https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2F3%2F37%2FTV5_Telugu.png%22%20group-title%3D%22News%22%2CTV5%20News%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FTV_5_News%2FTV_5_News%2FTV_5_News.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22HM%20TV%22%20tvg-logo%3D%22https%3A%2F%2Fsnoidcdnems05.cdnsrv.jio.com%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FHM_TV.png%22%20group-title%3D%22News%22%2CHMTV%0Ahttps%3A%2F%2Fjio.dooflix.in%2Flive.php%3Fc%3DHM_TV%26q%3D1200%26e%3Djunk.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22NTV%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FNTV.png%22%20group-title%3D%22News%22%2CNTV%20News%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FNTV%2FNTV%2FNTV.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Mahaa%20News%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FMaha_News.png%22%20group-title%3D%22News%22%2CMahaa%20News%0Ahttps%3A%2F%2Fjio.dooflix.in%2Flive.php%3Fc%3DMaha_News%26q%3D1200%26e%3Djunk.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Raj%20News%20Telugu%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FRaj_News_Telugu.png%22%20group-title%3D%22News%22%2CRaj%20News%20Telugu%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FRaj_News_Telugu%2FRaj_News_Telugu%2FRaj_News_Telugu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20group-title%3D%22News%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FBhaarat_Today.png%22%2CBhaarat%20Today%0Ahttps%3A%2F%2Fjio.dooflix.in%2Flive.php%3Fc%3DBhaarat_Today%26q%3D1200%26e%3Djunk.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22BHAKTI%20TV%22%20tvg-logo%3D%22https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2Fa%2Fa0%2FBhakthi_TV.jpeg%22%20group-title%3D%22Bhakti%22%2CBHAKTI%20TV%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FBhakti_TV%2FBhakti_TV%2FBhakti_TV.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Sri%20Venkateshwar%20Bhakti%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FSri_Venkateshwar_Bhakti.png%22%20group-title%3D%22Bhakti%22%2CSri%20Venkateshwar%20Bhakti%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FSri_Venkateshwar_Bhakti%2FSri_Venkateshwar_Bhakti%2FSri_Venkateshwar_Bhakti.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22SVBC%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FSVBC.png%22%20group-title%3D%22Bhakti%22%2CSVBC%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FSVBC%2FSVBC%2FSVBC.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22CVR%20OM%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FCVR_OM_Spiritual.png%22%20group-title%3D%22Bhakti%22%2CCVR%20OM%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FCVR_OM_Spiritual%2FCVR_OM_Spiritual%2FCVR_OM_Spiritual.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Hindu%20Dharmam%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FHindu_Dharmam.png%22%20group-title%3D%22Bhakti%22%2CHindu%20Dharmam%0Ahttps%3A%2F%2Fjio.dooflix.in%2Flive.php%3Fc%3DHindu_Dharmam%26q%3D1200%26e%3Djunk.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22PMC%20Telugu%22%20group-title%3D%22Bhakti%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FPMC_Telugu.png%22%2CPMC%20Telugu%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FPMC_Telugu%2FPMC_Telugu%2FPMC_Telugu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Sattva%20TV%22%20group-title%3D%22Bhakti%22%20%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FSattva_TV.png%22%2CSattva%20TV%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FSattva_TV%2FSattva_TV%2FSattva_TV.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Khushi%20TV%22%20tvg-logo%3D%22https%3A%2F%2Fsund-images.sunnxt.com%2F26571%2F200x200_KushiTV_26571_ef287cac-6e6f-4cc7-96e1-b92160acb927.png%22%20group-title%3D%22KIDS%22%2CKhushi%20TV%0Ahttp%3A%2F%2Fpprotv.com%3A80%2Ffahad70%2Ffahad70%2F166992%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Sonic%20Telugu%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FSonic_Telugu.png%22%20group-title%3D%22KIDS%22%2CSonic%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FSonic_Telugu%2FSonic_Telugu%2FSonic_Telugu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Sony%20Yay%20Telugu%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FSony_Yay_Telugu.png%22%20group-title%3D%22KIDS%22%2CSony%20YAY%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FSony_Yay_Telugu%2FSony_Yay_Telugu%2FSony_Yay_Telugu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22NICK%20Telugu%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FNick_Telugu.png%22%20group-title%3D%22KIDS%22%2CNICK%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FNick_Telugu%2FNick_Telugu%2FNick_Telugu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Hungama%22%20tvg-logo%3D%22http%3A%2F%2Ffiles.rednetcontent.com%2Fchlogo2%2Findian%2Fhungama.png%22%20group-title%3D%22KIDS%22%2CHungama%0Ahttps%3A%2F%2Fthe-nayeemparvez.ml%2Fstar7api%2Fstar7.php%3Fchid%3D48164%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Disney%22%20tvg-logo%3D%22http%3A%2F%2Ffiles.rednetcontent.com%2Fchlogo%2Fdisny.png%22%20group-title%3D%22KIDS%22%2CDisney%0Ahttps%3A%2F%2Fthe-nayeemparvez.ml%2Fstar7api%2Fstar7.php%3Fchid%3D48157%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Cartoon%20Network%20Telugu%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FCartoon_Network_Telugu.png%22%20group-title%3D%22KIDS%22%2CCartoon%20Network%20Telugu%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FCartoon_Network_Telugu%2FCartoon_Network_Telugu%2FCartoon_Network_Telugu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22CN%20HD%2B%20Telugu%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FCN_HD_Telugu.png%22%20group-title%3D%22KIDS%22%2CCN%20HD%2B%20Telugu%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FCN_HD%2B_Telugu%2FCN_HD%2B_Telugu%2FCN_HD%2B_Telugu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Pogo%20Telugu%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FPogo_Telugu.png%22%20group-title%3D%22KIDS%22%2CPogo%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FPogo_Telugu%2FPogo_Telugu%2FPogo_Telugu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Discovery%20Channel%20Telugu%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FDiscovery_Channel_Telugu.png%22%20group-title%3D%22Infotainment%22%2CDiscovery%20Channel%20Telugu%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FDiscovery_Channel_Telugu%2FDiscovery_Channel_Telugu%2FDiscovery_Channel_Telugu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22National%20Geo%20Wild%22%20tvg-logo%3D%22https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F27%2FNational_Geographic_Wild_logo.svg%2F500px-National_Geographic_Wild_logo.svg.png%22%20group-title%3D%22Infotainment%22%2CNational%20Geo%20Wild%20HD%0Ahttp%3A%2F%2F103.99.249.107%3A81%2Fplay%2Fa008%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22National%20Geo%22%20tvg-logo%3D%22https%3A%2F%2Fi.natgeofe.com%2Fn%2Fe76f5368-6797-4794-b7f6-8d757c79ea5c%2Fng-logo-2fl.png%22%20group-title%3D%22Infotainment%22%2CNational%20Geo%20HD%0Ahttp%3A%2F%2F103.99.249.107%3A81%2Fplay%2Fa00n%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Sony%20BBC%20Earth%20HD%20Telugu%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FSony_BBC_Earth_HD_Telugu.png%22%20group-title%3D%22Infotainment%22%2CSony%20BBC%20Earth%20HD%20Telugu%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FSony_BBC_Earth_HD_Telugu%2FSony_BBC_Earth_HD_Telugu%2FSony_BBC_Earth_HD_Telugu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22History%2018%20Telugu%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FHistory_18_Telugu.png%22%20group-title%3D%22Infotainment%22%2CHistory%2018%20Telugu%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FHistory_TV18_HD_Telugu%2FHistory_18_Telugu%2FHistory_18_Telugu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22WILLOW%20%7C%7C%20T20%20Men's%202022%22%20tvg-logo%3D%22https%3A%2F%2Fresources.pulse.icc-cricket.com%2Fwhitelabel-assets%2F33992%2Femblem.svg%22%20group-title%3D%22Sports%22%2CWILLOW%20%7C%7C%20T20%20Men's%202022%0Ahttps%3A%2F%2F11live02.akamaized.net%2FFTX2_WILLOW%2Ftracks-v1a1%2Fmono.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22TEN%20Sports%20%7C%7C%20T20%20Men's%202022%22%20tvg-logo%3D%22https%3A%2F%2Fttensports.com%2Fwp-content%2Fuploads%2F2019%2F10%2FTen-sports-300x82.png%22%20group-title%3D%22Sports%22%2CTEN%20Sports%20%7C%7C%20T20%20Men's%202022%0Ahttp%3A%2F%2F221.120.204.3%2FTEN-SPORTS-LOCKLEeee%2Findex.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Ten%204%20Telugu%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FTen_4_Telugu.png%22%20group-title%3D%22Sports%22%2CSony%20TEN%204%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FTen_4_Telugu%2FTen_4_Telugu%2FTen_4_Telugu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Ten%204%20HD%20Telugu%22%20tvg-logo%3D%22https%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FTen_4_HD_Telugu.png%22%20group-title%3D%22Sports%22%2CSony%20TEN%204%20HD%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FTen_4_HD_Telugu%2FTen_4_HD_Telugu%2FTen_4_HD_Telugu.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Star%20Sports%201%20HD%22%20tvg-logo%3D%22https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2Fb%2Fb4%2FStar_Sports_HD1.png%22%20group-title%3D%22Sports%22%2CStar%20Sports%201%20HD%0Ahttp%3A%2F%2Fwatchindia.net%3A8880%2Flive%2Fvvv%2Fvvv%2F808.ts%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Star%20Sports%202%20HD%22%20tvg-logo%3D%22https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2F8%2F82%2FSS2HD.jpg%22%20group-title%3D%22Sports%22%2CStar%20Sports%202%20HD%0Ahttp%3A%2F%2F1tv1.net%3A8080%2Flive%2F01007888688%2F28464975%2F93637.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20tvg-name%3D%22Star%20Sports%201%20HD%20(HINDI)%22%20tvg-logo%3D%22https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2Fb%2Fb4%2FStar_Sports_HD1.png%22%20group-title%3D%22Sports%22%2CStar%20Sports%201%20HD%20(HINDI)%0Ahttp%3A%2F%2F1tv1.net%3A8080%2Flive%2F01007888688%2F28464975%2F93634.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20group-title%3D%22Educational%22%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FAP_BIE_ARTS.png%22%2CAP%20BIE%20ARTS%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FAP_BIE_ARTS%2FAP_BIE_ARTS%2FAP_BIE_ARTS.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20group-title%3D%22Educational%22%20%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FAP_BIE_SCIENCE.png%22%2CAP%20BIE%20SCIENCE%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FAP_BIE_SCIENCE%2FAP_BIE_SCIENCE%2FAP_BIE_SCIENCE.m3u8%0A%23EXTINF%3A-0%20tvg-id%3D%22Telugu%22%20group-title%3D%22Educational%22%20%20tvg-logo%3D%22http%3A%2F%2Fjiotv.catchup.cdn.jio.com%2Fdare_images%2Fimages%2FAP_CIE_SIVE.png%22%2CAP%20CIE%20SIVE%0Ahttps%3A%2F%2Fjiotv.hadinetbd.tech%2Fjio%2Fv1%2FAP_CIE_SIVE%2FAP_CIE_SIVE%2FAP_CIE_SIVE.m3u8%0A%23EXTINF%3A-1%20tvg-id%3D%22VOD%22%20tvg-name%3D%22Oke%20Oka%20Jeevitham%20(2022)%22%20tvg-logo%3D%22https%3A%2F%2Fshotcan.com%2Fimages%2FFc6mTR-aIAAnz-3.jpg%22%20group-title%3D%22VOD%20%7C%7C%20Movies%22%2COke%20Oka%20Jeevitham%20(2022)%0Ahttps%3A%2F%2Fassets-1.entertainvideo.com%2Fassets%2Fmedia%2F2c1a96cd2f052c64a9305d79bbdacd70%2Fdash%2F4f20990f3cdf24ef53edca1457abf14d.mpd%0A%23EXTINF%3A-1%20tvg-id%3D%22VOD%22%20tvg-name%3D%22Nenu%20Meeku%20Baaga%20Kavalsinavaadini%20(2022)%22%20tvg-logo%3D%22https%3A%2F%2Fi3.extraimage.xyz%2Fpix%2F2022%2F10%2F12%2FRVQylb.jpg%22%20group-title%3D%22VOD%20%7C%7C%20Movies%22%2CNenu%20Meeku%20Baaga%20Kavalsinavaadini%20(2022)%0Ahttps%3A%2F%2Fassets-1.entertainvideo.com%2Fassets%2Fmedia%2Fd1954064ebffce01005806bcc6330dd0%2Fdash%2Fbe62d9abd0d5535a454835ee462e858a.mpd%0A%23EXTINF%3A-1%20tvg-id%3D%22VOD%22%20tvg-name%3D%22Dongalunnaru%20Jagratha%20(2022)%22%20tvg-logo%3D%22https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FFdWGM7aaAAAxTv3%3Fformat%3Djpg%22%20group-title%3D%22VOD%20%7C%7C%20Movies%22%2CDongalunnaru%20Jagratha%20(2022)%0Ahttps%3A%2F%2Fassets-1.mypowerdisk.com%2Ftranscode_video%2F11a6e749170663bb69203d2f2bad18a8%2Fdash%2F4aea1b36ba7090be5526d00bf74210a6.mpd%0A%23EXTINF%3A-1%20tvg-id%3D%22VOD%22%20tvg-name%3D%22Ammu%20(2022)%22%20tvg-logo%3D%22https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FFfb86zpXoAEXxoA%3Fformat%3Djpg%22%20group-title%3D%22VOD%20%7C%7C%20Originals%22%2CAmmu%20(2022)%0Ahttps%3A%2F%2Fassets-1.entertainvideo.com%2Fassets%2Fmedia%2Fb2028662f58bcb26c0517eb42d34939b%2Fdash%2F6702b538564aa6d67d21d5615f451a1f.mpd%0A%23EXTINF%3A-1%20tvg-id%3D%22VOD%22%20tvg-name%3D%22Unstoppable%20(2022)%22%20tvg-logo%3D%22https%3A%2F%2Fi3.extraimage.xyz%2Fpix%2F2022%2F10%2F14%2FRVxmKA.jpg%22%20group-title%3D%22VOD%20%7C%7C%20Web%20Series%22%2CUnstoppable%20(2022)%20S02%20EP01%0Ahttps%3A%2F%2Fassets-1.entertainvideo.com%2Fassets%2Fmedia%2F6c03277445da997231899a065c730a3d%2Fdash%2F527748a2ed1ac3a0688ad1b4da9fb2f9.mpd
+#EXTM3U url-tvg=3D"https://3o77.short.gy/epg.xml.gz"
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"IPTV Telugu" tvg-logo=3D"https://=
+i.postimg.cc/PfSfj5xm/photo-2022-10-14-14-15-53.jpg" group-title=3D"Join A=
+t",IPTV Telugu
+https://github.com/madhukar7322/IPTV-Telugu/blob/main/iptv-telugu.ts=3Fraw=
+=3Dtrue
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Zee Telugu" tvg-logo=3D"https://i=
+mage.airtel.tv/MWTV/MWTV=5FLIVETVCHANNEL=5F1008/PORTRAIT/k54DafKg.png" gro=
+up-title=3D"Entertinment",Zee Telugu
+http://ranapk.1.mywebsites.link/zee5x/Z5RanaxPk.php=3Fc=3D0-9-zeetelugu
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Zee Telugu" tvg-logo=3D"https://j=
+iotv.catchup.cdn.jio.com/dare=5Fimages/images/Zee=5FTelugu.png" group-titl=
+e=3D"Entertinment",Zee Telugu
+https://jiotv.hadinetbd.tech/jio/v1/Zee=5FTelugu/Zee=5FTelugu/Zee=5FTelugu=
+.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"ETV HD" tvg-logo=3D"http://jiotv.=
+catchup.cdn.jio.com/dare=5Fimages/images/ETV=5FHD.png" group-title=3D"Ente=
+rtinment",ETV HD
+https://jiotv.hadinetbd.tech/jio/v1/ETV=5FHD/ETV=5FHD/ETV=5FHD.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"ETV Telugu" tvg-logo=3D"http://ji=
+otv.catchup.cdn.jio.com/dare=5Fimages/images/ETV=5FTelugu.png" group-title=
+=3D"Entertinment",ETV Telugu
+https://jiotv.hadinetbd.tech/jio/v1/ETV=5FTelugu/ETV=5FTelugu/ETV=5FTelugu=
+.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Maa TV" tvg-logo=3D"http://jiotv.=
+catchup.cdn.jio.com/dare=5Fimages/images/Maa=5FTV.png" group-title=3D"Ente=
+rtinment",Maa TV
+http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8=3Ftoken=3Dtest
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Gemini" tvg-logo=3D"https://sund-=
+images.sunnxt.com/14019/200x200=5FGeminiTVHD=5F14019=5F65bc2d50-f266-4521-=
+8fd5-38791f3272b4.png" group-title=3D"Entertinment",Gemini
+http://89.187.179.108:8080/GEMINITVHD/LOCAL/TEL/index.m3u8=3Ftoken=3Dtest
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Gemini " tvg-logo=3D"https://i.ib=
+b.co/MByCrHs/Gemini.png" group-title=3D"Entertinment",Gemini
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6709/index.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Maa Gold" tvg-logo=3D"http://jiot=
+v.catchup.cdn.jio.com/dare=5Fimages/images/Maa=5FGold.png" group-title=3D"=
+Entertinment",Maa Gold
+http://89.187.179.108:8080/MaaGold-telu/index.m3u8=3Ftoken=3Dtest
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Gemini Comedy" tvg-logo=3D"https:=
+//sund-images.sunnxt.com/9027/200x200=5FGeminiComedy=5F9027=5F54480d40-b0f=
+2-4b28-90cd-238a161dab4c.png" group-title=3D"Entertinment",Gemini Comedy
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6711/index.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"ETV Plus" tvg-logo=3D"https://jio=
+tv.catchup.cdn.jio.com/dare=5Fimages/images/ETV=5FPlus.png" group-title=3D=
+"Entertinment",ETV Plus 
+https://jiotv.hadinetbd.tech/jio/v1/ETV=5FPlus/ETV=5FPlus/ETV=5FPlus.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Vissa TV" tvg-logo=3D"https://jio=
+tv.catchup.cdn.jio.com/dare=5Fimages/images/Vissa=5FTV.png" group-title=3D=
+"Entertinment",Vissa TV
+https://jiotv.hadinetbd.tech/jio/v1/Vissa=5FTV/Vissa=5FTV/Vissa=5FTV.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"DD SAPTAGIRI" tvg-logo=3D"https:/=
+/jiotv.catchup.cdn.jio.com/dare=5Fimages/images/DD=5FSaptagiri.png" group-=
+title=3D"Entertinment",DD SAPTAGIRI
+https://jiotv.hadinetbd.tech/jio/v1/DD=5FSaptagiri/DD=5FSaptagiri/DD=5FSap=
+tagiri.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"DD YADHAGIRI" tvg-logo=3D"https:/=
+/static.wikia.nocookie.net/logopedia/images/6/6d/DD=5FYadagiri.png" group-=
+title=3D"Entertinment",DD YADHAGIRI
+https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/63966811=
+4
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Zee Cinemalu" tvg-logo=3D"https:/=
+/image.airtel.tv/MWTV/MWTV=5FLIVETVCHANNEL=5F1009/PORTRAIT/qmhsTcVm.png" g=
+roup-title=3D"Movies",Zee Cinemalu
+http://ranapk.1.mywebsites.link/zee5x/Z5RanaxPk.php=3Fc=3D0-9-zeecinemalu
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Zee Cinemalu" tvg-logo=3D"https:/=
+/jiotv.catchup.cdn.jio.com/dare=5Fimages/images/Zee=5FCinemalu.png" group-=
+title=3D"Movies",Zee Cinemalu
+https://jiotv.hadinetbd.tech/jio/v1/Zee=5FCinemalu/Zee=5FCinemalu/Zee=5FCi=
+nemalu.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Gemini Movies HD" tvg-logo=3D"htt=
+ps://sund-images.sunnxt.com/26570/200x200=5FGeminiMoviesHD=5F26570=5F0ca1d=
+1e8-f04d-41d0-943d-5e8948e271bc.png" group-title=3D"Movies",Gemini Movies =
+HD
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6710/index.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Maa Movies" tvg-logo=3Dhttp://jio=
+tv.catchup.cdn.jio.com/dare=5Fimages/images/Maa=5FMovies.png" group-title=
+=3D"Movies",Maa Movies
+http://89.187.179.108:8080/MaaMovies-telu/index.m3u8=3Ftoken=3Dtest
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"ETV Cinema" tvg-logo=3D"https://j=
+iotv.catchup.cdn.jio.com/dare=5Fimages/images/ETV=5FCinema.png" group-titl=
+e=3D"Movies",ETV Cinema
+https://jiotv.hadinetbd.tech/jio/v1/ETV=5FCinema/ETV=5FCinema/ETV=5FCinema=
+.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Rasi Telugu" tvg-logo=3D"https://=
+image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5=
+NTRfMDc4/screen-0.jpg=3Fh=3D500&fakeurl=3D1&type=3D.jpg" group-title=3D"Mo=
+vies",Rasi Telugu HD
+rtmp://singamcloud.in:1935/rasinetwork/rasitelugu
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Telugu BOX Office" tvg-logo=3D"ht=
+tps://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/tbo.jpg" group-ti=
+tle=3D"Movies",Telugu BOX Office
+http://watchindia.net:8880/live/vvv/vvv/2155.ts
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Studio Yuva Alpha" tvg-logo=3D"ht=
+tps://jiotv.catchup.cdn.jio.com/dare=5Fimages/images/Studio=5FYuva=5FAlpha=
+.png" group-title=3D"Movies",Studio Yuva Alpha
+https://jiotv.hadinetbd.tech/jio/v1/Studio=5FYuva=5FAlpha/Studio=5FYuva=5F=
+Alpha/Studio=5FYuva=5FAlpha.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Studio One" tvg-logo=3D"https://j=
+iotv.catchup.cdn.jio.com/dare=5Fimages/images/Studio=5FOne.png" group-titl=
+e=3D"Movies",Studio One
+https://jiotv.hadinetbd.tech/jio/v1/Studio=5FOne/Studio=5FOne/Studio=5FOne=
+.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Gemini Music" tvg-logo=3D"https:/=
+/sund-images.sunnxt.com/26568/200x200=5FGeminiMusicHD=5F26568=5F2dc0c46d-a=
+fdf-407d-8862-3c2df67bee5b.png" group-title=3D"Music",Gemini Music
+https://the-nayeemparvez.ml/star7api/star7.php=3Fchid=3D47989
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Maa Music" tvg-logo=3D"https://d2=
+29kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-music-black.png" group-titl=
+e=3D"Music",Maa Music
+http://89.187.179.108:8080/MaaMusic-telu/index.m3u8=3Ftoken=3Dtest
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Raj Music Telugu" tvg-logo=3D"htt=
+ps://jiotv.catchup.cdn.jio.com/dare=5Fimages/images/Raj=5FMusic=5FTelugu.p=
+ng" group-title=3D"Music",Raj Music Telugu
+https://jiotv.hadinetbd.tech/jio/v1/Raj=5FMusic=5FTelugu/Raj=5FMusic=5FTel=
+ugu/Raj=5FMusic=5FTelugu.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Gemini Life" tvg-logo=3D"https://=
+sund-images.sunnxt.com/26572/200x200=5FGeminiLife=5F26572=5F797a9d8c-2ec2-=
+4af8-b3dc-3b10c16c060d.png" group-title=3D"Music",Gemini Life
+https://the-nayeemparvez.ml/star7api/star7.php=3Fchid=3D47990
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"ETV Abhiruchi" tvg-logo=3D"https:=
+//jiotv.catchup.cdn.jio.com/dare=5Fimages/images/ETV=5FAbhiruchi.png" grou=
+p-title=3D"Life Style",ETV Abhiruchi
+https://jiotv.hadinetbd.tech/jio/v1/ETV=5FAbhiruchi/ETV=5FAbhiruchi/ETV=5F=
+Abhiruchi.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"ETV Life" tvg-logo=3D"https://jio=
+tv.catchup.cdn.jio.com/dare=5Fimages/images/ETV=5FLife.png" group-title=3D=
+"Life Style",ETV Life
+https://jiotv.hadinetbd.tech/jio/v1/ETV=5FLife/ETV=5FLife/ETV=5FLife.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Aastha Telugu" tvg-logo=3D"https:=
+//jiotv.catchup.cdn.jio.com/dare=5Fimages/images/Aastha=5FTelugu.png" grou=
+p-title=3D"Life Style",Aastha Telugu
+https://jiotv.hadinetbd.tech/jio/v1/Aastha=5FTelugu/Aastha=5FTelugu/Aastha=
+=5FTelugu.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"CVR Health" tvg-logo=3D"https://j=
+iotv.catchup.cdn.jio.com/dare=5Fimages/images/CVR=5FHealth.png" group-titl=
+e=3D"Life Style",CVR Health
+https://jiotv.hadinetbd.tech/jio/v1/CVR=5FHealth/CVR=5FHealth/CVR=5FHealth=
+.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Vanitha" tvg-logo=3D"https://jiot=
+v.catchup.cdn.jio.com/dare=5Fimages/images/Vanitha.png" group-title=3D"Lif=
+e Style",Vanitha
+https://jiotv.hadinetbd.tech/jio/v1/Vanitha/Vanitha/Vanitha.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"V6 News" tvg-logo=3D"https://jiot=
+v.catchup.cdn.jio.com/dare=5Fimages/images/V6=5FNews.png" group-title=3D"N=
+ews",V6 News
+https://jiotv.hadinetbd.tech/jio/v1/V6=5FNews/V6=5FNews/V6=5FNews.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"T News" tvg-logo=3D"http://jiotv.=
+catchup.cdn.jio.com/dare=5Fimages/images/T=5FNews.png" group-title=3D"News=
+",T News
+https://jiotv.hadinetbd.tech/jio/v1/T=5FNews/T=5FNews/T=5FNews.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"ETV Andhra Pradesh" tvg-logo=3D"h=
+ttps://jiotv.catchup.cdn.jio.com/dare=5Fimages/images/ETV=5FAndhra=5Fprade=
+sh.png" group-title=3D"News",ETV Andhra Pradesh
+https://jiotv.hadinetbd.tech/jio/v1/ETV=5FAndhra=5Fpradesh/ETV=5FAndhra=5F=
+pradesh/ETV=5FAndhra=5Fpradesh.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"ETV Telangana" tvg-logo=3D"https:=
+//jiotv.catchup.cdn.jio.com/dare=5Fimages/images/ETV=5FTelangana.png" grou=
+p-title=3D"News",ETV Telangana
+https://jiotv.hadinetbd.tech/jio/v1/ETV=5FTelangana/ETV=5FTelangana/ETV=5F=
+Telangana.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"ABN Andhra Jyothi" tvg-logo=3D"ht=
+tps://jiotv.catchup.cdn.jio.com/dare=5Fimages/images/ABN=5FAndhra=5FJyothi=
+.png" group-title=3D"News",ABN Andhra Jyothi
+https://jiotv.hadinetbd.tech/jio/v1/ABN=5FAndhra=5FJyothi/ABN=5FAndhra=5FJ=
+yothi/ABN=5FAndhra=5FJyothi.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"TV9 Telugu News" tvg-logo=3D"http=
+://jiotv.catchup.cdn.jio.com/dare=5Fimages/images/TV9=5FTelugu=5FNews.png"=
+ group-title=3D"News",TV9 Telugu
+https://jiotv.hadinetbd.tech/jio/v1/TV9=5FTelugu=5FNews/TV9=5FTelugu=5FNew=
+s/TV9=5FTelugu=5FNews.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Sakshi tv" tvg-logo=3D"http://jio=
+tv.catchup.cdn.jio.com/dare=5Fimages/images/Sakshi=5Ftv.png" group-title=
+=3D"News",Sakshi TV
+https://jiotv.hadinetbd.tech/jio/v1/Sakshi=5Ftv/Sakshi=5Ftv/Sakshi=5Ftv.m3=
+u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"10 TV" tvg-logo=3D"http://jiotv.c=
+atchup.cdn.jio.com/dare=5Fimages/images/10=5FTV.png" group-title=3D"News",=
+10 TV
+https://jiotv.hadinetbd.tech/jio/v1/10=5FTV/10=5FTV/10=5FTV.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"I News" tvg-logo=3D"http://jiotv.=
+catchup.cdn.jio.com/dare=5Fimages/images/I=5FNews.png" group-title=3D"News=
+",I News
+https://jiotv.hadinetbd.tech/jio/v1/I=5FNews/I=5FNews/I=5FNews.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"RAJ News" tvg-logo=3D"https://jio=
+tv.catchup.cdn.jio.com/dare=5Fimages/images/Raj=5FNews=5FTelugu.png" group=
+-title=3D"News",RAJ News
+https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php=3Fc=3DRaj=5FNews=
+=5FTelugu&q=3D800&e=3D.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"TV 5 News" tvg-logo=3D"https://st=
+atic.wikia.nocookie.net/logopedia/images/3/37/TV5=5FTelugu.png" group-titl=
+e=3D"News",TV5 News
+https://jiotv.hadinetbd.tech/jio/v1/TV=5F5=5FNews/TV=5F5=5FNews/TV=5F5=5FN=
+ews.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"HM TV" tvg-logo=3D"https://snoidc=
+dnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare=5Fimages/images/HM=
+=5FTV.png" group-title=3D"News",HMTV
+https://jio.dooflix.in/live.php=3Fc=3DHM=5FTV&q=3D1200&e=3Djunk.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"NTV" tvg-logo=3D"https://jiotv.ca=
+tchup.cdn.jio.com/dare=5Fimages/images/NTV.png" group-title=3D"News",NTV N=
+ews
+https://jiotv.hadinetbd.tech/jio/v1/NTV/NTV/NTV.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Mahaa News" tvg-logo=3D"https://j=
+iotv.catchup.cdn.jio.com/dare=5Fimages/images/Maha=5FNews.png" group-title=
+=3D"News",Mahaa News
+https://jio.dooflix.in/live.php=3Fc=3DMaha=5FNews&q=3D1200&e=3Djunk.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Raj News Telugu" tvg-logo=3D"http=
+s://jiotv.catchup.cdn.jio.com/dare=5Fimages/images/Raj=5FNews=5FTelugu.png=
+" group-title=3D"News",Raj News Telugu
+https://jiotv.hadinetbd.tech/jio/v1/Raj=5FNews=5FTelugu/Raj=5FNews=5FTelug=
+u/Raj=5FNews=5FTelugu.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" group-title=3D"News" tvg-logo=3D"http://jiotv=
+.catchup.cdn.jio.com/dare=5Fimages/images/Bhaarat=5FToday.png",Bhaarat Tod=
+ay
+https://jio.dooflix.in/live.php=3Fc=3DBhaarat=5FToday&q=3D1200&e=3Djunk.m3=
+u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"BHAKTI TV" tvg-logo=3D"https://st=
+atic.wikia.nocookie.net/logopedia/images/a/a0/Bhakthi=5FTV.jpeg" group-tit=
+le=3D"Bhakti",BHAKTI TV
+https://jiotv.hadinetbd.tech/jio/v1/Bhakti=5FTV/Bhakti=5FTV/Bhakti=5FTV.m3=
+u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Sri Venkateshwar Bhakti" tvg-logo=
+=3D"http://jiotv.catchup.cdn.jio.com/dare=5Fimages/images/Sri=5FVenkateshw=
+ar=5FBhakti.png" group-title=3D"Bhakti",Sri Venkateshwar Bhakti
+https://jiotv.hadinetbd.tech/jio/v1/Sri=5FVenkateshwar=5FBhakti/Sri=5FVenk=
+ateshwar=5FBhakti/Sri=5FVenkateshwar=5FBhakti.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"SVBC" tvg-logo=3D"http://jiotv.ca=
+tchup.cdn.jio.com/dare=5Fimages/images/SVBC.png" group-title=3D"Bhakti",SV=
+BC
+https://jiotv.hadinetbd.tech/jio/v1/SVBC/SVBC/SVBC.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"CVR OM" tvg-logo=3D"https://jiotv=
+.catchup.cdn.jio.com/dare=5Fimages/images/CVR=5FOM=5FSpiritual.png" group-=
+title=3D"Bhakti",CVR OM
+https://jiotv.hadinetbd.tech/jio/v1/CVR=5FOM=5FSpiritual/CVR=5FOM=5FSpirit=
+ual/CVR=5FOM=5FSpiritual.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Hindu Dharmam" tvg-logo=3D"https:=
+//jiotv.catchup.cdn.jio.com/dare=5Fimages/images/Hindu=5FDharmam.png" grou=
+p-title=3D"Bhakti",Hindu Dharmam
+https://jio.dooflix.in/live.php=3Fc=3DHindu=5FDharmam&q=3D1200&e=3Djunk.m3=
+u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"PMC Telugu" group-title=3D"Bhakti=
+" tvg-logo=3D"http://jiotv.catchup.cdn.jio.com/dare=5Fimages/images/PMC=5F=
+Telugu.png",PMC Telugu
+https://jiotv.hadinetbd.tech/jio/v1/PMC=5FTelugu/PMC=5FTelugu/PMC=5FTelugu=
+.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Sattva TV" group-title=3D"Bhakti"=
+  tvg-logo=3D"http://jiotv.catchup.cdn.jio.com/dare=5Fimages/images/Sattva=
+=5FTV.png",Sattva TV
+https://jiotv.hadinetbd.tech/jio/v1/Sattva=5FTV/Sattva=5FTV/Sattva=5FTV.m3=
+u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Khushi TV" tvg-logo=3D"https://su=
+nd-images.sunnxt.com/26571/200x200=5FKushiTV=5F26571=5Fef287cac-6e6f-4cc7-=
+96e1-b92160acb927.png" group-title=3D"KIDS",Khushi TV
+http://pprotv.com:80/fahad70/fahad70/166992
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Sonic Telugu" tvg-logo=3D"http://=
+jiotv.catchup.cdn.jio.com/dare=5Fimages/images/Sonic=5FTelugu.png" group-t=
+itle=3D"KIDS",Sonic
+https://jiotv.hadinetbd.tech/jio/v1/Sonic=5FTelugu/Sonic=5FTelugu/Sonic=5F=
+Telugu.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Sony Yay Telugu" tvg-logo=3D"http=
+://jiotv.catchup.cdn.jio.com/dare=5Fimages/images/Sony=5FYay=5FTelugu.png"=
+ group-title=3D"KIDS",Sony YAY
+https://jiotv.hadinetbd.tech/jio/v1/Sony=5FYay=5FTelugu/Sony=5FYay=5FTelug=
+u/Sony=5FYay=5FTelugu.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"NICK Telugu" tvg-logo=3D"http://j=
+iotv.catchup.cdn.jio.com/dare=5Fimages/images/Nick=5FTelugu.png" group-tit=
+le=3D"KIDS",NICK
+https://jiotv.hadinetbd.tech/jio/v1/Nick=5FTelugu/Nick=5FTelugu/Nick=5FTel=
+ugu.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Hungama" tvg-logo=3D"http://files=
+.rednetcontent.com/chlogo2/indian/hungama.png" group-title=3D"KIDS",Hungam=
+a
+https://the-nayeemparvez.ml/star7api/star7.php=3Fchid=3D48164
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Disney" tvg-logo=3D"http://files.=
+rednetcontent.com/chlogo/disny.png" group-title=3D"KIDS",Disney
+https://the-nayeemparvez.ml/star7api/star7.php=3Fchid=3D48157
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Cartoon Network Telugu" tvg-logo=
+=3D"http://jiotv.catchup.cdn.jio.com/dare=5Fimages/images/Cartoon=5FNetwor=
+k=5FTelugu.png" group-title=3D"KIDS",Cartoon Network Telugu
+https://jiotv.hadinetbd.tech/jio/v1/Cartoon=5FNetwork=5FTelugu/Cartoon=5FN=
+etwork=5FTelugu/Cartoon=5FNetwork=5FTelugu.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"CN HD+ Telugu" tvg-logo=3D"http:/=
+/jiotv.catchup.cdn.jio.com/dare=5Fimages/images/CN=5FHD=5FTelugu.png" grou=
+p-title=3D"KIDS",CN HD+ Telugu
+https://jiotv.hadinetbd.tech/jio/v1/CN=5FHD+=5FTelugu/CN=5FHD+=5FTelugu/CN=
+=5FHD+=5FTelugu.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Pogo Telugu" tvg-logo=3D"http://j=
+iotv.catchup.cdn.jio.com/dare=5Fimages/images/Pogo=5FTelugu.png" group-tit=
+le=3D"KIDS",Pogo
+https://jiotv.hadinetbd.tech/jio/v1/Pogo=5FTelugu/Pogo=5FTelugu/Pogo=5FTel=
+ugu.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Discovery Channel Telugu" tvg-log=
+o=3D"http://jiotv.catchup.cdn.jio.com/dare=5Fimages/images/Discovery=5FCha=
+nnel=5FTelugu.png" group-title=3D"Infotainment",Discovery Channel Telugu
+https://jiotv.hadinetbd.tech/jio/v1/Discovery=5FChannel=5FTelugu/Discovery=
+=5FChannel=5FTelugu/Discovery=5FChannel=5FTelugu.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"National Geo Wild" tvg-logo=3D"ht=
+tps://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National=5FGeograp=
+hic=5FWild=5Flogo.svg/500px-National=5FGeographic=5FWild=5Flogo.svg.png" g=
+roup-title=3D"Infotainment",National Geo Wild HD
+http://103.99.249.107:81/play/a008
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"National Geo" tvg-logo=3D"https:/=
+/i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" gr=
+oup-title=3D"Infotainment",National Geo HD
+http://103.99.249.107:81/play/a00n
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Sony BBC Earth HD Telugu" tvg-log=
+o=3D"http://jiotv.catchup.cdn.jio.com/dare=5Fimages/images/Sony=5FBBC=5FEa=
+rth=5FHD=5FTelugu.png" group-title=3D"Infotainment",Sony BBC Earth HD Telu=
+gu
+https://jiotv.hadinetbd.tech/jio/v1/Sony=5FBBC=5FEarth=5FHD=5FTelugu/Sony=
+=5FBBC=5FEarth=5FHD=5FTelugu/Sony=5FBBC=5FEarth=5FHD=5FTelugu.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"History 18 Telugu" tvg-logo=3D"ht=
+tp://jiotv.catchup.cdn.jio.com/dare=5Fimages/images/History=5F18=5FTelugu.=
+png" group-title=3D"Infotainment",History 18 Telugu
+https://jiotv.hadinetbd.tech/jio/v1/History=5FTV18=5FHD=5FTelugu/History=
+=5F18=5FTelugu/History=5F18=5FTelugu.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"WILLOW || T20 Men's 2022" tvg-log=
+o=3D"https://resources.pulse.icc-cricket.com/whitelabel-assets/33992/emble=
+m.svg" group-title=3D"Sports",WILLOW || T20 Men's 2022
+https://11live02.akamaized.net/FTX2=5FWILLOW/tracks-v1a1/mono.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"TEN Sports || T20 Men's 2022" tvg=
+-logo=3D"https://ttensports.com/wp-content/uploads/2019/10/Ten-sports-300x=
+82.png" group-title=3D"Sports",TEN Sports || T20 Men's 2022
+http://221.120.204.3/TEN-SPORTS-LOCKLEeee/index.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Ten 4 Telugu" tvg-logo=3D"https:/=
+/jiotv.catchup.cdn.jio.com/dare=5Fimages/images/Ten=5F4=5FTelugu.png" grou=
+p-title=3D"Sports",Sony TEN 4
+https://jiotv.hadinetbd.tech/jio/v1/Ten=5F4=5FTelugu/Ten=5F4=5FTelugu/Ten=
+=5F4=5FTelugu.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Ten 4 HD Telugu" tvg-logo=3D"http=
+s://jiotv.catchup.cdn.jio.com/dare=5Fimages/images/Ten=5F4=5FHD=5FTelugu.p=
+ng" group-title=3D"Sports",Sony TEN 4 HD
+https://jiotv.hadinetbd.tech/jio/v1/Ten=5F4=5FHD=5FTelugu/Ten=5F4=5FHD=5FT=
+elugu/Ten=5F4=5FHD=5FTelugu.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Star Sports 1 HD" tvg-logo=3D"htt=
+ps://static.wikia.nocookie.net/logopedia/images/b/b4/Star=5FSports=5FHD1.p=
+ng" group-title=3D"Sports",Star Sports 1 HD
+http://watchindia.net:8880/live/vvv/vvv/808.ts
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Star Sports 2 HD" tvg-logo=3D"htt=
+ps://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg" group-titl=
+e=3D"Sports",Star Sports 2 HD
+http://1tv1.net:8080/live/01007888688/28464975/93637.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" tvg-name=3D"Star Sports 1 HD (HINDI)" tvg-log=
+o=3D"https://static.wikia.nocookie.net/logopedia/images/b/b4/Star=5FSports=
+=5FHD1.png" group-title=3D"Sports",Star Sports 1 HD (HINDI)
+http://1tv1.net:8080/live/01007888688/28464975/93634.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" group-title=3D"Educational" tvg-logo=3D"http:=
+//jiotv.catchup.cdn.jio.com/dare=5Fimages/images/AP=5FBIE=5FARTS.png",AP B=
+IE ARTS
+https://jiotv.hadinetbd.tech/jio/v1/AP=5FBIE=5FARTS/AP=5FBIE=5FARTS/AP=5FB=
+IE=5FARTS.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" group-title=3D"Educational"  tvg-logo=3D"http=
+://jiotv.catchup.cdn.jio.com/dare=5Fimages/images/AP=5FBIE=5FSCIENCE.png",=
+AP BIE SCIENCE
+https://jiotv.hadinetbd.tech/jio/v1/AP=5FBIE=5FSCIENCE/AP=5FBIE=5FSCIENCE/=
+AP=5FBIE=5FSCIENCE.m3u8
+#EXTINF:-0 tvg-id=3D"Telugu" group-title=3D"Educational"  tvg-logo=3D"http=
+://jiotv.catchup.cdn.jio.com/dare=5Fimages/images/AP=5FCIE=5FSIVE.png",AP =
+CIE SIVE
+https://jiotv.hadinetbd.tech/jio/v1/AP=5FCIE=5FSIVE/AP=5FCIE=5FSIVE/AP=5FC=
+IE=5FSIVE.m3u8
+#EXTINF:-1 tvg-id=3D"VOD" tvg-name=3D"Oke Oka Jeevitham (2022)" tvg-logo=
+=3D"https://shotcan.com/images/Fc6mTR-aIAAnz-3.jpg" group-title=3D"VOD || =
+Movies",Oke Oka Jeevitham (2022)
+https://assets-1.entertainvideo.com/assets/media/2c1a96cd2f052c64a9305d79b=
+bdacd70/dash/4f20990f3cdf24ef53edca1457abf14d.mpd
+#EXTINF:-1 tvg-id=3D"VOD" tvg-name=3D"Nenu Meeku Baaga Kavalsinavaadini (2=
+022)" tvg-logo=3D"https://i3.extraimage.xyz/pix/2022/10/12/RVQylb.jpg" gro=
+up-title=3D"VOD || Movies",Nenu Meeku Baaga Kavalsinavaadini (2022)
+https://assets-1.entertainvideo.com/assets/media/d1954064ebffce01005806bcc=
+6330dd0/dash/be62d9abd0d5535a454835ee462e858a.mpd
+#EXTINF:-1 tvg-id=3D"VOD" tvg-name=3D"Dongalunnaru Jagratha (2022)" tvg-lo=
+go=3D"https://pbs.twimg.com/media/FdWGM7aaAAAxTv3=3Fformat=3Djpg" group-ti=
+tle=3D"VOD || Movies",Dongalunnaru Jagratha (2022)
+https://assets-1.mypowerdisk.com/transcode=5Fvideo/11a6e749170663bb69203d2=
+f2bad18a8/dash/4aea1b36ba7090be5526d00bf74210a6.mpd
+#EXTINF:-1 tvg-id=3D"VOD" tvg-name=3D"Ammu (2022)" tvg-logo=3D"https://pbs=
+.twimg.com/media/Ffb86zpXoAEXxoA=3Fformat=3Djpg" group-title=3D"VOD || Ori=
+ginals",Ammu (2022)
+https://assets-1.entertainvideo.com/assets/media/b2028662f58bcb26c0517eb42=
+d34939b/dash/6702b538564aa6d67d21d5615f451a1f.mpd
+#EXTINF:-1 tvg-id=3D"VOD" tvg-name=3D"Unstoppable (2022)" tvg-logo=3D"http=
+s://i3.extraimage.xyz/pix/2022/10/14/RVxmKA.jpg" group-title=3D"VOD || Web=
+ Series",Unstoppable (2022) S02 EP01
+https://assets-1.entertainvideo.com/assets/media/6c03277445da997231899a065=
+c730a3d/dash/527748a2ed1ac3a0688ad1b4da9fb2f9.mpd
