@@ -111,7 +111,7 @@ https://jio.dooflix.in/live.php?c=Hindu_Dharmam&q=1200&e=junk.m3u8
 https://jiotv.hadinetbd.tech/jio/v1/PMC_Telugu/PMC_Telugu/PMC_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Sattva TV" group-title="Bhakti"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sattva_TV.png",Sattva TV
 https://jiotv.hadinetbd.tech/jio/v1/Sattva_TV/Sattva_TV/Sattva_TV.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Khushi TV" tvg-logo="https://sund-images.sunnxt.com/26571/200x200_KushiTV_26571_ef287cac-6e6f-4cc7-96e1-b92160acb927.png" group-title="KIDS",Khushi TV
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Khushi TV" tvg-logo="https://sund-images.sunnxt.com/26571/200x200_KushiTV_26571_ef287cac-6e6f-4cc7-96e1-b92160acb927.png" group-title="KIDS",Kushi TV
 https://suntvlive.akamaized.net/hls/live/2093456/KushiTV/master.m3u8?hdnea=st=1666452158~exp=1666452458~acl=!*/2093456/KushiTV/*~hmac=58004cb4e2bb70df0b71059dc38d654da428577c156a58a7c6f61a2bc7b40f0a&PlayBackId=2380847232&cid=26571&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Sonic Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="KIDS",Sonic
 https://jiotv.hadinetbd.tech/jio/v1/Sonic_Telugu/Sonic_Telugu/Sonic_Telugu.m3u8
