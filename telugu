@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz"
+#EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz" url-tvg="https://tinyurl.com/2zb96xa5"
 #EXTINF:-0 tvg-id="Telugu" tvg-name="IPTV Telugu" tvg-logo="https://i.postimg.cc/PfSfj5xm/photo-2022-10-14-14-15-53.jpg" group-title="Join At",IPTV Telugu
 https://github.com/madhukar7322/IPTV-Telugu/blob/main/iptv-telugu.ts?raw=true
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Telugu" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1008/PORTRAIT/k54DafKg.png" group-title="Entertinment",Zee Telugu
