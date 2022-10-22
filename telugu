@@ -39,8 +39,10 @@ http://89.187.179.108:8080/MaaMovies-telu/index.m3u8?token=test
 https://jiotv.hadinetbd.tech/jio/v1/ETV_Cinema/ETV_Cinema/ETV_Cinema.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Rasi Telugu" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="Movies",Rasi Telugu HD
 rtmp://singamcloud.in:1935/rasinetwork/rasitelugu
+#EXTINF:-0 tvg-id="Telugu" tvg-name="&Flix HD" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/flix-280-200.png" group-title="Movies",&Flix HD
+http://starshare.live:8080/live/bdp@0701516001/0701516001@bdp/253.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Telugu BOX Office" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/tbo.jpg" group-title="Movies",Telugu BOX Office
-http://watchindia.net:8880/live/vvv/vvv/2155.ts
+http://webo.asia:80/Shirley/Shirley/20703
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Studio Yuva Alpha" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png" group-title="Movies",Studio Yuva Alpha
 https://jiotv.hadinetbd.tech/jio/v1/Studio_Yuva_Alpha/Studio_Yuva_Alpha/Studio_Yuva_Alpha.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Studio One" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png" group-title="Movies",Studio One
@@ -48,7 +50,7 @@ https://jiotv.hadinetbd.tech/jio/v1/Studio_One/Studio_One/Studio_One.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Gemini_Music.jpg" group-title="Music",Gemini Music
 https://the-nayeemparvez.ml/star7api/star7.php?chid=47989
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Music HD" tvg-logo="https://sund-images.sunnxt.com/26568/200x200_GeminiMusicHD_26568_2dc0c46d-afdf-407d-8862-3c2df67bee5b.png" group-title="Music",Gemini Music HD
-https://suntvlive.akamaized.net/hls/live/2093464/GeminiMusicHD/master.m3u8?hdnea=st=1666451591~exp=1666451891~acl=!*/2093464/GeminiMusicHD/*~hmac=94e265868d778bca6deaa17fe6bee170ae146e7fa5fa14f8c060e569dad5dc91&PlayBackId=2380847232&cid=26568&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
+http://starshare.live:8080/live/bdp@0701516001/0701516001@bdp/23796.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-music-black.png" group-title="Music",Maa Music
 http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=test
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Raj Music Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="Music",Raj Music Telugu
@@ -131,14 +133,16 @@ https://jiotv.hadinetbd.tech/jio/v1/CN_HD+_Telugu/CN_HD+_Telugu/CN_HD+_Telugu.m3
 https://jiotv.hadinetbd.tech/jio/v1/Pogo_Telugu/Pogo_Telugu/Pogo_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Discovery Channel Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",Discovery Channel Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Discovery_Channel_Telugu/Discovery_Channel_Telugu/Discovery_Channel_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="National Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png" group-title="Infotainment",National Geo Wild HD
-http://103.99.249.107:81/play/a008
-#EXTINF:-0 tvg-id="Telugu" tvg-name="National Geo" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" group-title="Infotainment",National Geo HD
-http://103.99.249.107:81/play/a00n
+#EXTINF:-0 tvg-id="Telugu" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png" group-title="Infotainment",National Geographic Wild HD
+http://webo.asia:80/Shirley/Shirley/161890
+#EXTINF:-0 tvg-id="Telugu" tvg-name="National Geographic HD" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" group-title="Infotainment",National Geographic HD
+http://webo.asia:80/Shirley/Shirley/403908
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Sony BBC Earth HD Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",Sony BBC Earth HD Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="History 18 Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History 18 Telugu
 https://jiotv.hadinetbd.tech/jio/v1/History_TV18_HD_Telugu/History_18_Telugu/History_18_Telugu.m3u8
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 1 Telugu || T20 Men's 2022" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Star_Sports_1_Telugu.png" group-title="Sports",Star Sports 1 Telugu || T20 Men's 2022
+http://starshare.live:8080/live/bdp@0701516001/0701516001@bdp/82826.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="WILLOW || T20 Men's 2022" tvg-logo="https://resources.pulse.icc-cricket.com/whitelabel-assets/33992/emblem.svg" group-title="Sports",WILLOW || T20 Men's 2022
 https://11live02.akamaized.net/FTX2_WILLOW/tracks-v1a1/mono.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="TEN Sports || T20 Men's 2022" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports-300x82.png" group-title="Sports",TEN Sports || T20 Men's 2022
