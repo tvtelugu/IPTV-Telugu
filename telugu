@@ -143,6 +143,8 @@ https://jiotv.hadinetbd.tech/jio/v1/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_T
 https://jiotv.hadinetbd.tech/jio/v1/History_TV18_HD_Telugu/History_18_Telugu/History_18_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 1 Telugu || T20 Men's 2022" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Star_Sports_1_Telugu.png" group-title="Sports",Star Sports 1 Telugu || T20 Men's 2022
 http://starshare.live:8080/live/bdp@0701516001/0701516001@bdp/82826.ts
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 1 Telugu || T20 Men's 2022" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Star_Sports_1_Telugu.png" group-title="Sports",Star Sports 1 Telugu || T20 Men's 2022
+http://starshare.live:8080/live/bdp@0701516001/0701516001@bdp/124292.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="WILLOW || T20 Men's 2022" tvg-logo="https://resources.pulse.icc-cricket.com/whitelabel-assets/33992/emblem.svg" group-title="Sports",WILLOW || T20 Men's 2022
 https://11live02.akamaized.net/FTX2_WILLOW/tracks-v1a1/mono.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="TEN Sports || T20 Men's 2022" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports-300x82.png" group-title="Sports",TEN Sports || T20 Men's 2022
