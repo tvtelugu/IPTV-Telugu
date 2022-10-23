@@ -167,6 +167,8 @@ https://jiotv.hadinetbd.tech/jio/v1/AP_BIE_SCIENCE/AP_BIE_SCIENCE/AP_BIE_SCIENCE
 https://jiotv.hadinetbd.tech/jio/v1/AP_CIE_SIVE/AP_CIE_SIVE/AP_CIE_SIVE.m3u8
 #EXTINF:-1 tvg-id="VOD" tvg-name="Bimbisara (2022)" tvg-logo="https://i3.extraimage.xyz/pix/2022/10/20/RXwczr.md.jpg" group-title="VOD || Movies",Bimbisara (2022)
 https://assets-1.mypowerdisk.com/transcode_video/72b0f0202b201190803e64a619ee661b/dash/326f67219dbe86226beb9fb1f01b5f62.mpd
+#EXTINF:-1 tvg-id="VOD" tvg-name="Krishna Vrinda Vihari (2022)" tvg-logo="https://i3.extraimage.xyz/pix/2022/10/22/RXZ0lx.jpg" group-title="VOD || Movies",Krishna Vrinda Vihari (2022)
+https://assets-1.mypowerdisk.com/transcode_video/a88aa43e075433303d6d18f004805aa0/dash/5c6c3651983a40ebcdbc7575bdd6cd11.mpd
 #EXTINF:-1 tvg-id="VOD" tvg-name="Oke Oka Jeevitham (2022)" tvg-logo="https://shotcan.com/images/Fc6mTR-aIAAnz-3.jpg" group-title="VOD || Movies",Oke Oka Jeevitham (2022)
 https://assets-1.entertainvideo.com/assets/media/2c1a96cd2f052c64a9305d79bbdacd70/dash/4f20990f3cdf24ef53edca1457abf14d.mpd
 #EXTINF:-1 tvg-id="VOD" tvg-name="Nenu Meeku Baaga Kavalsinavaadini (2022)" tvg-logo="https://i3.extraimage.xyz/pix/2022/10/12/RVQylb.jpg" group-title="VOD || Movies",Nenu Meeku Baaga Kavalsinavaadini (2022)
