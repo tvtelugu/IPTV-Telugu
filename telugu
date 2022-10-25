@@ -126,9 +126,9 @@ https://jiotv.hadinetbd.tech/jio/v1/Sony_Yay_Telugu/Sony_Yay_Telugu/Sony_Yay_Tel
 #EXTINF:-0 tvg-id="Telugu" tvg-name="NICK Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="KIDS",NICK
 https://jiotv.hadinetbd.tech/jio/v1/Nick_Telugu/Nick_Telugu/Nick_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Hungama" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/hungama.png" group-title="KIDS",Hungama
-https://the-nayeemparvez.ml/star7api/star7.php?chid=48164
+http://45.125.220.129:81/play/a04e
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Disney" tvg-logo="http://files.rednetcontent.com/chlogo/disny.png" group-title="KIDS",Disney
-https://the-nayeemparvez.ml/star7api/star7.php?chid=48157
+http://45.125.220.129:81/play/a04c
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Cartoon Network Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" group-title="KIDS",Cartoon Network Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Cartoon_Network_Telugu/Cartoon_Network_Telugu/Cartoon_Network_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="CN HD+ Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="KIDS",CN HD+ Telugu
