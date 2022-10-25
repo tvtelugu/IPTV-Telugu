@@ -14,7 +14,7 @@ http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini HD" tvg-logo="https://sund-images.sunnxt.com/14019/200x200_GeminiTVHD_14019_65bc2d50-f266-4521-8fd5-38791f3272b4.png" group-title="Entertinment",Gemini HD
 http://starshare.live:8080/live/iCq8mmltb4/1ctlhAUXrT/23315.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini " tvg-logo="https://i.ibb.co/MByCrHs/Gemini.png" group-title="Entertinment",Gemini
-http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6709/index.m3u8
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/165794
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Gold" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png" group-title="Entertinment",Maa Gold
 http://starshare.live:8080/live/iCq8mmltb4/1ctlhAUXrT/9043.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Comedy" tvg-logo="https://sund-images.sunnxt.com/9027/200x200_GeminiComedy_9027_54480d40-b0f2-4b28-90cd-238a161dab4c.png" group-title="Entertinment",Gemini Comedy
@@ -33,8 +33,10 @@ http://ranapk.1.mywebsites.link/zee5x/Z5RanaxPk.php?c=0-9-zeecinemalu
 https://jiotv.hadinetbd.tech/jio/v1/Zee_Cinemalu/Zee_Cinemalu/Zee_Cinemalu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/200x200_GeminiMoviesHD_26570_0ca1d1e8-f04d-41d0-943d-5e8948e271bc.png" group-title="Movies",Gemini Movies HD
 http://starshare.live:8080/live/iCq8mmltb4/1ctlhAUXrT/212.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Movies" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Movies",Maa Movies HD
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Movies HD" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Movies",Maa Movies HD
 http://89.187.179.108:8080/MaaMovies-telu/index.m3u8?token=test
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Movies" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Movies",Maa Movies
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/82624
 #EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="Movies",ETV Cinema
 https://jiotv.hadinetbd.tech/jio/v1/ETV_Cinema/ETV_Cinema/ETV_Cinema.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Rasi Telugu" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="Movies",Rasi Telugu HD
@@ -156,9 +158,15 @@ https://jiotv.hadinetbd.tech/jio/v1/Ten_4_HD_Telugu/Ten_4_HD_Telugu/Ten_4_HD_Tel
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
 http://watchindia.net:8880/live/vvv/vvv/808.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg" group-title="Sports",Star Sports 2 HD
-http://1tv1.net:8080/live/01007888688/28464975/93637.m3u8
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/3631
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 1 HD (HINDI)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD (HINDI)
-http://1tv1.net:8080/live/01007888688/28464975/93634.m3u8
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/3630
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title="Sports",Star Sports 3
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/62584
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/32dd229ae9dd6bb71e041ba5545ca2b9.jpg" group-title="Sports",Star Sports Select 1
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/82628
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/90d4a692460906d2af537d261d1ac3a1.jpg" group-title="Sports",Star Sports Select 2
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/16619
 #EXTINF:-0 tvg-id="Telugu" group-title="Educational" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png",AP BIE ARTS
 https://jiotv.hadinetbd.tech/jio/v1/AP_BIE_ARTS/AP_BIE_ARTS/AP_BIE_ARTS.m3u8
 #EXTINF:-0 tvg-id="Telugu" group-title="Educational"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png",AP BIE SCIENCE
