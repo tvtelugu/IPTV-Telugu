@@ -44,9 +44,9 @@ https://jiotv.hadinetbd.tech/jio/v1/ETV_Cinema/ETV_Cinema/ETV_Cinema.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Rasi Telugu" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="Movies",Rasi Telugu HD
 rtmp://singamcloud.in:1935/rasinetwork/rasitelugu
 #EXTINF:-0 tvg-id="Telugu" tvg-name="&Flix HD" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/flix-280-200.png" group-title="Movies",&Flix HD
-http://starshare.live:8080/live/iCq8mmltb4/1ctlhAUXrT/253.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Telugu BOX Office" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/tbo.jpg" group-title="Movies",Telugu BOX Office
-http://webo.asia:80/Shirley/Shirley/20703
+http://45.125.220.129:81/play/a04s
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Sony Pix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/220px-Sony_Pix_new.png" group-title="Movies",Sony Pix HD
+http://45.125.220.129:81/play/a055
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Studio Yuva Alpha" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png" group-title="Movies",Studio Yuva Alpha
 https://jiotv.hadinetbd.tech/jio/v1/Studio_Yuva_Alpha/Studio_Yuva_Alpha/Studio_Yuva_Alpha.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Studio One" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png" group-title="Movies",Studio One
