@@ -143,18 +143,6 @@ http://webo.asia:80/Shirley/Shirley/403908
 https://jiotv.hadinetbd.tech/jio/v1/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="History 18 Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History 18 Telugu
 https://jiotv.hadinetbd.tech/jio/v1/History_TV18_HD_Telugu/History_18_Telugu/History_18_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 1 Telugu || T20 Men's 2022" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Star_Sports_1_Telugu.png" group-title="Sports",Star Sports 1 Telugu || T20 Men's 2022
-http://starshare.live:8080/live/iCq8mmltb4/1ctlhAUXrT/82826.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 1 Telugu || T20 Men's 2022" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Star_Sports_1_Telugu.png" group-title="Sports",Star Sports 1 Telugu || T20 Men's 2022
-http://starshare.live:8080/live/iCq8mmltb4/1ctlhAUXrT/124292.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="WILLOW || T20 Men's 2022" tvg-logo="https://resources.pulse.icc-cricket.com/whitelabel-assets/33992/emblem.svg" group-title="Sports",WILLOW || T20 Men's 2022
-https://11live02.akamaized.net/FTX2_WILLOW/tracks-v1a1/mono.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="TEN Sports || T20 Men's 2022" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports-300x82.png" group-title="Sports",TEN Sports || T20 Men's 2022
-http://221.120.204.3/TEN-SPORTS-LOCKLEeee/index.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Ten 4 Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="Sports",Sony TEN 4
-https://jiotv.hadinetbd.tech/jio/v1/Ten_4_Telugu/Ten_4_Telugu/Ten_4_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Ten 4 HD Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="Sports",Sony TEN 4 HD
-https://jiotv.hadinetbd.tech/jio/v1/Ten_4_HD_Telugu/Ten_4_HD_Telugu/Ten_4_HD_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
 http://watchindia.net:8880/live/vvv/vvv/808.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg" group-title="Sports",Star Sports 2 HD
@@ -167,6 +155,10 @@ http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/62584
 http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/82628
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/90d4a692460906d2af537d261d1ac3a1.jpg" group-title="Sports",Star Sports Select 2
 http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/16619
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Ten 4 Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="Sports",Sony TEN 4
+https://jiotv.hadinetbd.tech/jio/v1/Ten_4_Telugu/Ten_4_Telugu/Ten_4_Telugu.m3u8
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Ten 4 HD Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="Sports",Sony TEN 4 HD
+https://jiotv.hadinetbd.tech/jio/v1/Ten_4_HD_Telugu/Ten_4_HD_Telugu/Ten_4_HD_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" group-title="Educational" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png",AP BIE ARTS
 https://jiotv.hadinetbd.tech/jio/v1/AP_BIE_ARTS/AP_BIE_ARTS/AP_BIE_ARTS.m3u8
 #EXTINF:-0 tvg-id="Telugu" group-title="Educational"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png",AP BIE SCIENCE
