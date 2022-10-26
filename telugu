@@ -35,6 +35,8 @@ http://ranapk.1.mywebsites.link/zee5x/Z5RanaxPk.php?c=0-9-zeecinemalu
 https://jiotv.hadinetbd.tech/jio/v1/Zee_Cinemalu/Zee_Cinemalu/Zee_Cinemalu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/200x200_GeminiMoviesHD_26570_0ca1d1e8-f04d-41d0-943d-5e8948e271bc.png" group-title="Movies",Gemini Movies HD
 http://showflix.org:5890/NaoufaL02/G827R5KTV4/143244
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Movies" tvg-logo="https://sund-images.sunnxt.com/26570/200x200_GeminiMoviesHD_26570_0ca1d1e8-f04d-41d0-943d-5e8948e271bc.png" group-title="Movies",Gemini Movies
+https://akiliv.herokuapp.com/app/master.php?id=47983&e=.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Movies HD" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Movies",Maa Movies HD
 https://akiliv.herokuapp.com/app/master.php?id=47974&e=.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Movies" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Movies",Maa Movies
