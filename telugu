@@ -172,7 +172,7 @@ https://jiotv.hadinetbd.tech/jio/v1/AP_CIE_SIVE/AP_CIE_SIVE/AP_CIE_SIVE.m3u8
 #EXTINF:-1 tvg-id="VOD" tvg-name="Bimbisara (2022)" tvg-logo="https://i2.cinestaan.com/image-bank/640-360/206001-207000/206738.jpg" group-title="VOD || Movies",Bimbisara (2022)
 https://assets-1.mypowerdisk.com/transcode_video/72b0f0202b201190803e64a619ee661b/dash/326f67219dbe86226beb9fb1f01b5f62.mpd
 #EXTINF:-1 tvg-id="VOD" tvg-name="Swathi Muthyam (2022)" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/206001-207000/206828.jpg" group-title="VOD || Movies",Swathi Muthyam (2022)
-https://assets-1.mypowerdisk.com/transcode_video/609b2f13a142a726dc192138b59b7b59/dash/52937063117eea8c4b3ed5c12b5d6780.mpd
+https://my-bucket-s3-ap-east-amazonaws.ubpesyyzox.link/100_q2UhwuZ7N2_pU72TzJ7Xw/s134/Swathimuthyam-n2sef-2022.mp4
 #EXTINF:-1 tvg-id="VOD" tvg-name="Krishna Vrinda Vihari (2022)" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/197001-198000/197922.jpg" group-title="VOD || Movies",Krishna Vrinda Vihari (2022)
 https://assets-1.mypowerdisk.com/transcode_video/a88aa43e075433303d6d18f004805aa0/dash/5c6c3651983a40ebcdbc7575bdd6cd11.mpd
 #EXTINF:-1 tvg-id="VOD" tvg-name="Oke Oka Jeevitham (2022)" tvg-logo="https://shotcan.com/images/Fc6mTR-aIAAnz-3.jpg" group-title="VOD || Movies",Oke Oka Jeevitham (2022)
