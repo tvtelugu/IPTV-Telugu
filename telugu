@@ -14,7 +14,7 @@ https://akiliv.herokuapp.com/app/master.php?id=47975&e=.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="Entertinment",Maa TV
 http://showflix.org:5890/NaoufaL02/G827R5KTV4/143287
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini HD" tvg-logo="https://sund-images.sunnxt.com/14019/200x200_GeminiTVHD_14019_65bc2d50-f266-4521-8fd5-38791f3272b4.png" group-title="Entertinment",Gemini HD
-http://suntvlive.akamaized.net/hls/live/2093460/GeminiTVHD/hdntl=exp=1666849457%7eacl=%2F*%7edata=hdntl%7ehmac=c67a971067ab356c7c05b8c601b9710ac75317e9be7b5c1c7d3cf15566ce1a7f/master_1080p.m3u8
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/165794
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini " tvg-logo="https://i.ibb.co/MByCrHs/Gemini.png" group-title="Entertinment",Gemini
 https://suntvlive.akamaized.net/hls/live/2093459/GeminiTV/hdntl=exp=1666850117~acl=%2f*~data=hdntl~hmac=f5dd4470360cb14687467e7e600425b09c324e9c7627b65de960a50b18b10d43/master_480p.m3u8?hdnea=st%3D1666763656~exp%3D1666763956~acl%3D%21%2A%2F2093459%2FGeminiTV%2F%2A~hmac%3D0b9684cff4e6063a3268b7199833ad2296fc6745de56148e5570e728941cMovies
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Maa Gold" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png" group-title="Entertinment",Star Maa Gold
