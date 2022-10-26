@@ -14,9 +14,9 @@ https://akiliv.herokuapp.com/app/master.php?id=47975&e=.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="Entertinment",Maa TV
 http://showflix.org:5890/NaoufaL02/G827R5KTV4/143287
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini HD" tvg-logo="https://sund-images.sunnxt.com/14019/200x200_GeminiTVHD_14019_65bc2d50-f266-4521-8fd5-38791f3272b4.png" group-title="Entertinment",Gemini HD
-http://rv.bleutv.net:2089/152019521663077/152058336619947/198030
+https://suntvlive.akamaized.net/hls/live/2093460/GeminiTVHD/hdntl=exp=1666849457~acl=%2f*~data=hdntl~hmac=c67a971067ab356c7c05b8c601b9710ac75317e9be7b5c1c7d3cf15566ce1a7f/master_1080p.m3u8?hdnea=st%3D1666762888~exp%3D1666763188~acl%3D%21%2A%2F2093460%2FGeminiTVHD%2F%2A~hmac%3Df49bfa96ac41b75e64e5b1f90861e6994e25a87bb1a866dd1b45f6852158f537
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini " tvg-logo="https://i.ibb.co/MByCrHs/Gemini.png" group-title="Entertinment",Gemini
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/165794
+https://suntvlive.akamaized.net/hls/live/2093459/GeminiTV/hdntl=exp=1666850117~acl=%2f*~data=hdntl~hmac=f5dd4470360cb14687467e7e600425b09c324e9c7627b65de960a50b18b10d43/master_480p.m3u8?hdnea=st%3D1666763656~exp%3D1666763956~acl%3D%21%2A%2F2093459%2FGeminiTV%2F%2A~hmac%3D0b9684cff4e6063a3268b7199833ad2296fc6745de56148e5570e728941cMovies
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Maa Gold" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png" group-title="Entertinment",Star Maa Gold
 https://akiliv.herokuapp.com/app/master.php?id=47992&e=.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Comedy" tvg-logo="https://sund-images.sunnxt.com/9027/200x200_GeminiComedy_9027_54480d40-b0f2-4b28-90cd-238a161dab4c.png" group-title="Entertinment",Gemini Comedy
@@ -54,7 +54,7 @@ https://jiotv.hadinetbd.tech/jio/v1/Studio_One/Studio_One/Studio_One.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Gemini_Music.jpg" group-title="Music",Gemini Music
 https://akiliv.herokuapp.com/app/master.php?id=47989&e=.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Music HD" tvg-logo="https://sund-images.sunnxt.com/26568/200x200_GeminiMusicHD_26568_2dc0c46d-afdf-407d-8862-3c2df67bee5b.png" group-title="Music",Gemini Music HD
-http://starshare.live:8080/live/iCq8mmltb4/1ctlhAUXrT/23796.ts
+https://suntvlive.akamaized.net/hls/live/2093464/GeminiMusicHD/hdntl=exp=1666849640~acl=%2f*~data=hdntl~hmac=234ff3e2f4eb01fc6109add9ba8586105ba5d02bc6936772d8843568bf46771d/master_1080p.m3u8?hdnea=st%3D1666763143~exp%3D1666763443~acl%3D%21%2A%2F2093464%2FGeminiMusicHD%2F%2A~hmac%3D649e63a84722fa80d1a465d96a1bf0d702d2c48c35263577a0a6421797797b3d
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-music-black.png" group-title="Music",Maa Music
 http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=test
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Raj Music Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="Music",Raj Music Telugu
@@ -117,7 +117,9 @@ https://jio.dooflix.in/live.php?c=Hindu_Dharmam&q=1200&e=junk.m3u8
 https://jiotv.hadinetbd.tech/jio/v1/PMC_Telugu/PMC_Telugu/PMC_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Sattva TV" group-title="Bhakti"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sattva_TV.png",Sattva TV
 https://jiotv.hadinetbd.tech/jio/v1/Sattva_TV/Sattva_TV/Sattva_TV.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Super Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Super_Hungama_Logo.png/220px-Super_Hungama_Logo.png" group-title="KIDS", Super Hungama
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Kushi Tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Khushi_TV.jpg" group-title="KIDS",Kushi Tv
+https://suntvlive.akamaized.net/hls/live/2093456/KushiTV/hdntl=exp=1666849998~acl=%2f*~data=hdntl~hmac=aa69cbb08a35b2ae8a9d49945087ff12349e12f286a075c232c7cedae22e0d36/master_480p.m3u8?hdnea=st%3D1666763536~exp%3D1666763836~acl%3D%21%2A%2F2093456%2FKushiTV%2F%2A~hmac%3D1c1e8ee7e93de1a7639bc9c36ff71b65e2a5f6eef5ae8aa131e7efa3482394beTV
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Super Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Super_Hungama_Logo.png/220px-Super_Hungama_Logo.png" group-title="KIDS",Super Hungama
 http://45.125.220.129:81/play/a049
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Sonic Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="KIDS",Sonic
 https://jiotv.hadinetbd.tech/jio/v1/Sonic_Telugu/Sonic_Telugu/Sonic_Telugu.m3u8
