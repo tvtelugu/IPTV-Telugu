@@ -148,7 +148,7 @@ https://tv.googledrivelinks.com/autoq.php?c=Sony_BBC_Earth_HD_Telugu
 #EXTINF:-0 tvg-id="Telugu" tvg-name="History 18 Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History 18 Telugu
 https://tv.googledrivelinks.com/autoq.php?c=History_18_Telugu
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
-http://watchindia.net:8880/live/vvv/vvv/808.ts
+https://akiliv.herokuapp.com/app/master.php?id=48105&e=.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg" group-title="Sports",Star Sports 2 HD
 http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/3631
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 1 HD (HINDI)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD (HINDI)
