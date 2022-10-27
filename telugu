@@ -84,7 +84,7 @@ https://jiotv.hadinetbd.tech/jio/v1/ETV_Telangana/ETV_Telangana/ETV_Telangana.m3
 #EXTINF:-0 tvg-id="Telugu" tvg-name="ABN Andhra Jyothi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
 https://jiotv.hadinetbd.tech/jio/v1/ABN_Andhra_Jyothi/ABN_Andhra_Jyothi/ABN_Andhra_Jyothi.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="TV9 Telugu News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="News",TV9 Telugu
-https://e47f-3-111-119-175.in.ngrok.io/tsautoq.php?c=TV9_Telugu_News
+http://ranapk.gq/PLUSxRANAPKxT/live.php?c=TV9_Telugu_News
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Sakshi tv" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png" group-title="News",Sakshi TV
 https://jiotv.hadinetbd.tech/jio/v1/Sakshi_tv/Sakshi_tv/Sakshi_tv.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="10 TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" group-title="News",10 TV
