@@ -14,9 +14,9 @@ http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="Entertinment",Maa TV
 http://showflix.org:5890/NaoufaL02/G827R5KTV4/143287
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini HD" tvg-logo="https://sund-images.sunnxt.com/14019/200x200_GeminiTVHD_14019_65bc2d50-f266-4521-8fd5-38791f3272b4.png" group-title="Entertinment",Gemini HD
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/165794
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/230777
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini " tvg-logo="https://i.ibb.co/MByCrHs/Gemini.png" group-title="Entertinment",Gemini
-https://suntvlive.akamaized.net/hls/live/2093459/GeminiTV/hdntl=exp=1666850117~acl=%2f*~data=hdntl~hmac=f5dd4470360cb14687467e7e600425b09c324e9c7627b65de960a50b18b10d43/master_480p.m3u8?hdnea=st%3D1666763656~exp%3D1666763956~acl%3D%21%2A%2F2093459%2FGeminiTV%2F%2A~hmac%3D0b9684cff4e6063a3268b7199833ad2296fc6745de56148e5570e728941cMovies
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/165794
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Maa Gold" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png" group-title="Entertinment",Star Maa Gold
 https://akiliv.herokuapp.com/app/master.php?id=47992&e=.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Comedy" tvg-logo="https://sund-images.sunnxt.com/9027/200x200_GeminiComedy_9027_54480d40-b0f2-4b28-90cd-238a161dab4c.png" group-title="Entertinment",Gemini Comedy
@@ -36,9 +36,9 @@ https://tv.googledrivelinks.com/autoq.php?c=Zee_Cinemalu
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/200x200_GeminiMoviesHD_26570_0ca1d1e8-f04d-41d0-943d-5e8948e271bc.png" group-title="Movies",Gemini Movies HD
 http://showflix.org:5890/NaoufaL02/G827R5KTV4/143244
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Movies" tvg-logo="https://sund-images.sunnxt.com/26570/200x200_GeminiMoviesHD_26570_0ca1d1e8-f04d-41d0-943d-5e8948e271bc.png" group-title="Movies",Gemini Movies
-https://akiliv.herokuapp.com/app/master.php?id=47983&e=.m3u8
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/230779
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Movies HD" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Movies",Maa Movies HD
-https://akiliv.herokuapp.com/app/master.php?id=47974&e=.m3u8
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/363922
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Movies" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Movies",Maa Movies
 http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/82624
 #EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="Movies",ETV Cinema
@@ -56,13 +56,13 @@ https://tv.googledrivelinks.com/autoq.php?c=Studio_One
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Gemini_Music.jpg" group-title="Music",Gemini Music
 https://akiliv.herokuapp.com/app/master.php?id=47989&e=.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Music HD" tvg-logo="https://sund-images.sunnxt.com/26568/200x200_GeminiMusicHD_26568_2dc0c46d-afdf-407d-8862-3c2df67bee5b.png" group-title="Music",Gemini Music HD
-https://suntvlive.akamaized.net/hls/live/2093464/GeminiMusicHD/hdntl=exp=1666849640~acl=%2f*~data=hdntl~hmac=234ff3e2f4eb01fc6109add9ba8586105ba5d02bc6936772d8843568bf46771d/master_1080p.m3u8?hdnea=st%3D1666763143~exp%3D1666763443~acl%3D%21%2A%2F2093464%2FGeminiMusicHD%2F%2A~hmac%3D649e63a84722fa80d1a465d96a1bf0d702d2c48c35263577a0a6421797797b3d
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/363917
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-music-black.png" group-title="Music",Maa Music
 http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=test
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Raj Music Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="Music",Raj Music Telugu
 https://tv.googledrivelinks.com/autoq.php?c=Raj_Music_Telugu
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Life" tvg-logo="https://sund-images.sunnxt.com/26572/200x200_GeminiLife_26572_797a9d8c-2ec2-4af8-b3dc-3b10c16c060d.png" group-title="Music",Gemini Life
-https://akiliv.herokuapp.com/app/master.php?id=47990&e=.m3u8
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/363919
 #EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Abhiruchi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" group-title="Life Style",ETV Abhiruchi
 https://tv.googledrivelinks.com/autoq.php?c=ETV_Abhiruchi
 #EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Life" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png" group-title="Life Style",ETV Life
