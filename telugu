@@ -78,7 +78,7 @@ https://jiotv.hadinetbd.tech/jio/v1/Vanitha/Vanitha/Vanitha.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="V6 News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="News",V6 News
 https://jiotv.hadinetbd.tech/jio/v1/V6_News/V6_News/V6_News.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="T News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" group-title="News",T News
-https://jiotv.hadinetbd.tech/jio/v1/T_NewsT_NewsT_News.m3u8
+https://jiotv.hadinetbd.tech/jio/v1/T_News/T_News/T_News.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Andhra Pradesh" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" group-title="News",ETV Andhra Pradesh
 https://jiotv.hadinetbd.tech/jio/v1/ETV_Andhra_pradesh/ETV_Andhra_pradesh/ETV_Andhra_pradesh.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Telangana" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="News",ETV Telangana
@@ -101,8 +101,8 @@ https://jiotv.hadinetbd.tech/jio/v1/TV_5_News/TV_5_News/TV_5_News.m3u8
 https://jiotv.hadinetbd.tech/jio/v1/HM_TV/HM_TV/HM_TV.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="NTV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="News",NTV
 https://jiotv.hadinetbd.tech/jio/v1/NTV/NTV/NTV.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Mahaa News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_News.png" group-title="News",Mahaa News
-https://jiotv.hadinetbd.tech/jio/v1/Maha_NewsMaha_NewsMaha_News.m3u8
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Maha News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_News.png" group-title="News",Maha News
+https://jiotv.hadinetbd.tech/jio/v1/Maha_News/Maha_News/Maha_News.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Raj News Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="News",Raj News Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Raj_News_Telugu/Raj_News_Telugu/Raj_News_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhaarat_Today.png",Bhaarat Today
@@ -121,14 +121,14 @@ https://jiotv.hadinetbd.tech/jio/v1/PMC_Telugu/PMC_Telugu/PMC_Telugu.m3u8
 https://jiotv.hadinetbd.tech/jio/v1/Sattva_TV/Sattva_TV/Sattva_TV.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Sonic Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="KIDS",Sonic Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Sonic_Telugu/Sonic_Telugu/Sonic_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Sony Yay Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="KIDS",Sony YAY Telugu
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Sony Yay Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="KIDS",Sony Yay Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Sony_Yay_Telugu/Sony_Yay_Telugu/Sony_Yay_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="NICK Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="KIDS",NICK Telugu
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Nick Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="KIDS",Nick Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Nick_Telugu/Nick_Telugu/Nick_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Cartoon Network Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" group-title="KIDS",Cartoon Network Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Cartoon_Network_Telugu/Cartoon_Network_Telugu/Cartoon_Network_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="CN HD+ Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="KIDS",CN HD+ Telugu
-https://jiotv.hadinetbd.tech/jio/v1/CN_HD+_Telugu/CN_HD+_Telugu/CN_HD+_Telugu.m3u8
+#EXTINF:-0 tvg-id="Telugu" tvg-name="CN HD Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="KIDS",CN HD Telugu
+https://jiotv.hadinetbd.tech/jio/v1/CN_HD_Telugu/CN_HD_Telugu/CN_HD_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Pogo Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png" group-title="KIDS",Pogo Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Pogo_Telugu/Pogo_Telugu/Pogo_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Discovery Channel Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",Discovery Channel Telugu
