@@ -119,23 +119,23 @@ https://tv.googledrivelinks.com/autoq.php?c=PMC_Telugu
 https://tv.googledrivelinks.com/autoq.php?c=Sattva_TV
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Kushi Tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Khushi_TV.jpg" group-title="KIDS",Kushi Tv
 https://suntvlive.akamaized.net/hls/live/2093456/KushiTV/hdntl=exp=1666849998~acl=%2f*~data=hdntl~hmac=aa69cbb08a35b2ae8a9d49945087ff12349e12f286a075c232c7cedae22e0d36/master_480p.m3u8?hdnea=st%3D1666763536~exp%3D1666763836~acl%3D%21%2A%2F2093456%2FKushiTV%2F%2A~hmac%3D1c1e8ee7e93de1a7639bc9c36ff71b65e2a5f6eef5ae8aa131e7efa3482394beTV
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Super Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Super_Hungama_Logo.png/220px-Super_Hungama_Logo.png" group-title="KIDS",Super Hungama
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Super Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Super_Hungama_Logo.png/220px-Super_Hungama_Logo.png" group-title="KIDS",Super Hungama Telugu
 http://45.125.220.129:81/play/a049
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Sonic Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="KIDS",Sonic
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Sonic Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="KIDS",Sonic Telugu
 https://tv.googledrivelinks.com/autoq.php?c=Sonic_Telugu
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Sony Yay Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="KIDS",Sony YAY
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Sony Yay Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="KIDS",Sony YAY Telugu
 https://tv.googledrivelinks.com/autoq.php?c=Sony_Yay_Telugu
-#EXTINF:-0 tvg-id="Telugu" tvg-name="NICK Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="KIDS",NICK
+#EXTINF:-0 tvg-id="Telugu" tvg-name="NICK Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="KIDS",NICK Telugu
 https://tv.googledrivelinks.com/autoq.php?c=Nick_Telugu
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Hungama" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/hungama.png" group-title="KIDS",Hungama
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Hungama" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/hungama.png" group-title="KIDS",Hungama Telugu
 http://45.125.220.129:81/play/a04e
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Disney" tvg-logo="http://files.rednetcontent.com/chlogo/disny.png" group-title="KIDS",Disney
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Disney" tvg-logo="http://files.rednetcontent.com/chlogo/disny.png" group-title="KIDS",Disney Telugu
 http://45.125.220.129:81/play/a04c
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Cartoon Network Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" group-title="KIDS",Cartoon Network Telugu
 https://tv.googledrivelinks.com/autoq.php?c=Cartoon_Network_Telugu
 #EXTINF:-0 tvg-id="Telugu" tvg-name="CN HD+ Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="KIDS",CN HD+ Telugu
 https://tv.googledrivelinks.com/autoq.php?c=CN_HD+_Telugu
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Pogo Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png" group-title="KIDS",Pogo
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Pogo Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png" group-title="KIDS",Pogo Telugu
 https://tv.googledrivelinks.com/autoq.php?c=Pogo_Telugu
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Discovery Channel Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",Discovery Channel Telugu
 https://tv.googledrivelinks.com/autoq.php?c=Discovery_Channel_Telugu
