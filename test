@@ -1,195 +1,813 @@
 #EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz" url-tvg="https://tinyurl.com/2zb96xa5"
-#EXTINF:-0 tvg-id="Telugu" tvg-name="IPTV Telugu" tvg-logo="https://i.postimg.cc/PfSfj5xm/photo-2022-10-14-14-15-53.jpg" group-title="Join At",IPTV Telugu
-https://github.com/madhukar7322/IPTV-Telugu/blob/main/iptv-telugu.ts?raw=true
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Telugu" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1008/PORTRAIT/k54DafKg.png" group-title="Entertinment",Zee Telugu HD
-http://ranapk.1.mywebsites.link/zee5x/Z5RanaxPk.php?c=0-9-zeetelugu
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Entertinment",Zee Telugu
-https://jiotv.hadinetbd.tech/jio/v1/Zee_Telugu/Zee_Telugu/Zee_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="ETV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="Entertinment",ETV HD
-https://jiotv.hadinetbd.tech/jio/v1/ETV_HD/ETV_HD/ETV_HD.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="Entertinment",ETV Telugu
-https://jiotv.hadinetbd.tech/jio/v1/ETV_Telugu/ETV_Telugu/ETV_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Maa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="Entertinment",Maa TV HD
-http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini HD" tvg-logo="https://sund-images.sunnxt.com/14019/200x200_GeminiTVHD_14019_65bc2d50-f266-4521-8fd5-38791f3272b4.png" group-title="Entertinment",Gemini HD
-http://starshare.live:8080/live/iCq8mmltb4/1ctlhAUXrT/23315.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini " tvg-logo="https://i.ibb.co/MByCrHs/Gemini.png" group-title="Entertinment",Gemini
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/165794
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Gold" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png" group-title="Entertinment",Maa Gold
-http://starshare.live:8080/live/iCq8mmltb4/1ctlhAUXrT/9043.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Comedy" tvg-logo="https://sund-images.sunnxt.com/9027/200x200_GeminiComedy_9027_54480d40-b0f2-4b28-90cd-238a161dab4c.png" group-title="Entertinment",Gemini Comedy
-http://starshare.live:8080/live/iCq8mmltb4/1ctlhAUXrT/9042.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="Entertinment",ETV Plus 
-https://jiotv.hadinetbd.tech/jio/v1/ETV_Plus/ETV_Plus/ETV_Plus.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Vissa TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" group-title="Entertinment",Vissa TV
-https://jiotv.hadinetbd.tech/jio/v1/Vissa_TV/Vissa_TV/Vissa_TV.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="DD SAPTAGIRI" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Entertinment",DD SAPTAGIRI
-https://jiotv.hadinetbd.tech/jio/v1/DD_Saptagiri/DD_Saptagiri/DD_Saptagiri.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="DD YADHAGIRI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/DD_Yadagiri.png" group-title="Entertinment",DD YADHAGIRI
-https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668114
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Cinemalu" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png" group-title="Movies",Zee Cinemalu HD
-http://ranapk.1.mywebsites.link/zee5x/Z5RanaxPk.php?c=0-9-zeecinemalu
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Cinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movies",Zee Cinemalu
-https://jiotv.hadinetbd.tech/jio/v1/Zee_Cinemalu/Zee_Cinemalu/Zee_Cinemalu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/200x200_GeminiMoviesHD_26570_0ca1d1e8-f04d-41d0-943d-5e8948e271bc.png" group-title="Movies",Gemini Movies HD
-http://starshare.live:8080/live/iCq8mmltb4/1ctlhAUXrT/212.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Movies HD" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Movies",Maa Movies HD
-http://89.187.179.108:8080/MaaMovies-telu/index.m3u8?token=test
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Movies" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Movies",Maa Movies
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/82624
-#EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="Movies",ETV Cinema
-https://jiotv.hadinetbd.tech/jio/v1/ETV_Cinema/ETV_Cinema/ETV_Cinema.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Rasi Telugu" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="Movies",Rasi Telugu HD
-rtmp://singamcloud.in:1935/rasinetwork/rasitelugu
-#EXTINF:-0 tvg-id="Telugu" tvg-name="&Flix HD" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/flix-280-200.png" group-title="Movies",&Flix HD
-http://starshare.live:8080/live/iCq8mmltb4/1ctlhAUXrT/253.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Telugu BOX Office" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/tbo.jpg" group-title="Movies",Telugu BOX Office
-http://webo.asia:80/Shirley/Shirley/20703
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Studio Yuva Alpha" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png" group-title="Movies",Studio Yuva Alpha
-https://jiotv.hadinetbd.tech/jio/v1/Studio_Yuva_Alpha/Studio_Yuva_Alpha/Studio_Yuva_Alpha.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Studio One" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png" group-title="Movies",Studio One
-https://jiotv.hadinetbd.tech/jio/v1/Studio_One/Studio_One/Studio_One.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Gemini_Music.jpg" group-title="Music",Gemini Music
-https://the-nayeemparvez.ml/star7api/star7.php?chid=47989
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Music HD" tvg-logo="https://sund-images.sunnxt.com/26568/200x200_GeminiMusicHD_26568_2dc0c46d-afdf-407d-8862-3c2df67bee5b.png" group-title="Music",Gemini Music HD
-http://starshare.live:8080/live/iCq8mmltb4/1ctlhAUXrT/23796.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-music-black.png" group-title="Music",Maa Music
-http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=test
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Raj Music Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="Music",Raj Music Telugu
-https://jiotv.hadinetbd.tech/jio/v1/Raj_Music_Telugu/Raj_Music_Telugu/Raj_Music_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Life" tvg-logo="https://sund-images.sunnxt.com/26572/200x200_GeminiLife_26572_797a9d8c-2ec2-4af8-b3dc-3b10c16c060d.png" group-title="Music",Gemini Life
-https://the-nayeemparvez.ml/star7api/star7.php?chid=47990
-#EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Abhiruchi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" group-title="Life Style",ETV Abhiruchi
-https://jiotv.hadinetbd.tech/jio/v1/ETV_Abhiruchi/ETV_Abhiruchi/ETV_Abhiruchi.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Life" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png" group-title="Life Style",ETV Life
-https://jiotv.hadinetbd.tech/jio/v1/ETV_Life/ETV_Life/ETV_Life.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Aastha Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Life Style",Aastha Telugu
-https://jiotv.hadinetbd.tech/jio/v1/Aastha_Telugu/Aastha_Telugu/Aastha_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="CVR Health" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png" group-title="Life Style",CVR Health
-https://jiotv.hadinetbd.tech/jio/v1/CVR_Health/CVR_Health/CVR_Health.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Vanitha" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title="Life Style",Vanitha
-https://jiotv.hadinetbd.tech/jio/v1/Vanitha/Vanitha/Vanitha.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="V6 News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="News",V6 News
-https://jiotv.hadinetbd.tech/jio/v1/V6_News/V6_News/V6_News.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="T News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" group-title="News",T News
-https://jiotv.hadinetbd.tech/jio/v1/T_News/T_News/T_News.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Andhra Pradesh" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" group-title="News",ETV Andhra Pradesh
-https://jiotv.hadinetbd.tech/jio/v1/ETV_Andhra_pradesh/ETV_Andhra_pradesh/ETV_Andhra_pradesh.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Telangana" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="News",ETV Telangana
-https://jiotv.hadinetbd.tech/jio/v1/ETV_Telangana/ETV_Telangana/ETV_Telangana.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="ABN Andhra Jyothi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="News",ABN Andhra Jyothi
-https://jiotv.hadinetbd.tech/jio/v1/ABN_Andhra_Jyothi/ABN_Andhra_Jyothi/ABN_Andhra_Jyothi.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="TV9 Telugu News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="News",TV9 Telugu
-https://jiotv.hadinetbd.tech/jio/v1/TV9_Telugu_News/TV9_Telugu_News/TV9_Telugu_News.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Sakshi tv" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png" group-title="News",Sakshi TV
-https://jiotv.hadinetbd.tech/jio/v1/Sakshi_tv/Sakshi_tv/Sakshi_tv.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="10 TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" group-title="News",10 TV
-https://jiotv.hadinetbd.tech/jio/v1/10_TV/10_TV/10_TV.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="I News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png" group-title="News",I News
-https://jiotv.hadinetbd.tech/jio/v1/I_News/I_News/I_News.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="RAJ News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="News",RAJ News
-https://jiotv2-gzk1w22e5-ranapk73.vercel.app/api/live.php?c=Raj_News_Telugu&q=800&e=.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="TV 5 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/TV5_Telugu.png" group-title="News",TV5 News
-https://jiotv.hadinetbd.tech/jio/v1/TV_5_News/TV_5_News/TV_5_News.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="HM TV" tvg-logo="https://snoidcdnems05.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png" group-title="News",HMTV
-https://jio.dooflix.in/live.php?c=HM_TV&q=1200&e=junk.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="NTV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="News",NTV News
-https://jiotv.hadinetbd.tech/jio/v1/NTV/NTV/NTV.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Mahaa News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_News.png" group-title="News",Mahaa News
-https://jio.dooflix.in/live.php?c=Maha_News&q=1200&e=junk.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Raj News Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="News",Raj News Telugu
-https://jiotv.hadinetbd.tech/jio/v1/Raj_News_Telugu/Raj_News_Telugu/Raj_News_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhaarat_Today.png",Bhaarat Today
-https://jio.dooflix.in/live.php?c=Bhaarat_Today&q=1200&e=junk.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="BHAKTI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Bhakthi_TV.jpeg" group-title="Bhakti",BHAKTI TV
-https://jiotv.hadinetbd.tech/jio/v1/Bhakti_TV/Bhakti_TV/Bhakti_TV.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Sri Venkateshwar Bhakti" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title="Bhakti",Sri Venkateshwar Bhakti
-https://jiotv.hadinetbd.tech/jio/v1/Sri_Venkateshwar_Bhakti/Sri_Venkateshwar_Bhakti/Sri_Venkateshwar_Bhakti.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="SVBC" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC.png" group-title="Bhakti",SVBC
-https://jiotv.hadinetbd.tech/jio/v1/SVBC/SVBC/SVBC.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="CVR OM" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="Bhakti",CVR OM
-https://jiotv.hadinetbd.tech/jio/v1/CVR_OM_Spiritual/CVR_OM_Spiritual/CVR_OM_Spiritual.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Hindu Dharmam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" group-title="Bhakti",Hindu Dharmam
-https://jio.dooflix.in/live.php?c=Hindu_Dharmam&q=1200&e=junk.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="PMC Telugu" group-title="Bhakti" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png",PMC Telugu
-https://jiotv.hadinetbd.tech/jio/v1/PMC_Telugu/PMC_Telugu/PMC_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Sattva TV" group-title="Bhakti"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sattva_TV.png",Sattva TV
-https://jiotv.hadinetbd.tech/jio/v1/Sattva_TV/Sattva_TV/Sattva_TV.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Khushi TV" tvg-logo="https://sund-images.sunnxt.com/26571/200x200_KushiTV_26571_ef287cac-6e6f-4cc7-96e1-b92160acb927.png" group-title="KIDS",Kushi TV
-https://suntvlive.akamaized.net/hls/live/2093456/KushiTV/master.m3u8?hdnea=st=1666452158~exp=1666452458~acl=!*/2093456/KushiTV/*~hmac=58004cb4e2bb70df0b71059dc38d654da428577c156a58a7c6f61a2bc7b40f0a&PlayBackId=2380847232&cid=26571&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Sonic Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="KIDS",Sonic
-https://jiotv.hadinetbd.tech/jio/v1/Sonic_Telugu/Sonic_Telugu/Sonic_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Sony Yay Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="KIDS",Sony YAY
-https://jiotv.hadinetbd.tech/jio/v1/Sony_Yay_Telugu/Sony_Yay_Telugu/Sony_Yay_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="NICK Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="KIDS",NICK
-https://jiotv.hadinetbd.tech/jio/v1/Nick_Telugu/Nick_Telugu/Nick_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Hungama" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/hungama.png" group-title="KIDS",Hungama
-https://the-nayeemparvez.ml/star7api/star7.php?chid=48164
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Disney" tvg-logo="http://files.rednetcontent.com/chlogo/disny.png" group-title="KIDS",Disney
-https://the-nayeemparvez.ml/star7api/star7.php?chid=48157
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Cartoon Network Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" group-title="KIDS",Cartoon Network Telugu
-https://jiotv.hadinetbd.tech/jio/v1/Cartoon_Network_Telugu/Cartoon_Network_Telugu/Cartoon_Network_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="CN HD+ Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="KIDS",CN HD+ Telugu
-https://jiotv.hadinetbd.tech/jio/v1/CN_HD+_Telugu/CN_HD+_Telugu/CN_HD+_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Pogo Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png" group-title="KIDS",Pogo
-https://jiotv.hadinetbd.tech/jio/v1/Pogo_Telugu/Pogo_Telugu/Pogo_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Discovery Channel Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Infotainment",Discovery Channel Telugu
-https://jiotv.hadinetbd.tech/jio/v1/Discovery_Channel_Telugu/Discovery_Channel_Telugu/Discovery_Channel_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png" group-title="Infotainment",National Geographic Wild HD
-http://webo.asia:80/Shirley/Shirley/161890
-#EXTINF:-0 tvg-id="Telugu" tvg-name="National Geographic HD" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" group-title="Infotainment",National Geographic HD
-http://webo.asia:80/Shirley/Shirley/403908
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Sony BBC Earth HD Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",Sony BBC Earth HD Telugu
-https://jiotv.hadinetbd.tech/jio/v1/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="History 18 Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History 18 Telugu
-https://jiotv.hadinetbd.tech/jio/v1/History_TV18_HD_Telugu/History_18_Telugu/History_18_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 1 Telugu || T20 Men's 2022" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Star_Sports_1_Telugu.png" group-title="Sports",Star Sports 1 Telugu || T20 Men's 2022
-http://starshare.live:8080/live/iCq8mmltb4/1ctlhAUXrT/82826.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 1 Telugu || T20 Men's 2022" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Star_Sports_1_Telugu.png" group-title="Sports",Star Sports 1 Telugu || T20 Men's 2022
-http://starshare.live:8080/live/iCq8mmltb4/1ctlhAUXrT/124292.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="WILLOW || T20 Men's 2022" tvg-logo="https://resources.pulse.icc-cricket.com/whitelabel-assets/33992/emblem.svg" group-title="Sports",WILLOW || T20 Men's 2022
-https://11live02.akamaized.net/FTX2_WILLOW/tracks-v1a1/mono.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="TEN Sports || T20 Men's 2022" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports-300x82.png" group-title="Sports",TEN Sports || T20 Men's 2022
-http://221.120.204.3/TEN-SPORTS-LOCKLEeee/index.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Ten 4 Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="Sports",Sony TEN 4
-https://jiotv.hadinetbd.tech/jio/v1/Ten_4_Telugu/Ten_4_Telugu/Ten_4_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Ten 4 HD Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="Sports",Sony TEN 4 HD
-https://jiotv.hadinetbd.tech/jio/v1/Ten_4_HD_Telugu/Ten_4_HD_Telugu/Ten_4_HD_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD
-http://watchindia.net:8880/live/vvv/vvv/808.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg" group-title="Sports",Star Sports 2 HD
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/3631
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 1 HD (HINDI)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="Sports",Star Sports 1 HD (HINDI)
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/3630
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title="Sports",Star Sports 3
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/62584
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/32dd229ae9dd6bb71e041ba5545ca2b9.jpg" group-title="Sports",Star Sports Select 1
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/82628
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/90d4a692460906d2af537d261d1ac3a1.jpg" group-title="Sports",Star Sports Select 2
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/16619
-#EXTINF:-0 tvg-id="Telugu" group-title="Educational" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png",AP BIE ARTS
-https://jiotv.hadinetbd.tech/jio/v1/AP_BIE_ARTS/AP_BIE_ARTS/AP_BIE_ARTS.m3u8
-#EXTINF:-0 tvg-id="Telugu" group-title="Educational"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png",AP BIE SCIENCE
-https://jiotv.hadinetbd.tech/jio/v1/AP_BIE_SCIENCE/AP_BIE_SCIENCE/AP_BIE_SCIENCE.m3u8
-#EXTINF:-0 tvg-id="Telugu" group-title="Educational"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png",AP CIE SIVE
-https://jiotv.hadinetbd.tech/jio/v1/AP_CIE_SIVE/AP_CIE_SIVE/AP_CIE_SIVE.m3u8
-#EXTINF:-1 tvg-id="VOD" tvg-name="Bimbisara (2022)" tvg-logo="https://i2.cinestaan.com/image-bank/640-360/206001-207000/206738.jpg" group-title="VOD || Movies",Bimbisara (2022)
-https://assets-1.mypowerdisk.com/transcode_video/72b0f0202b201190803e64a619ee661b/dash/326f67219dbe86226beb9fb1f01b5f62.mpd
-#EXTINF:-1 tvg-id="VOD" tvg-name="Swathi Muthyam (2022)" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/206001-207000/206828.jpg" group-title="VOD || Movies",Swathi Muthyam (2022)
-https://assets-1.mypowerdisk.com/transcode_video/609b2f13a142a726dc192138b59b7b59/dash/52937063117eea8c4b3ed5c12b5d6780.mpd
-#EXTINF:-1 tvg-id="VOD" tvg-name="Krishna Vrinda Vihari (2022)" tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/197001-198000/197922.jpg" group-title="VOD || Movies",Krishna Vrinda Vihari (2022)
-https://assets-1.mypowerdisk.com/transcode_video/a88aa43e075433303d6d18f004805aa0/dash/5c6c3651983a40ebcdbc7575bdd6cd11.mpd
-#EXTINF:-1 tvg-id="VOD" tvg-name="Oke Oka Jeevitham (2022)" tvg-logo="https://shotcan.com/images/Fc6mTR-aIAAnz-3.jpg" group-title="VOD || Movies",Oke Oka Jeevitham (2022)
-https://assets-1.entertainvideo.com/assets/media/2c1a96cd2f052c64a9305d79bbdacd70/dash/4f20990f3cdf24ef53edca1457abf14d.mpd
-#EXTINF:-1 tvg-id="VOD" tvg-name="Nenu Meeku Baaga Kavalsinavaadini (2022)" tvg-logo="https://i3.extraimage.xyz/pix/2022/10/12/RVQylb.jpg" group-title="VOD || Movies",Nenu Meeku Baaga Kavalsinavaadini (2022)
-https://assets-1.entertainvideo.com/assets/media/d1954064ebffce01005806bcc6330dd0/dash/be62d9abd0d5535a454835ee462e858a.mpd
-#EXTINF:-1 tvg-id="VOD" tvg-name="Dongalunnaru Jagratha (2022)" tvg-logo="https://pbs.twimg.com/media/FdWGM7aaAAAxTv3?format=jpg" group-title="VOD || Movies",Dongalunnaru Jagratha (2022)
-https://assets-1.mypowerdisk.com/transcode_video/11a6e749170663bb69203d2f2bad18a8/dash/4aea1b36ba7090be5526d00bf74210a6.mpd
-#EXTINF:-1 tvg-id="VOD" tvg-name="Ammu (2022)" tvg-logo="https://pbs.twimg.com/media/Ffb86zpXoAEXxoA?format=jpg" group-title="VOD || Originals",Ammu (2022)
-https://assets-1.entertainvideo.com/assets/media/b2028662f58bcb26c0517eb42d34939b/dash/6702b538564aa6d67d21d5615f451a1f.mpd
-#EXTINF:-1 tvg-id="VOD" tvg-name="Unstoppable (2022)" tvg-logo="https://i3.extraimage.xyz/pix/2022/10/14/RVxmKA.jpg" group-title="VOD || Web Series",Unstoppable (2022) S02 EP01
-https://assets-1.entertainvideo.com/assets/media/6c03277445da997231899a065c730a3d/dash/527748a2ed1ac3a0688ad1b4da9fb2f9.mpd
-#EXTINF:-1 tvg-id="VOD" tvg-name="Unstoppable (2022)" tvg-logo="https://i3.extraimage.xyz/pix/2022/10/21/RXmgjH.jpg" group-title="VOD || Web Series",Unstoppable (2022) S02 EP02
-https://assets-1.entertainvideo.com/assets/media/f39cd0b18f57f812ae1f8063af703fe7/dash/c3456fc9097298f3bbef52d00c85ba48.mpd
-
-
+#EXTINF:-1 tvg-id="" tvg-name="IN: & pictures" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a1f81b40485819fec3ef445eb88d0557.png" group-title="India",IN: & pictures
+http://iptvtree.net:8080/86488e81/5e48c38fdd/16958
+#EXTINF:-1 tvg-id="" tvg-name="IN: & Prive" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="India",IN: & Prive
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49557
+#EXTINF:-1 tvg-id="" tvg-name="IN: & TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6892a0ecf005c94f596ff86d2956689e.png" group-title="India",IN: & TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/16964
+#EXTINF:-1 tvg-id="" tvg-name="IN: & Xplor" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/18036e4bd3ddc3c3db52b1130ef78451.png" group-title="India",IN: & Xplor
+http://iptvtree.net:8080/86488e81/5e48c38fdd/196116
+#EXTINF:-1 tvg-id="" tvg-name="IN: 3 Tamil TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: 3 Tamil TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/60420
+#EXTINF:-1 tvg-id="" tvg-name="IN: 10TV News Telugu" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6abb688b8e72ac25463f69880e0f96b7.jpeg" group-title="India",IN: 10TV News Telugu
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296485
+#EXTINF:-1 tvg-id="" tvg-name="IN: 1st India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8fe8e68daffc9236e9caeb9952056500.png" group-title="India",IN: 1st India
+http://iptvtree.net:8080/86488e81/5e48c38fdd/159102
+#EXTINF:-1 tvg-id="" tvg-name="IN: 24 News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/a796e8239c5525bd309682d1806fbc18.png" group-title="India",IN: 24 News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82567
+#EXTINF:-1 tvg-id="" tvg-name="IN: 5AAB TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: 5AAB TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286195
+#EXTINF:-1 tvg-id="" tvg-name="IN: 7S Music" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: 7S Music
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82491
+#EXTINF:-1 tvg-id="" tvg-name="IN: 9X Jalwa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4a7478c536efb581d336c1a404206cb2.png" group-title="India",IN: 9X Jalwa
+http://iptvtree.net:8080/86488e81/5e48c38fdd/45465
+#EXTINF:-1 tvg-id="" tvg-name="IN: 9X Jhakaas" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/936f84ee0b67a5725ab0f7690f31daa6.png" group-title="India",IN: 9X Jhakaas
+http://iptvtree.net:8080/86488e81/5e48c38fdd/165802
+#EXTINF:-1 tvg-id="" tvg-name="IN: 9X Tashan" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a9f700703056598f8b2cc1313eadbf7b.png" group-title="India",IN: 9X Tashan
+http://iptvtree.net:8080/86488e81/5e48c38fdd/45455
+#EXTINF:-1 tvg-id="" tvg-name="IN: 9XM" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7ae64593b56437b694019f85fe0d2a57.png" group-title="India",IN: 9XM
+http://iptvtree.net:8080/86488e81/5e48c38fdd/45471
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aaj Tak" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef24d3b47d22022b7c73816653c39167.png" group-title="India",IN: Aaj Tak
+http://iptvtree.net:8080/86488e81/5e48c38fdd/12977
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aapka Colors" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7d0e4ea08f083d15b315d6e2db1993d4.png" group-title="India",IN: Aapka Colors
+http://iptvtree.net:8080/86488e81/5e48c38fdd/196121
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aastha Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bf347badee24d6e24ca3290e293b545e.png" group-title="India",IN: Aastha Kannada
+http://iptvtree.net:8080/86488e81/5e48c38fdd/269761
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aastha TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/13355aca97c24ac469d51750cfcd38a6.png" group-title="India",IN: Aastha TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/145647
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aathavan TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Aathavan TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/267432
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABN Telugu" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/da6d5442b0795230b2f7cda8e6b5f573.jpeg" group-title="India",IN: ABN Telugu
+http://iptvtree.net:8080/86488e81/5e48c38fdd/163257
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABP" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9f57eb6f8ec12254045254ccaa736c2a.png" group-title="India",IN: ABP
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192817
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABP Ananda" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/5846a634547868acfdbd12164f7616c0.png" group-title="India",IN: ABP Ananda
+http://iptvtree.net:8080/86488e81/5e48c38fdd/159103
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABP Majha" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/5b0bd0d3d3be316a7fb99518d1b37ec7.png" group-title="India",IN: ABP Majha
+http://iptvtree.net:8080/86488e81/5e48c38fdd/283899
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABP News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/7a3ae700cd5d648a0441db3471e969a0.jpeg" group-title="India",IN: ABP News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/16962
+#EXTINF:-1 tvg-id="" tvg-name="IN: Adithya TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/7f7f01cf9d579e09ecfbe313513df215.jpg" group-title="India",IN: Adithya TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/157469
+#EXTINF:-1 tvg-id="" tvg-name="IN: Akaal Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6cd976779bc00ea615fe2aa03dc1d036.png" group-title="India",IN: Akaal Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/165767
+#EXTINF:-1 tvg-id="" tvg-name="IN: Akaram Kidz" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/bb4ae24df230576cf5090097d30b90a9.png" group-title="India",IN: Akaram Kidz
+http://iptvtree.net:8080/86488e81/5e48c38fdd/267454
+#EXTINF:-1 tvg-id="" tvg-name="IN: Amrita TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e7b871d58eee5896236fbfb246ba64ad.png" group-title="India",IN: Amrita TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82497
+#EXTINF:-1 tvg-id="" tvg-name="IN: Angel TV India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/76aa53d1bd6466aa950b2dd2749e100a.png" group-title="India",IN: Angel TV India
+http://iptvtree.net:8080/86488e81/5e48c38fdd/196120
+#EXTINF:-1 tvg-id="" tvg-name="IN: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/13b8ba0fcfe751a80985300dc6db3d7f.png" group-title="India",IN: ANIMAL PLANET
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1370
+#EXTINF:-1 tvg-id="" tvg-name="IN: ANIMAL PLANET (TATA PLAY)" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/f2ce3c30b82ab9da7f9bb4a8ccf598e6.png" group-title="India",IN: ANIMAL PLANET (TATA PLAY)
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296266
+#EXTINF:-1 tvg-id="" tvg-name="IN: Anjan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/48333081d77a1ad518fe6534678f6d4e.png" group-title="India",IN: Anjan
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286918
+#EXTINF:-1 tvg-id="" tvg-name="IN: Apna Punjab" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/6eec743277b9d29edab6ae86c783dea4.png" group-title="India",IN: Apna Punjab
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286919
+#EXTINF:-1 tvg-id="" tvg-name="IN: Artist Aloud" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a1433651f6af961e4fec500e0541a6df.png" group-title="India",IN: Artist Aloud
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286920
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ashrafi Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/acd6e0492c822c0b1d3f9c288a5e5188.png" group-title="India",IN: Ashrafi Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286921
+#EXTINF:-1 tvg-id="" tvg-name="IN: Asianet" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/08bc2d3365bf4d2a63baee707fb7d929.png" group-title="India",IN: Asianet
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82579
+#EXTINF:-1 tvg-id="" tvg-name="IN: Asianet Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/40dc04d8126e441dff6e15e17312b881.png" group-title="India",IN: Asianet Movies
+http://iptvtree.net:8080/86488e81/5e48c38fdd/157463
+#EXTINF:-1 tvg-id="" tvg-name="IN: Asianet News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ff60f6b6f36767a9ac7507b18b619873.png" group-title="India",IN: Asianet News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/163276
+#EXTINF:-1 tvg-id="" tvg-name="IN: Asianet News Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/0bf7dd77f1cf8b700d98b7668934fcc7.png" group-title="India",IN: Asianet News Bangla
+http://iptvtree.net:8080/86488e81/5e48c38fdd/294788
+#EXTINF:-1 tvg-id="" tvg-name="IN: Asianet News Tamil" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/fd3d465946186166f84982cd2312c198.png" group-title="India",IN: Asianet News Tamil
+http://iptvtree.net:8080/86488e81/5e48c38fdd/294789
+#EXTINF:-1 tvg-id="" tvg-name="IN: Asianet Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/358ea3acad1502aa48965437a61f05b7.png" group-title="India",IN: Asianet Plus
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193206
+#EXTINF:-1 tvg-id="" tvg-name="IN: Asianet Suvarna News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/0b6a1750b8bba32c654a1ecaa7f13bd7.jpeg" group-title="India",IN: Asianet Suvarna News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/51844
+#EXTINF:-1 tvg-id="" tvg-name="IN: Assam Talks" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1f5c48a7a059d4d9c0579aff13c6402.png" group-title="India",IN: Assam Talks
+http://iptvtree.net:8080/86488e81/5e48c38fdd/162127
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aus Tamil TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/66f6fa66d98918f56840b2c27e438d7b.png" group-title="India",IN: Aus Tamil TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286792
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ayush TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/90eec04e4118db674b0bcd0dad908e0d.png" group-title="India",IN: Ayush TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82500
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Kadak" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7e1336a57c7f6dfb301b73836cead0c3.png" group-title="India",IN: B4U Kadak
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49556
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/91625361b83e16f929b69d33fb9e52d5.png" group-title="India ➾ Movie",IN: B4U Movies
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1369
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Movies APAC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3f3c3fd523ec5b987c4b8b26aa6f79e3.png" group-title="India ➾ Movie",IN: B4U Movies APAC
+http://iptvtree.net:8080/86488e81/5e48c38fdd/71071
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/74204965261c6f9140a244bcc2710e80.png" group-title="India",IN: B4U Music
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1368
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c7a7a719272833e9c9c605b35c6c6c5d.png" group-title="India",IN: B4U Plus
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1367
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bansal News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cd73513ab34fd0e22bf7d4f7cbedf62d.png" group-title="India",IN: Bansal News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/165400
+#EXTINF:-1 tvg-id="" tvg-name="IN: BBC Earth" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/2a731882bbfe003742945f588ffadcbf.png" group-title="India ➾ Nature",IN: BBC Earth
+http://iptvtree.net:8080/86488e81/5e48c38fdd/197660
+#EXTINF:-1 tvg-id="" tvg-name="IN: BBC Toronto" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0cf910b0fecb4cc5c2a2d68c005f9c3a.png" group-title="India",IN: BBC Toronto
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49640
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bflix Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/a46419fd1f64ee777000f6133ad97ff3.png" group-title="India",IN: Bflix Movies
+http://iptvtree.net:8080/86488e81/5e48c38fdd/73791
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bhojpuri Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/9d0c0d68ce86162f94862b8ed9d0b533.png" group-title="India",IN: Bhojpuri Cinema
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193007
+#EXTINF:-1 tvg-id="" tvg-name="IN: Big Magic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/033d5b2035f8a221a263600badd4a9b5.png" group-title="India",IN: Big Magic
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49548
+#EXTINF:-1 tvg-id="" tvg-name="IN: Boogle Bollywood" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/78eef3e4a38b454afbec7e927e946d19.jpg" group-title="India",IN: Boogle Bollywood
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193087
+#EXTINF:-1 tvg-id="" tvg-name="IN: Brit Asia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/88a13376bcf8db189d3aae2a4d12bf4c.png" group-title="India ➾ Music",IN: Brit Asia TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/71067
+#EXTINF:-1 tvg-id="" tvg-name="IN: Captain News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/381652a764c66da9f103c453c635dd31.png" group-title="India",IN: Captain News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193038
+#EXTINF:-1 tvg-id="" tvg-name="IN: Captain TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/024d67d7f13c4bfd10c943e12d2f9d31.png" group-title="India",IN: Captain TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/294952
+#EXTINF:-1 tvg-id="" tvg-name="IN: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6ed17d1552de03d6c86481eb7b1deff6.png" group-title="India",IN: Cartoon Network
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82584
+#EXTINF:-1 tvg-id="" tvg-name="IN: Channel i TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/8c7ef56227c1ada652f639d88755676d.jpeg" group-title="India",IN: Channel i TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296496
+#EXTINF:-1 tvg-id="" tvg-name="IN: Channel WIN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2f9687907e4852519537b5aa56bee9ab.png" group-title="India",IN: Channel WIN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/172318
+#EXTINF:-1 tvg-id="" tvg-name="IN: Channel Y" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/bdfa109acd0e4c889cd7a2e1cc6fe488.png" group-title="India",IN: Channel Y
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49586
+#EXTINF:-1 tvg-id="" tvg-name="IN: Chardikla Time TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f7281a291bd837e4222f98954ece1559.png" group-title="India",IN: Chardikla Time TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49637
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNBC Awaaz" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/34add1edff1f19b30b0b9e22d41407de.png" group-title="India",IN: CNBC Awaaz
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49583
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNBC Bajar" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/388ce1e6457a331d9a68d5c59634c584.png" group-title="India",IN: CNBC Bajar
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82506
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNBC TV 18" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/65a23d8e6f37fb9b6ba3f94b958dcdbf.png" group-title="India",IN: CNBC TV 18
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192198
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3b706945ff908d5911a0be1eafffb46f.png" group-title="India",IN: COLORS
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1366
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/22132696b5c83d7204c4a3a571abae44.png" group-title="India",IN: COLORS Bangla
+http://iptvtree.net:8080/86488e81/5e48c38fdd/247530
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Cineplex" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3065653535cdfa318a8185d152607846.png" group-title="India",IN: COLORS Cineplex
+http://iptvtree.net:8080/86488e81/5e48c38fdd/19741
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Cineplex Bollywood" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a02b489d0f1f2f3f6e2dae8afb82e9f5.png" group-title="India",IN: COLORS Cineplex Bollywood
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49550
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Gujarati" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/77c35a2586cb05de8134d259139e67a1.png" group-title="India",IN: COLORS Gujarati
+http://iptvtree.net:8080/86488e81/5e48c38fdd/145645
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/783cbfb3051d12d7992f82ae4f7c91fa.png" group-title="India",IN: COLORS Kannada
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192203
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Marathi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/744bdecf60935c49e1fac6c0feabcc6e.png" group-title="India",IN: COLORS Marathi
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82642
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Rishtey" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/57698714035590a5681e1ddf715be5f9.png" group-title="India",IN: COLORS Rishtey
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49547
+#EXTINF:-1 tvg-id="" tvg-name="IN: CTVN AKD Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9166c883a276a2300d0eb0b936df7114.png" group-title="India",IN: CTVN AKD Plus
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166385
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dabangg" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8b2e82fcc2cd0febeaaa1878b8d8d20c.png" group-title="India",IN: Dabangg
+http://iptvtree.net:8080/86488e81/5e48c38fdd/165800
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dangal TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/834e5776eeca87fed6f7304fe25d81b4.png" group-title="India",IN: Dangal TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82589
+#EXTINF:-1 tvg-id="" tvg-name="IN: DBC NEWS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/c364c68b726c8fb3acea5ca283fde6db.jpeg" group-title="India",IN: DBC NEWS
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296494
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/32177731b080963a4c4bdbb2fd2a72da.png" group-title="India",IN: DD Bangla
+http://iptvtree.net:8080/86488e81/5e48c38fdd/45488
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Girnar" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cae34dd9076c90218297ae83b77510c4.png" group-title="India",IN: DD Girnar
+http://iptvtree.net:8080/86488e81/5e48c38fdd/145648
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a532a1f64e91ea4ead84ff678e1592b1.png" group-title="India",IN: DD India
+http://iptvtree.net:8080/86488e81/5e48c38fdd/165806
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Malayalam" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e5e64952c42751c286c68c293eed2006.png" group-title="India",IN: DD Malayalam
+http://iptvtree.net:8080/86488e81/5e48c38fdd/45499
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD National" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/746367cc1836232bef9d8e869420493c.png" group-title="India",IN: DD National
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192197
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a9182065b952abc2263ed53af8259479.png" group-title="India",IN: DD News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/21668
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Podhigai" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e1dc101a45bfa492df024f26798fd538.png" group-title="India",IN: DD Podhigai
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193047
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Punjabi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/bff77c0fd9693f3202cc5018c46fde33.jpg" group-title="India",IN: DD Punjabi
+http://iptvtree.net:8080/86488e81/5e48c38fdd/283904
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Sahyadri" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/02e2987acbdd2a1fc7f769c17fbb6d39.jpg" group-title="India",IN: DD Sahyadri
+http://iptvtree.net:8080/86488e81/5e48c38fdd/45479
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/774c4049df9ead1fff6c94e3c6f7a117.png" group-title="India",IN: DD Sports
+http://iptvtree.net:8080/86488e81/5e48c38fdd/56153
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Uttar Pradesh" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a1e3c1dad92c799bd1694c642f3f358f.png" group-title="India",IN: DD Uttar Pradesh
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193051
+#EXTINF:-1 tvg-id="" tvg-name="IN: Desi Beats" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Desi Beats
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286933
+#EXTINF:-1 tvg-id="" tvg-name="IN: Desi Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/9d8a586411ed3d7579764646bf9dfc21.png" group-title="India",IN: Desi Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49601
+#EXTINF:-1 tvg-id="" tvg-name="IN: Desi Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/df1e446575343d344d245c9c9d2b1bc8.png" group-title="India",IN: Desi Plus
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49618
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dhamaal" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f3627e057b919ffad09dae1b8360df32.png" group-title="India",IN: Dhamaal
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82510
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dhoom Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce13284a7100c8624c16913a7886eebe.png" group-title="India",IN: Dhoom Music
+http://iptvtree.net:8080/86488e81/5e48c38fdd/69362
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dighvijay" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/7d77f753ffc736d94e023b7b8b6ac993.png" group-title="India",IN: Dighvijay
+http://iptvtree.net:8080/86488e81/5e48c38fdd/283905
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dil Se" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/d4cec87e1f451066665a3fa5bba9ea12.png" group-title="India",IN: Dil Se
+http://iptvtree.net:8080/86488e81/5e48c38fdd/165784
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dillagi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/acc81560456e46ec876a40795b6ffa22.png" group-title="India",IN: Dillagi
+http://iptvtree.net:8080/86488e81/5e48c38fdd/196128
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/249c454173fa6205144acb92a8e5c25e.png" group-title="India",IN: Discovery Kids
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82683
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/901b40ebf06e7a9fe401a3ad17c37aa0.png" group-title="India",IN: Discovery Science
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1363
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Tamil" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d1e39e20ed670255f49ebe13020a651e.png" group-title="India",IN: Discovery Tamil
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295292
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e09b6b18106fce22c2dd8fed0a50589e.png" group-title="India",IN: Discovery World
+http://iptvtree.net:8080/86488e81/5e48c38fdd/73792
+#EXTINF:-1 tvg-id="" tvg-name="IN: Disha TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5f27ee21c9821f63cf1ab7e78de37067.png" group-title="India",IN: Disha TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193001
+#EXTINF:-1 tvg-id="" tvg-name="IN: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e3681e2dc4800213e1c2c4142afe6108.png" group-title="India ➾ Kids",IN: Disney Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192985
+#EXTINF:-1 tvg-id="" tvg-name="IN: Divyavani TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/ed58937864ce5c811023c33f1a77a925.png" group-title="India",IN: Divyavani TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166373
+#EXTINF:-1 tvg-id="" tvg-name="IN: DocuBay TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/a454c191a56e5c81b03cc27325849ed6.png" group-title="India",IN: DocuBay TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286940
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dreamz TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/e83e7794a5fc441ac674bc204198c97b.png" group-title="India",IN: Dreamz TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286941
+#EXTINF:-1 tvg-id="" tvg-name="IN: E 24" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fabb60a1e7cf43f1c82da98f365f4d0b.png" group-title="India",IN: E 24
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193086
+#EXTINF:-1 tvg-id="" tvg-name="IN: Eet TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/6d8a8d5fd125a59fdfa9e5aea6f965bc.png" group-title="India",IN: Eet TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/51818
+#EXTINF:-1 tvg-id="" tvg-name="IN: Enterr 10" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/b29014faedf40cfc7accdbf0fdbc89a4.png" group-title="India",IN: Enterr 10
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193025
+#EXTINF:-1 tvg-id="" tvg-name="IN: Epic TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6ac4ac4c95f2c7af6bb119c2458ce31f.png" group-title="India",IN: Epic TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192950
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: ETC
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295299
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV Telangana" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/043f13f5eac56ea5a4bb46d4b984d7fd.png" group-title="India",IN: ETV Telangana
+http://iptvtree.net:8080/86488e81/5e48c38fdd/283906
+#EXTINF:-1 tvg-id="" tvg-name="IN: Fakt Marathi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1fc822c3f7a002189218fc1ebe226bf0.png" group-title="India",IN: Fakt Marathi
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193017
+#EXTINF:-1 tvg-id="" tvg-name="IN: Fast Way News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/61518ab339786fbde87b536fa2ce63c3.png" group-title="India",IN: Fast Way News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/267402
+#EXTINF:-1 tvg-id="" tvg-name="IN: Fateh TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/36c08329f92b63e561c74188676760ee.png" group-title="India",IN: Fateh TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166370
+#EXTINF:-1 tvg-id="" tvg-name="IN: Filmeraa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/2266799f4d9548b8384fb8aade785b89.png" group-title="India",IN: Filmeraa
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286948
+#EXTINF:-1 tvg-id="" tvg-name="IN: Flowers TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b17eae98bcc1b8f2d8d8c3d99f10c9c1.png" group-title="India",IN: Flowers TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193148
+#EXTINF:-1 tvg-id="" tvg-name="IN: Food Food" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a3c3774c5b45784eb93a6259a7a0ef17.png" group-title="India",IN: Food Food
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1362
+#EXTINF:-1 tvg-id="" tvg-name="IN: Gaunda Punjab TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/db7a554d79ad7905f4f1f90b355aaa05.png" group-title="India",IN: Gaunda Punjab TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296604
+#EXTINF:-1 tvg-id="" tvg-name="IN: GDNS Ludhiana" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/1c78810e7eb26623bbc56febb0221028.png" group-title="India",IN: GDNS Ludhiana
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286949
+#EXTINF:-1 tvg-id="" tvg-name="IN: Gemini TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/20eb1b856dcb42d4ab6fe53ffe66d399.png" group-title="India",IN: Gemini TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/165794
+#EXTINF:-1 tvg-id="" tvg-name="IN: Global Punjab" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/8897a37f377c2928c58eeb4006eb99a4.png" group-title="India",IN: Global Punjab
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49647
+#EXTINF:-1 tvg-id="" tvg-name="IN: Global Sanjh" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/9edfc2676e50bc260a87014f2f416805.png" group-title="India",IN: Global Sanjh
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49617
+#EXTINF:-1 tvg-id="" tvg-name="IN: Good News Today" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/93df1e40abe657816295c7ed4593603f.jpeg" group-title="India ➾ News",IN: Good News Today
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296471
+#EXTINF:-1 tvg-id="" tvg-name="IN: Goodnews TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/aff7dc273d03052465f62448623ef5f1.png" group-title="India",IN: Goodnews TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/159106
+#EXTINF:-1 tvg-id="" tvg-name="IN: GS TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2d4f080b07305bde2fb5596a2a4c9a39.png" group-title="India",IN: GS TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/196130
+#EXTINF:-1 tvg-id="" tvg-name="IN: Harvest TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/750fae1b20eda5cf87c4b359acbaf18c.png" group-title="India",IN: Harvest TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166372
+#EXTINF:-1 tvg-id="" tvg-name="IN: Harvest USA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/1df2b6056362feedee9e25a19b8286bf.png" group-title="India",IN: Harvest USA
+http://iptvtree.net:8080/86488e81/5e48c38fdd/198220
+#EXTINF:-1 tvg-id="" tvg-name="IN: History" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/80f622e12a49612bc7675a0acb21885d.png" group-title="India",IN: History
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82604
+#EXTINF:-1 tvg-id="" tvg-name="IN: HMTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0a464ffa09f7ec99c503ace66ed0e1eb.png" group-title="India",IN: HMTV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193056
+#EXTINF:-1 tvg-id="" tvg-name="IN: Hmtv News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/766f15d58740096bb2ad0673ad04152d.jpeg" group-title="India",IN: Hmtv News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296488
+#EXTINF:-1 tvg-id="" tvg-name="IN: Hulchul TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Hulchul TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286953
+#EXTINF:-1 tvg-id="" tvg-name="IN: IBC" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/d1bfcce77bb0872483732e7946a90ea5.png" group-title="India",IN: IBC
+http://iptvtree.net:8080/86488e81/5e48c38fdd/196133
+#EXTINF:-1 tvg-id="" tvg-name="IN: IBC 24 TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: IBC 24 TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193013
+#EXTINF:-1 tvg-id="" tvg-name="IN: IBC Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/8a6583064ec1f6ad3c92fef1a2b7c474.jpg" group-title="India",IN: IBC Comedy
+http://iptvtree.net:8080/86488e81/5e48c38fdd/45428
+#EXTINF:-1 tvg-id="" tvg-name="IN: ILove" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d59ad172cc71ca5c0645326f1e64ea07.png" group-title="India",IN: ILove
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49560
+#EXTINF:-1 tvg-id="" tvg-name="IN: Imayam" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f85ba48bec8ffc41c6b4f2305ce0f8d4.png" group-title="India",IN: Imayam
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166375
+#EXTINF:-1 tvg-id="" tvg-name="IN: India Ahead" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f290a1ab8b2f336220035283af797f0e.png" group-title="India",IN: India Ahead
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166376
+#EXTINF:-1 tvg-id="" tvg-name="IN: India News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8d0958a45ea16ecea0e9a41ae42c836.png" group-title="India",IN: India News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192968
+#EXTINF:-1 tvg-id="" tvg-name="IN: INDIA PLUS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: INDIA PLUS
+http://iptvtree.net:8080/86488e81/5e48c38fdd/290683
+#EXTINF:-1 tvg-id="" tvg-name="IN: India Today" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/605a6f1ad45e50c8dec82884a85c9a8a.png" group-title="India",IN: India Today
+http://iptvtree.net:8080/86488e81/5e48c38fdd/16970
+#EXTINF:-1 tvg-id="" tvg-name="IN: India TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3aa3d8bc970ec9ab9ca530865a4907ac.png" group-title="India",IN: India TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49577
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ion TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/2711bb8d9cae720f2a4ad9c77c0f964f.png" group-title="India",IN: Ion TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/198746
+#EXTINF:-1 tvg-id="" tvg-name="IN: Isai Aruvi" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/f672661915451798c17eafee24228bd6.png" group-title="India",IN: Isai Aruvi
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193205
+#EXTINF:-1 tvg-id="" tvg-name="IN: J Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/17db5ec2a525a90bb4769dccb4e6f976.png" group-title="India",IN: J Movie
+http://iptvtree.net:8080/86488e81/5e48c38fdd/145638
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jaihind TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/389f63f321444b6fbff169ad8f8abe42.png" group-title="India",IN: Jaihind TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192073
+#EXTINF:-1 tvg-id="" tvg-name="IN: Janam TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c3e5f60763f738d5a184056b1674a327.png" group-title="India",IN: Janam TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/197720
+#EXTINF:-1 tvg-id="" tvg-name="IN: Janta TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a33a2d10eb846f679953f3fa1f0f7279.png" group-title="India",IN: Janta TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/60348
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jaya Max" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/b2b72c0a48a7d93281a993db2d22676e.png" group-title="India",IN: Jaya Max
+http://iptvtree.net:8080/86488e81/5e48c38fdd/51824
+#EXTINF:-1 tvg-id="" tvg-name="IN: JAYA Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/54261b1eb32c2c663d1fa73f199707f2.png" group-title="India",IN: JAYA Movies
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295395
+#EXTINF:-1 tvg-id="" tvg-name="IN: JAYA PLUS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/25010b53b2592cee6b625e06fff26bfe.png" group-title="India",IN: JAYA PLUS
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193207
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jaya TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/58ef9523b7a00d2bf83439d3230bebda.png" group-title="India",IN: Jaya TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/145637
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jeevan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/de76acc89ed2d9de20181bee4188dc67.png" group-title="India",IN: Jeevan TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166377
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jhanjar Music" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Jhanjar Music
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82522
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jigyasa TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Jigyasa TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/275982
+#EXTINF:-1 tvg-id="" tvg-name="IN: JonmoBhumi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/d2192157fe17a07c49fd88b92110c8f8.png" group-title="India",IN: JonmoBhumi TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285932
+#EXTINF:-1 tvg-id="" tvg-name="IN: K News India" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/a0a0decfa9e2297d2bdf2319f823d4a7.png" group-title="India",IN: K News India
+http://iptvtree.net:8080/86488e81/5e48c38fdd/275947
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kadak Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/818b0c2a35b0e94742f5b8d0d62c9825.png" group-title="India",IN: Kadak Hits
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82523
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kairali News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/1dc1a0d3dc9b9a40b7351fc9edb31e5e.png" group-title="India",IN: Kairali News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/294953
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kairali TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/04dc4374e599d444829437bdccbf3a9f.png" group-title="India",IN: Kairali TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/51849
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kalaignar" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/5cf96983ae2234a89897c226af1bf541.png" group-title="India",IN: Kalaignar
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193204
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kalaignar Murasu" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/e31f5ea82278942a9bc62482411db45d.png" group-title="India",IN: Kalaignar Murasu
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286966
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kalaignar Seithikal" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/8eb8f4ffea4fe0b8dd9ff311fe600245.png" group-title="India",IN: Kalaignar Seithikal
+http://iptvtree.net:8080/86488e81/5e48c38fdd/283911
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kalaignar Sirippoli" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/267518d4da06ecf233afafb95cc1e489.png" group-title="India",IN: Kalaignar Sirippoli
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286968
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kalinga" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/94d2b98fd56147c090187d39581f4208.png" group-title="India",IN: Kalinga
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193062
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kanak News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/fa8a0f685364ddf123ad315fb42a472e.png" group-title="India",IN: Kanak News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193063
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kannur One" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Kannur One
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286969
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kanshi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1989f1e9acbf23c8a7d9eabe928d4aef.png" group-title="India",IN: Kanshi TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/145661
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kappa TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/46aa7885d695cac2094a453cc12d2238.png" group-title="India",IN: Kappa TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193109
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kasthuri TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5c55f26467d37a6110f4f5fffb0a8af2.png" group-title="India",IN: Kasthuri TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193110
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kaumudy TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bbf82ab62d2953ab1a2fcbff2c442202.png" group-title="India",IN: Kaumudy TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82530
+#EXTINF:-1 tvg-id="" tvg-name="IN: KCL TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/1cb591f7b05ff238a579fa071794ae46.png" group-title="India",IN: KCL TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286959
+#EXTINF:-1 tvg-id="" tvg-name="IN: KCV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/9e06f266352d03e2d72694113143c022.png" group-title="India",IN: KCV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286960
+#EXTINF:-1 tvg-id="" tvg-name="IN: KCV Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/e4e44e7928e6ded9045ee0357bc50386.png" group-title="India",IN: KCV Movies
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286961
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kerala Vision" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a9bc4f607df5153e6034315064c97657.png" group-title="India",IN: Kerala Vision
+http://iptvtree.net:8080/86488e81/5e48c38fdd/267445
+#EXTINF:-1 tvg-id="" tvg-name="IN: Khabrain Abhi Tak" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/19f39f51241dbfe565f8453726154f68.png" group-title="India",IN: Khabrain Abhi Tak
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286974
+#EXTINF:-1 tvg-id="" tvg-name="IN: KTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0d3df8c6dfe55cd074bea2f3aa0ecfaf.png" group-title="India",IN: KTV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/36442
+#EXTINF:-1 tvg-id="" tvg-name="IN: KVTV Main" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: KVTV Main
+http://iptvtree.net:8080/86488e81/5e48c38fdd/197668
+#EXTINF:-1 tvg-id="" tvg-name="IN: KVTV Plus" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: KVTV Plus
+http://iptvtree.net:8080/86488e81/5e48c38fdd/197666
+#EXTINF:-1 tvg-id="" tvg-name="IN: Life TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Life TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286975
+#EXTINF:-1 tvg-id="" tvg-name="IN: Madha TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ed1c63c9f2144df497c83c4b9868b69d.png" group-title="India",IN: Madha TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193042
+#EXTINF:-1 tvg-id="" tvg-name="IN: Maha Movie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/602546944f49e8e68e99d2b28c9fca36.png" group-title="India",IN: Maha Movie
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82608
+#EXTINF:-1 tvg-id="" tvg-name="IN: Makkal TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a73303ebc567327995e09bd0ec800d84.png" group-title="India",IN: Makkal TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/51821
+#EXTINF:-1 tvg-id="" tvg-name="IN: Malabar News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/0c6552afbe78915d9bb3cf3fda1ad827.png" group-title="India",IN: Malabar News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/283914
+#EXTINF:-1 tvg-id="" tvg-name="IN: Manorama News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4fcb7b5c0006071b8ba414e8489b6e7a.jpg" group-title="India",IN: Manorama News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192076
+#EXTINF:-1 tvg-id="" tvg-name="IN: Manoranjan Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4d290d8192b583a769fc516091066be3.png" group-title="India",IN: Manoranjan Movies
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192200
+#EXTINF:-1 tvg-id="" tvg-name="IN: Manoranjan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/3adc09632057276277142fd9eace65dd.png" group-title="India",IN: Manoranjan TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295501
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mantavya News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/fc96c1a907f30d910a8c7012c79adfb9.png" group-title="India",IN: Mantavya News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/159109
+#EXTINF:-1 tvg-id="" tvg-name="IN: Marutam TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Marutam TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/60417
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mastiii" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b3389339bd16854406ac7233c5c5501a.png" group-title="India",IN: Mastiii
+http://iptvtree.net:8080/86488e81/5e48c38fdd/76958
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mathrubhumi News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/123a158b16c60c67026dbbd608850123.png" group-title="India",IN: Mathrubhumi News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/163277
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mazhavil Manorama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6152d276473cb4c4f893ddb43ad27b0b.png" group-title="India",IN: Mazhavil Manorama
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193067
+#EXTINF:-1 tvg-id="" tvg-name="IN: Media One" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6da706192ed41078abbdf6bdb0d86fe0.png" group-title="India",IN: Media One
+http://iptvtree.net:8080/86488e81/5e48c38fdd/51851
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mediaone News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/b06cc0cb6972c5239bf9dbcb91c359ad.jpeg" group-title="India",IN: Mediaone News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296483
+#EXTINF:-1 tvg-id="" tvg-name="IN: MH One" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/76ad7baa7db5fe7ab46bebaea3b30bcb.png" group-title="India",IN: MH One
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193116
+#EXTINF:-1 tvg-id="" tvg-name="IN: MH1 Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/f126f7b03b3f458bf82de8bd5c5c4125.png" group-title="India",IN: MH1 Music
+http://iptvtree.net:8080/86488e81/5e48c38fdd/198604
+#EXTINF:-1 tvg-id="" tvg-name="IN: MH1 Prime" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/676a62b1e0d6fcfbe0403df1aa7eb4d8.png" group-title="India",IN: MH1 Prime
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286978
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mirror Now" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/93de151a01fff4cc1dcac0fd43fe591d.png" group-title="India",IN: Mirror Now
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193096
+#EXTINF:-1 tvg-id="" tvg-name="IN: MK Six" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/65f5aa0ec7c0fa9b1f70406535171b9a.png" group-title="India",IN: MK Six
+http://iptvtree.net:8080/86488e81/5e48c38fdd/198221
+#EXTINF:-1 tvg-id="" tvg-name="IN: MK TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/da642dc297f74592045c9ffcd3c708a3.png" group-title="India",IN: MK TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/198223
+#EXTINF:-1 tvg-id="" tvg-name="IN: MN+" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ecb7dca970d1c52ff9b1a5886899bb28.png" group-title="India",IN: MN+
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192961
+#EXTINF:-1 tvg-id="" tvg-name="IN: MTV Beats" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c167264b1c8ed82ac209f94dec1319c2.png" group-title="India",IN: MTV Beats
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193068
+#EXTINF:-1 tvg-id="" tvg-name="IN: MTV India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/53fbf5a419f6643e41151df74bb16b9e.png" group-title="India",IN: MTV India
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193647
+#EXTINF:-1 tvg-id="" tvg-name="IN: Music India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7d95816cfe587520ba64ac4a3621423f.png" group-title="India",IN: Music India
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1358
+#EXTINF:-1 tvg-id="" tvg-name="IN: Nambikkai TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/fc02c2a521cae4f1bf946123c82b27d3.png" group-title="India",IN: Nambikkai TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166382
+#EXTINF:-1 tvg-id="" tvg-name="IN: Namdhari TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/849a9f9bea788a74adcd372582101a9b.png" group-title="India",IN: Namdhari TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49646
+#EXTINF:-1 tvg-id="" tvg-name="IN: NamMa TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: NamMa TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193070
+#EXTINF:-1 tvg-id="" tvg-name="IN: Nazrana" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a9bf95495dd4459004020c8c18f97860.png" group-title="India",IN: Nazrana
+http://iptvtree.net:8080/86488e81/5e48c38fdd/165810
+#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV 24X7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/496f59ed3a3addec09ad8af54fd489dc.png" group-title="India",IN: NDTV 24X7
+http://iptvtree.net:8080/86488e81/5e48c38fdd/21664
+#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b13c4d6511c08a518cdc7e53c36575be.png" group-title="India",IN: NDTV India
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166390
+#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV Profit" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2fecdb6a59e4487d594717e32e47b809.png" group-title="India",IN: NDTV Profit
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166388
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 7 Tamil" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/a4b8d96fb8474c2afdace5d22ecc5610.png" group-title="India",IN: News 7 Tamil
+http://iptvtree.net:8080/86488e81/5e48c38fdd/269685
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Assam" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/89f5382ae7bdce2a809091e385e912c9.png" group-title="India",IN: News 18 Assam
+http://iptvtree.net:8080/86488e81/5e48c38fdd/283919
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Bengali" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/362e7d63f941a6f31a290ec798494b81.png" group-title="India",IN: News 18 Bengali
+http://iptvtree.net:8080/86488e81/5e48c38fdd/247526
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Chhattisgarh" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/cc67128702d61aca4c711b6eecf57dc8.png" group-title="India",IN: News 18 Chhattisgarh
+http://iptvtree.net:8080/86488e81/5e48c38fdd/283921
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Gujarati" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8da29f88c2ceeb8c6cffaed52a7bd94d.png" group-title="India",IN: News 18 Gujarati
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193127
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f3a3665872e85f549542e08f320a4438.png" group-title="India",IN: News 18 India
+http://iptvtree.net:8080/86488e81/5e48c38fdd/247511
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Jharkhand" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/d7ba1f9b35a64ff2a994fe0852b25a93.png" group-title="India",IN: News 18 Jharkhand
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286996
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/b55c90996d13d7c60523e7ad8c21a60c.png" group-title="India",IN: News 18 Kannada
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193115
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Lokmat" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b3ee0d740d6ee2e352b938b8bf050b3c.png" group-title="India",IN: News 18 Lokmat
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82543
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Malayalam" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/868f9af6f14d9f113a17eccd28a7655c.png" group-title="India",IN: News 18 Malayalam
+http://iptvtree.net:8080/86488e81/5e48c38fdd/283926
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Odia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/91a25595588d8987e69e0da20e3ce8e3.png" group-title="India",IN: News 18 Odia
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193142
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Punjab" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/c05f054b4189eb8fad513a19ca970078.jpeg" group-title="India",IN: News 18 Punjab
+http://iptvtree.net:8080/86488e81/5e48c38fdd/197949
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Rajasthan" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/984c1d7c05a3b46907e6a54aa584f19a.png" group-title="India",IN: News 18 Rajasthan
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193012
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Tamil" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/0a55fdcb8df69b4451662b7ea88979ba.png" group-title="India",IN: News 18 Tamil
+http://iptvtree.net:8080/86488e81/5e48c38fdd/283930
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Urdu" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1502882a7753a67451ab3feeaa2e27a7.png" group-title="India",IN: News 18 Urdu
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193015
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 Uttarakhand" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/334e08c69dd06a94653eca3c8fdea2f9.png" group-title="India",IN: News 18 Uttarakhand
+http://iptvtree.net:8080/86488e81/5e48c38fdd/283931
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 24" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b6c52d4dbc0413e8d5b596d8bddad2e3.png" group-title="India ➾ News",IN: News 24
+http://iptvtree.net:8080/86488e81/5e48c38fdd/16601
+#EXTINF:-1 tvg-id="" tvg-name="IN: News Live" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: News Live
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193089
+#EXTINF:-1 tvg-id="" tvg-name="IN: NewsFirst Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2bf3cc17b867a2c5245daa6891f21b9f.jpeg" group-title="India",IN: NewsFirst Kannada
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296492
+#EXTINF:-1 tvg-id="" tvg-name="IN: Next TV Malabar" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Next TV Malabar
+http://iptvtree.net:8080/86488e81/5e48c38fdd/287006
+#EXTINF:-1 tvg-id="" tvg-name="IN: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f5d29d191afb6aa86b78dcf3dca8e8e6.png" group-title="India",IN: nickelodeon
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286732
+#EXTINF:-1 tvg-id="" tvg-name="IN: NRB TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/ea78f101b2d2cce968247ca4737cfc16.jpeg" group-title="India",IN: NRB TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281555
+#EXTINF:-1 tvg-id="" tvg-name="IN: NTV Telugu" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/0827b8522457ebf66fc7baab8d821c86.jpeg" group-title="India",IN: NTV Telugu
+http://iptvtree.net:8080/86488e81/5e48c38fdd/165796
+#EXTINF:-1 tvg-id="" tvg-name="IN: Pardesi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/4c7820b9e443865369fde481896e9510.png" group-title="India",IN: Pardesi TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49642
+#EXTINF:-1 tvg-id="" tvg-name="IN: Peace TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/296e8bccc0b8317c37a00f64a9394d48.png" group-title="India",IN: Peace TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82613
+#EXTINF:-1 tvg-id="" tvg-name="IN: Peppers TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/71ef2684e0004bea2a3abcd36148f88a.png" group-title="India",IN: Peppers TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166401
+#EXTINF:-1 tvg-id="" tvg-name="IN: Pitaara TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/0a43207a3fa8b239171e5bdf8ae0a170.png" group-title="India",IN: Pitaara TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/145652
+#EXTINF:-1 tvg-id="" tvg-name="IN: Polimer News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/08672750ca676a5ccb2cc50e5400bf8b.png" group-title="India",IN: Polimer News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/163279
+#EXTINF:-1 tvg-id="" tvg-name="IN: POP Pataka" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e0c63957d85e825b53a1c52868a58853.png" group-title="India ➾ Music",IN: POP Pataka
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82545
+#EXTINF:-1 tvg-id="" tvg-name="IN: Pramaya News 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/302d7a3a51ca908cb5df523916c65a72.png" group-title="India",IN: Pramaya News 7
+http://iptvtree.net:8080/86488e81/5e48c38fdd/283937
+#EXTINF:-1 tvg-id="" tvg-name="IN: Pratidin Time" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/3206b9d0b5bb799f7b5d03bdefe29564.png" group-title="India",IN: Pratidin Time
+http://iptvtree.net:8080/86488e81/5e48c38fdd/198224
+#EXTINF:-1 tvg-id="" tvg-name="IN: Prime Asia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/14222aff01805e2fa20fe5efa64353d9.png" group-title="India",IN: Prime Asia TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166081
+#EXTINF:-1 tvg-id="" tvg-name="IN: Prime Canada TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8cad77e365e57b12dce9b8657d25ff36.png" group-title="India",IN: Prime Canada TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49519
+#EXTINF:-1 tvg-id="" tvg-name="IN: Prime9 Telugu News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/ced893ba3569d00c263ef9338dce693a.jpeg" group-title="India",IN: Prime9 Telugu News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296491
+#EXTINF:-1 tvg-id="" tvg-name="IN: PTC CHAKDE" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ba4f1f2e2aa425d3388f9a76e0bdd92b.png" group-title="India",IN: PTC CHAKDE
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193155
+#EXTINF:-1 tvg-id="" tvg-name="IN: PTC News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ac3d0b8bf8dfeb238d4f127051ea82df.png" group-title="India",IN: PTC News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295294
+#EXTINF:-1 tvg-id="" tvg-name="IN: PTC Punjabi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d34a40f9a110266b4bf18e69e510f170.png" group-title="India",IN: PTC Punjabi
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82616
+#EXTINF:-1 tvg-id="" tvg-name="IN: PTC Punjabi Gold" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/91001736b2d462cea90da390437c9cc1.png" group-title="India",IN: PTC Punjabi Gold
+http://iptvtree.net:8080/86488e81/5e48c38fdd/197742
+#EXTINF:-1 tvg-id="" tvg-name="IN: PTC SIMRAN" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d71ccaa25b36ce9c6dea6e033e758767.png" group-title="India",IN: PTC SIMRAN
+http://iptvtree.net:8080/86488e81/5e48c38fdd/264723
+#EXTINF:-1 tvg-id="" tvg-name="IN: Public Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/26bb7fa753ca8dfb298cc36a0bdb2e6e.png" group-title="India",IN: Public Music
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192145
+#EXTINF:-1 tvg-id="" tvg-name="IN: Pulari TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/2eacbe0173124f48bd550f742773d52c.png" group-title="India",IN: Pulari TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/287016
+#EXTINF:-1 tvg-id="" tvg-name="IN: Puthiya Thalaimurai" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/10ee58a7d3bfab98c84935de70beef73.png" group-title="India",IN: Puthiya Thalaimurai
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193035
+#EXTINF:-1 tvg-id="" tvg-name="IN: Puthuyugam TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cfe2dea62f36d5c4c8de1db95620565b.png" group-title="India",IN: Puthuyugam TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/196101
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj Digital Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d67e80817419e54e626d3d9d34c6f166.png" group-title="India",IN: Raj Digital Plus
+http://iptvtree.net:8080/86488e81/5e48c38fdd/60418
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj Musix Telugu" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5123a7903c5ddc68a8a297bd9d6eb40e.png" group-title="India",IN: Raj Musix Telugu
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193137
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj News 24x7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/73855323174ab2dbd968206bff5ea1c8.png" group-title="India",IN: Raj News 24x7
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193648
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ec7f998fae0b66db9bc6d14e2f5b09f8.png" group-title="India",IN: Raj TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193125
+#EXTINF:-1 tvg-id="" tvg-name="IN: Real News Kerala" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/a9f81e88bbf7e1ba88982347a80afb4a.png" group-title="India",IN: Real News Kerala
+http://iptvtree.net:8080/86488e81/5e48c38fdd/283939
+#EXTINF:-1 tvg-id="" tvg-name="IN: Relax TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Relax TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/287018
+#EXTINF:-1 tvg-id="" tvg-name="IN: Reporter" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/99680f1a9114d00686a9f812a69f002d.png" group-title="India",IN: Reporter
+http://iptvtree.net:8080/86488e81/5e48c38fdd/51854
+#EXTINF:-1 tvg-id="" tvg-name="IN: Republic Bharat" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0c967020993b572faf6d511cc219b867.png" group-title="India",IN: Republic Bharat
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49582
+#EXTINF:-1 tvg-id="" tvg-name="IN: Republic TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/da4f866180422b1db1f1132c046b5a16.png" group-title="India",IN: Republic TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82617
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rishtey Cineplex" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/04bff14c8fa1d944d274196677da32ed.png" group-title="India",IN: Rishtey Cineplex
+http://iptvtree.net:8080/86488e81/5e48c38fdd/71074
+#EXTINF:-1 tvg-id="" tvg-name="IN: Romedy Now" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d115158efb755812fac0d25e96bec925.png" group-title="India",IN: Romedy Now
+http://iptvtree.net:8080/86488e81/5e48c38fdd/51876
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rtv Live" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/8bbe83e4178b5e5c6f2623598568e964.jpeg" group-title="India",IN: Rtv Live
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296495
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rtv Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2577568c9de695bd6d55ff309c4ed03b.jpeg" group-title="India ➾ Music",IN: Rtv Music
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296559
+#EXTINF:-1 tvg-id="" tvg-name="IN: Saam TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6895beae9bbbe188057a9df157b68e7a.png" group-title="India",IN: Saam TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166387
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sada TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/72d0a45e2f9ee9badf718b1642c807bd.png" group-title="India",IN: Sada TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49625
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sadhna Plus News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d0f409b84422ab1ee589ae7188ebc911.png" group-title="India",IN: Sadhna Plus News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166394
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sahara One" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/52380d6059094c98fb8e2097b2030505.png" group-title="India",IN: Sahara One
+http://iptvtree.net:8080/86488e81/5e48c38fdd/247493
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sakshi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/0a26d5546345d43f6af0b8534a2fbf9f.jpeg" group-title="India",IN: Sakshi TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193164
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sana Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/779b5a1a0a97fc5e507c859f48087aa7.png" group-title="India",IN: Sana Plus
+http://iptvtree.net:8080/86488e81/5e48c38fdd/287021
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sana TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sana TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/287022
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sangat TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/8f4719964297919a385ee1e3d12c977f.jpg" group-title="India",IN: Sangat TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/165765
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sangeet Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/ebb4518fab25835d1c05f37fce2e2de0.png" group-title="India",IN: Sangeet Bangla
+http://iptvtree.net:8080/86488e81/5e48c38fdd/165827
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sanjha TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/15f4e1d0173b104ed11136cf0ab587d5.png" group-title="India",IN: Sanjha TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49624
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sankara TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e52aa970438491e87e32f78f6bf600b1.png" group-title="India",IN: Sankara TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166407
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sanskar TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0148fbcce5d17bc9afe92eba89f77d5e.png" group-title="India",IN: Sanskar TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/51882
+#EXTINF:-1 tvg-id="" tvg-name="IN: Santhora Short Flim" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/b497612b789e22658d25accf4a2d6401.png" group-title="India",IN: Santhora Short Flim
+http://iptvtree.net:8080/86488e81/5e48c38fdd/51833
+#EXTINF:-1 tvg-id="" tvg-name="IN: Santhora TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ab066371446c70af9582388f6d720e30.png" group-title="India",IN: Santhora TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/51835
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sardari TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/afa767a9f64cfb70a9239047a4cf3534.jpeg" group-title="India",IN: Sardari TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82554
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sarv Dharam Sangam" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3f3eff5b7c848f09e60f93c6b9d8b79d.png" group-title="India",IN: Sarv Dharam Sangam
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166791
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sathiyam TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/ad166d8001d0b1c81c7df56f7a347a2b.jpg" group-title="India",IN: Sathiyam TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193131
+#EXTINF:-1 tvg-id="" tvg-name="IN: Satsang TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5b71e4c81199f6dc2005e373394ebf47.png" group-title="India",IN: Satsang TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/45463
+#EXTINF:-1 tvg-id="" tvg-name="IN: SEITHIGAL" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/006931696721503cad36e79dc7122129.png" group-title="India",IN: SEITHIGAL
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295300
+#EXTINF:-1 tvg-id="" tvg-name="IN: Shemaroo TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/980963c33d28e62f50de4034ddfd0e7b.png" group-title="India",IN: Shemaroo TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192955
+#EXTINF:-1 tvg-id="" tvg-name="IN: Shorts TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/e73205324267477352afc6704518b01a.png" group-title="India",IN: Shorts TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295301
+#EXTINF:-1 tvg-id="" tvg-name="IN: Shraddha" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/d74ce486a94895662739c04ed9acf9d6.png" group-title="India",IN: Shraddha
+http://iptvtree.net:8080/86488e81/5e48c38fdd/287026
+#EXTINF:-1 tvg-id="" tvg-name="IN: Shubhsandesh TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ee8b5121468e8a7644d48038c89fc9a1.png" group-title="India",IN: Shubhsandesh TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82557
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sikh Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c99283a2532f7a866786bce37d30a791.png" group-title="India",IN: Sikh Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82556
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sikh Spiritual Centre Rexdale" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/503afb917cc9ae8ebb4cd4d159c75df0.png" group-title="India",IN: Sikh Spiritual Centre Rexdale
+http://iptvtree.net:8080/86488e81/5e48c38fdd/286225
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sivan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/48c91b8f7c23f798078cf1b97aeb531f.png" group-title="India",IN: Sivan TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/51842
+#EXTINF:-1 tvg-id="" tvg-name="IN: Siyatha TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4df753818de2fd82bc91e20d91173c61.png" group-title="India",IN: Siyatha TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166117
+#EXTINF:-1 tvg-id="" tvg-name="IN: SOMOY TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/5e39825b86278ca2c52eb7b68d000249.jpeg" group-title="India",IN: SOMOY TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296493
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c8999c3f7f2a94b767b604985edbc245.jpg" group-title="India",IN: Sony
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281867
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Aath" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/83941203168207f8d8a6c05fd4fc800c.png" group-title="India",IN: Sony Aath
+http://iptvtree.net:8080/86488e81/5e48c38fdd/17005
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony BBC Earth" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2923e17c63e1e3a6a95152d4ebc66b38.png" group-title="India ➾ Nature",IN: Sony BBC Earth
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192995
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Marathi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cfe1e4c15284ae90798103bba7fcd6ab.png" group-title="India",IN: Sony Marathi
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193097
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/01624dbf5b113c4b044aa7bb9e7104f1.png" group-title="India",IN: Sony Max
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1359
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d4975f023a98c9cebea516a4fd98482c.png" group-title="India",IN: Sony Max 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/4862
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/204aab77089639f2bc393838adfd5580.png" group-title="India",IN: Sony Max India
+http://iptvtree.net:8080/86488e81/5e48c38fdd/63397
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/272f1039b592ab8ee695cda162daafe0.png" group-title="India",IN: Sony Pal
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193645
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pix" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4e7fba8288cf6f11b5d2027eb642d3c3.png" group-title="India",IN: Sony Pix
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49539
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SAB TV Asia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d12a683a9883989c1528fa718dd63775.png" group-title="India",IN: Sony SAB TV Asia
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1073
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SAB TV India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b2c6c32cacf21d1bfe5c1949ec424fa6.png" group-title="India",IN: Sony SAB TV India
+http://iptvtree.net:8080/86488e81/5e48c38fdd/20649
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Six" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/73301e189b695b51e416e9631ee986a8.png" group-title="India",IN: Sony Six
+http://iptvtree.net:8080/86488e81/5e48c38fdd/4853
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="India",IN: Sony Ten 1
+http://iptvtree.net:8080/86488e81/5e48c38fdd/16622
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="India",IN: Sony Ten 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/16621
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title="India",IN: Sony Ten 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/56191
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Wah" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/14411e7bb508c400f65dd42f6ec71e23.png" group-title="India",IN: Sony Wah
+http://iptvtree.net:8080/86488e81/5e48c38fdd/165801
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Yay" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6e32dd2e7ffc5d81134832bcbd16e03d.png" group-title="India",IN: Sony Yay
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1355
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR BHARAT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7fbcc6b2ef6f2a7b6879fd5c4f1fea93.png" group-title="India",IN: STAR BHARAT
+http://iptvtree.net:8080/86488e81/5e48c38fdd/284583
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Cinema" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Cinema
+http://iptvtree.net:8080/86488e81/5e48c38fdd/287029
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e24f29dada0a4a69bd8ad11788801df2.png" group-title="India",IN: Star Gold
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1070
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/39e4ba0feeb32d7265b5d927f3b7c668.png" group-title="India",IN: Star Gold 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/43919
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Jalsha" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/48fa95424d644ec81854b1a89085ee7c.jpg" group-title="India",IN: Star Jalsha
+http://iptvtree.net:8080/86488e81/5e48c38fdd/12979
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Maa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f0a6e2df182d0d2090599e5f0958a58f.png" group-title="India",IN: Star Maa
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82624
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/2b63b056fd9c98e0a0aaa86efa251838.png" group-title="India",IN: STAR Movies
+http://iptvtree.net:8080/86488e81/5e48c38fdd/11511
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR PLUS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: STAR PLUS
+http://iptvtree.net:8080/86488e81/5e48c38fdd/16091
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Pravah" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d1a684c9e9f048d6c727b98eb0d8f41e.png" group-title="India",IN: Star Pravah
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193149
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title="India",IN: Star Sports 1
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3630
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title="India",IN: Star Sports 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/3631
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title="India",IN: Star Sports 3
+http://iptvtree.net:8080/86488e81/5e48c38fdd/62584
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/32dd229ae9dd6bb71e041ba5545ca2b9.jpg" group-title="India",IN: Star Sports Select 1
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82628
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/90d4a692460906d2af537d261d1ac3a1.jpg" group-title="India",IN: Star Sports Select 2
+http://iptvtree.net:8080/86488e81/5e48c38fdd/16619
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Vijay" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/5d985f020baf77d62ddf39806d5dde60.png" group-title="India",IN: Star Vijay
+http://iptvtree.net:8080/86488e81/5e48c38fdd/157500
+#EXTINF:-1 tvg-id="" tvg-name="IN: Steelbird Music" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dfc3925e553be38730d2353baa8e584e.png" group-title="India",IN: Steelbird Music
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49650
+#EXTINF:-1 tvg-id="" tvg-name="IN: Subhavaartha TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/ddfbed2c8ea9987db64fcebe4697358e.png" group-title="India",IN: Subhavaartha TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166397
+#EXTINF:-1 tvg-id="" tvg-name="IN: SUN LIFE" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/78c9c0b3ceee8f5b0fb2c42d8bc4d4e8.png" group-title="India",IN: SUN LIFE
+http://iptvtree.net:8080/86488e81/5e48c38fdd/267819
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sun Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ef2ce31aea1ef04d89580ca26fef5a77.jpg" group-title="India",IN: Sun Music
+http://iptvtree.net:8080/86488e81/5e48c38fdd/157496
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sun News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/1f7e6af71c53b1b7853876efa23acb64.png" group-title="India",IN: Sun News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/295303
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sun TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/9d2a0d0b78ffd6966844a7656afa4536.png" group-title="India",IN: Sun TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/76969
+#EXTINF:-1 tvg-id="" tvg-name="IN: SURYA Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/a92cc63fe16ab74aa1098b2d33b7fb62.png" group-title="India",IN: SURYA Movies
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193145
+#EXTINF:-1 tvg-id="" tvg-name="IN: SVBC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f8b2618fe375909f2733e1f6edf57f70.png" group-title="India",IN: SVBC
+http://iptvtree.net:8080/86488e81/5e48c38fdd/166383
+#EXTINF:-1 tvg-id="" tvg-name="IN: Swamiji TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/f717b1230ea394ad44497d441551bbfe.png" group-title="India",IN: Swamiji TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/267416
+#EXTINF:-1 tvg-id="" tvg-name="IN: Swaraj Express" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/742afa9239712989d292a47b2f5f4060.png" group-title="India",IN: Swaraj Express
+http://iptvtree.net:8080/86488e81/5e48c38fdd/287033
+#EXTINF:-1 tvg-id="" tvg-name="IN: T News Telugu" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/47abe0225216c0187e1147f57199b5ea.jpeg" group-title="India",IN: T News Telugu
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296490
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Vision" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1b2821c300a559929394d6f5e72ed9bf.png" group-title="India",IN: Tamil Vision
+http://iptvtree.net:8080/86488e81/5e48c38fdd/60423
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamilan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/9c44c9e5c405ce391554600227e3f0c5.png" group-title="India",IN: Tamilan TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/267549
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tehelka TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c20f375b1105f97cba2d3909cf4fa34b.png" group-title="India",IN: Tehelka TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/287035
+#EXTINF:-1 tvg-id="" tvg-name="IN: Thanthi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/147b8c40b769ef43145dbc127becc940.png" group-title="India",IN: Thanthi TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/45437
+#EXTINF:-1 tvg-id="" tvg-name="IN: Times Now" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5958ed44028a113a0503a1ada6c6d6fa.png" group-title="India",IN: Times Now
+http://iptvtree.net:8080/86488e81/5e48c38fdd/76961
+#EXTINF:-1 tvg-id="" tvg-name="IN: Travelxp" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0f94b13b04e2801d5576e3380782976c.png" group-title="India ➾ LifeStyle",IN: Travelxp
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82636
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV 5 Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5bf97afcda04a28ec078eb703732ce20.png" group-title="India",IN: TV 5 Kannada
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193065
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV 9 Gujarati" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5d788e159275192ad8fe55974d48064b.png" group-title="India",IN: TV 9 Gujarati
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193152
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV 9 Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f653a845a780d18eb98c4f6d4f569e85.png" group-title="India",IN: TV 9 Kannada
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193060
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV 9 Marathi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6ee15c61afb2a67c57ef8d5708ebf733.png" group-title="India",IN: TV 9 Marathi
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193016
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV 9 Telugu" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ced277da5096e518641e52e606876d47.png" group-title="India",IN: TV 9 Telugu
+http://iptvtree.net:8080/86488e81/5e48c38fdd/163256
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV 16 Toronto" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5cb7d55cfc42212dfa6581b1465009a4.jpg" group-title="India",IN: TV 16 Toronto
+http://iptvtree.net:8080/86488e81/5e48c38fdd/147414
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV Derana" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/926804db9564321458f4947e0ad09598.png" group-title="India",IN: TV Derana
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296394
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV Punjab" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/b7ece6f15c49deb1c3a44aaef455343c.png" group-title="India",IN: TV Punjab
+http://iptvtree.net:8080/86488e81/5e48c38fdd/196089
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV Raj" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/79bff8526cd7170fe476256e2c28943d.png" group-title="India",IN: TV Raj
+http://iptvtree.net:8080/86488e81/5e48c38fdd/285531
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV5 Telugu News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/86e94fbe974fe9cd2451683e2ba646c1.jpeg" group-title="India",IN: TV5 Telugu News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296486
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV9 Kannada News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/34fe7136a14dd9339107bb9f80e59779.jpeg" group-title="India",IN: TV9 Kannada News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296481
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV9 Telugu News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/61fc62bd28d3b2f63c4d21346a6ef91e.jpeg" group-title="India",IN: TV9 Telugu News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296484
+#EXTINF:-1 tvg-id="" tvg-name="IN: Utsav Bharat" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e9606491d54a8c3000c382f141b2aaf2.png" group-title="India",IN: Utsav Bharat
+http://iptvtree.net:8080/86488e81/5e48c38fdd/16614
+#EXTINF:-1 tvg-id="" tvg-name="IN: Utsav Gold" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0f3c82f5b0a45a6fd211505522dd40a8.png" group-title="India",IN: Utsav Gold
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82623
+#EXTINF:-1 tvg-id="" tvg-name="IN: Utsav Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a65ad5eaab77bbe22fac0884eb1a7774.png" group-title="India",IN: Utsav Plus
+http://iptvtree.net:8080/86488e81/5e48c38fdd/60347
+#EXTINF:-1 tvg-id="" tvg-name="IN: UTV Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6870989348707321e9d14b5b3232666f.png" group-title="India",IN: UTV Movies
+http://iptvtree.net:8080/86488e81/5e48c38fdd/284584
+#EXTINF:-1 tvg-id="" tvg-name="IN: V6 News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ab8b937fcb8eeac0eacaefbc8b7b5f8b.png" group-title="India",IN: V6 News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192185
+#EXTINF:-1 tvg-id="" tvg-name="IN: Vasanth TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b83eebb26f42240f471e589f48aa74a3.png" group-title="India",IN: Vasanth TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82569
+#EXTINF:-1 tvg-id="" tvg-name="IN: Velicham TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/affd5f6e8c6a4a3f78c9ec5752438090.png" group-title="India",IN: Velicham TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/159110
+#EXTINF:-1 tvg-id="" tvg-name="IN: Vijay TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/ee1f3665c66aea7df8658178f33e0890.png" group-title="India",IN: Vijay TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/19744
+#EXTINF:-1 tvg-id="" tvg-name="IN: Vip Telugu" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/57c8c1b698d86e161fa4ba30853c1bd2.jpeg" group-title="India",IN: Vip Telugu
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296487
+#EXTINF:-1 tvg-id="" tvg-name="IN: VTV News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b57b3474e3f6977ec9b440feee43a1ad.png" group-title="India",IN: VTV News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193081
+#EXTINF:-1 tvg-id="" tvg-name="IN: Wah Punjab" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/e4ef72a2c3936ee0db01fa11bd1467cf.png" group-title="India",IN: Wah Punjab
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281915
+#EXTINF:-1 tvg-id="" tvg-name="IN: We" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/4cf6af925ca70e6b3603d5968826dd04.jpg" group-title="India",IN: We
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193159
+#EXTINF:-1 tvg-id="" tvg-name="IN: Willow" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ab8bd92ca12a287a208d3f6a2904cecf.png" group-title="India",IN: Willow
+http://iptvtree.net:8080/86488e81/5e48c38fdd/165776
+#EXTINF:-1 tvg-id="" tvg-name="IN: Xplore Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/bdd562feb686447c906cce666f147b31.png" group-title="India",IN: Xplore Channel
+http://iptvtree.net:8080/86488e81/5e48c38fdd/287041
+#EXTINF:-1 tvg-id="" tvg-name="IN: Yupp Thirai" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Yupp Thirai
+http://iptvtree.net:8080/86488e81/5e48c38fdd/287042
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee 24 Ghanta" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c8f1da0128e2eec1a1f93811e761f7d8.png" group-title="India",IN: Zee 24 Ghanta
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193187
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee 24 Kalak" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8df915e2607e4ae07918bc72a56f1d3f.png" group-title="India",IN: Zee 24 Kalak
+http://iptvtree.net:8080/86488e81/5e48c38fdd/45484
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee 24 Taas" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a1b7b532d257ffedc9d801c3cb570324.png" group-title="India",IN: Zee 24 Taas
+http://iptvtree.net:8080/86488e81/5e48c38fdd/45486
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7d9f57621c8113935568dabc68bb5d88.png" group-title="India",IN: Zee Action
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1353
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Aflam" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/19d2a5a384842cc228caa404f74c8b82.png" group-title="India",IN: Zee Aflam
+http://iptvtree.net:8080/86488e81/5e48c38fdd/22067
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Anmol Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c5fee6bbc5e1c2292220e23c6e6d780f.png" group-title="India",IN: Zee Anmol Cinema
+http://iptvtree.net:8080/86488e81/5e48c38fdd/19467
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/59b90d720e4e84324ae1cc0b511a34e7.png" group-title="India",IN: Zee Bangla
+http://iptvtree.net:8080/86488e81/5e48c38fdd/145632
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bangla Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/1a22ad3bdf83c44cc513c8ff2490fdd9.png" group-title="India",IN: Zee Bangla Cinema
+http://iptvtree.net:8080/86488e81/5e48c38fdd/21658
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bihar Jharkhand" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/23c086c0546d99ea276197a9cb710521.png" group-title="India",IN: Zee Bihar Jharkhand
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193006
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Biskope" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7233d1c55fa2743287fdb526f9a771a8.png" group-title="India",IN: Zee Biskope
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193009
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bollywood" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e6c48a8c46101a99e4a41418aaeb70aa.png" group-title="India",IN: Zee Bollywood
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1351
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Business" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9bcddf38e1547fadf65c31172b86f21b.png" group-title="India",IN: Zee Business
+http://iptvtree.net:8080/86488e81/5e48c38fdd/16984
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cafe" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/ec7ea3a8510b9c3e2d63d314aae01977.png" group-title="India",IN: Zee Cafe
+http://iptvtree.net:8080/86488e81/5e48c38fdd/49561
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/085bf305157db5fde8b5efdf9e67c0eb.png" group-title="India",IN: Zee Cinema
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1350
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinemalu" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8eb47f24ddbe33c7663d18f458aa9467.png" group-title="India",IN: Zee Cinemalu
+http://iptvtree.net:8080/86488e81/5e48c38fdd/45504
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE Classic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e4acdd893054d8789ed77d59a275d298.png" group-title="India",IN: ZEE Classic
+http://iptvtree.net:8080/86488e81/5e48c38fdd/21578
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Hindustan" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e76a9bdf41d34fde4f1b8221efc355b4.png" group-title="India",IN: Zee Hindustan
+http://iptvtree.net:8080/86488e81/5e48c38fdd/145633
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9b9b9240cc9786677a699ca48209b819.png" group-title="India",IN: Zee Kannada
+http://iptvtree.net:8080/86488e81/5e48c38fdd/145631
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Magic" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Zee Magic
+http://iptvtree.net:8080/86488e81/5e48c38fdd/281920
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Marathi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4e2afbdf7bca28dd91216f35336c75ef.png" group-title="India",IN: Zee Marathi
+http://iptvtree.net:8080/86488e81/5e48c38fdd/82646
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/59f3fa24fe411768bb5e776b6b0ec11d.png" group-title="India",IN: Zee News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/5047
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Picchar" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cf5fce71f2c61324a8f9516e43c0f3dc.png" group-title="India",IN: Zee Picchar
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192201
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Punjabi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f1a9bd21bb7f80d985fbb194e5a0c4b2.png" group-title="India",IN: Zee Punjabi
+http://iptvtree.net:8080/86488e81/5e48c38fdd/145630
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Sarthak" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3b852ca2198763583db30d486c556655.png" group-title="India",IN: Zee Sarthak
+http://iptvtree.net:8080/86488e81/5e48c38fdd/193135
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Talkies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7a65529546647b12b26bebc2ce020e6d.png" group-title="India",IN: Zee Talkies
+http://iptvtree.net:8080/86488e81/5e48c38fdd/16957
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Tamil" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/25ce128978be5e660e161910f7ce24bb.png" group-title="India",IN: Zee Tamil
+http://iptvtree.net:8080/86488e81/5e48c38fdd/45505
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TELUGU" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e70e1a61806a9019224ac6801a48c635.png" group-title="India",IN: ZEE TELUGU
+http://iptvtree.net:8080/86488e81/5e48c38fdd/21561
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE Telugu News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/79e9c81f5723dfd9c4f3ca8d6e1580b8.jpeg" group-title="India",IN: ZEE Telugu News
+http://iptvtree.net:8080/86488e81/5e48c38fdd/296489
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/806194dec889d62b53a395771f889bf8.png" group-title="India",IN: Zee TV
+http://iptvtree.net:8080/86488e81/5e48c38fdd/1348
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee World" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/355170886aae937e99453a9e20caf655.png" group-title="India",IN: Zee World
+http://iptvtree.net:8080/86488e81/5e48c38fdd/172264
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Yuva" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/16ba9a8ffb1485d63b548dede9a17524.png" group-title="India",IN: Zee Yuva
+http://iptvtree.net:8080/86488e81/5e48c38fdd/45502
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zing" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bb72ac5e3dacbb23f1a800219b7b9a79.png" group-title="India",IN: Zing
+http://iptvtree.net:8080/86488e81/5e48c38fdd/173160
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zoom" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/568f50fca8c93f5f54d6ba044d570687.png" group-title="India",IN: Zoom
+http://iptvtree.net:8080/86488e81/5e48c38fdd/192069
