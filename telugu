@@ -140,7 +140,7 @@ http://45.125.220.129:81/play/a04e
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Disney" tvg-logo="http://files.rednetcontent.com/chlogo/disny.png" group-title="KIDS",Disney Telugu
 http://45.125.220.129:81/play/a04c
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Kushi Tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Khushi_TV.jpg" group-title="KIDS",Kushi Tv
-Will Update Soon.
+http://iptv.tamilsettai.fun/stream-live.php/video.m3u8?url=9362&line=SNXTFREE.m3u&user=SNXTFREE30102022&pass=TamilSettai_PremiumIPTV_FREE
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Sony BBC Earth HD Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Infotainment",Sony BBC Earth HD Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="History 18 Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment",History 18 Telugu
