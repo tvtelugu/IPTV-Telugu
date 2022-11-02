@@ -171,7 +171,7 @@ https://jiotv.hadinetbd.tech/jio/v1/AP_BIE_ARTS/AP_BIE_ARTS/AP_BIE_ARTS.m3u8
 https://jiotv.hadinetbd.tech/jio/v1/AP_BIE_SCIENCE/AP_BIE_SCIENCE/AP_BIE_SCIENCE.m3u8
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Educational"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png",AP CIE SIVE
 https://jiotv.hadinetbd.tech/jio/v1/AP_CIE_SIVE/AP_CIE_SIVE/AP_CIE_SIVE.m3u8
-#EXTINF:-1 tvg-id="VOD" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg" group-title="VOD || Dubbed Movies",Spider-Man: No Way Home (2021) Extended Vertion (Multi Audio)
+#EXTINF:-1 tvg-id="VOD" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg" group-title="🎬 Dubbed Movies",Spider-Man: No Way Home (2021) Extended Vertion (Multi Audio)
 https://assets-1.entertainvideo.com/assets/media/550cba7e649a90c9566eb110c1839b90/dash/30ca58774bf9ae8f63d765545a7ecb74.mpd
 #EXTINF:-1 tvg-id="VOD" tvg-name="Parugo Parugu (2022)" tvg-logo="https://static.digit.in/OTT/v2/images/tr:n-ott_home_crousel/parugo-parugu-946823.jpg" group-title="🎬  Movies",Parugo Parugu (2022)
 https://assets-1.entertainvideo.com/assets/media/fabfd7414ccde8df986d3d1eb4dfe985/dash/19c005af2259025ccbaa9f7b8d5a7806.mpd
