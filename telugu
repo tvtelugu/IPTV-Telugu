@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz" url-tvg="https://tinyurl.com/2zb96xa5"
+#EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz"
 #EXTINF:-0 tvg-id="Telugu" tvg-name="IPTV Telugu" tvg-logo="https://i.postimg.cc/PfSfj5xm/photo-2022-10-14-14-15-53.jpg",IPTV Telugu
 https://github.com/madhukar7322/IPTV-Telugu/blob/main/iptv-telugu.ts?raw=true
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Telugu" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1008/PORTRAIT/k54DafKg.png" group-title="🟢 Entertinment",Zee Telugu HD
@@ -203,73 +203,3 @@ https://assets-1.entertainvideo.com/assets/media/6c03277445da997231899a065c730a3
 https://assets-1.entertainvideo.com/assets/media/f39cd0b18f57f812ae1f8063af703fe7/dash/c3456fc9097298f3bbef52d00c85ba48.mpd
 #EXTINF:-1 tvg-id="VOD" tvg-name="Unstoppable (2022)" tvg-logo="https://www.insidesport.in/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-14-at-9.49.09-AM.jpeg" group-title="🎬 Sports",IND vs PAK T20 WorldCup 2022 
 https://assets-1.mypowerdisk.com/transcode_video/ea2ed09a54cc90d6f37eb602acb8aec8/dash/ad32bb121d05b28e5ffda050de6b14e3.mpd
-
-
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: CricLife 1 HD 
-http://bandookk.xyz:8000/BJTECH/BJTECH/27976
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: CricLife 1 FHD
-http://bandookk.xyz:8000/BJTECH/BJTECH/27977
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: CricLife 2 HD
-http://bandookk.xyz:8000/BJTECH/BJTECH/27978
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: CricLife 2 FHD
-http://bandookk.xyz:8000/BJTECH/BJTECH/27979
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: CricLife MAX FHD
-http://bandookk.xyz:8000/BJTECH/BJTECH/27980
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: JIO CRICKET
-http://bandookk.xyz:8000/BJTECH/BJTECH/27678
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: JIO CRICKET 1 HD
-http://bandookk.xyz:8000/BJTECH/BJTECH/27984
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: PTV SPORTS
-http://bandookk.xyz:8000/BJTECH/BJTECH/17534
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: A Sportd FHD
-http://bandookk.xyz:8000/BJTECH/BJTECH/17536
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: A Sports ARY
-http://bandookk.xyz:8000/BJTECH/BJTECH/17537
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: TEN SPORTS PK
-http://bandookk.xyz:8000/BJTECH/BJTECH/1011
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: TEN CRICKET
-http://bandookk.xyz:8000/BJTECH/BJTECH/26399
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: GEO SUPER
-http://bandookk.xyz:8000/BJTECH/BJTECH/1012
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: FoX Sports 501
-http://bandookk.xyz:8000/BJTECH/BJTECH/17535
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: SUPERSPORT CRICKET
-http://bandookk.xyz:8000/BJTECH/BJTECH/18257
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: Astro Cricket
-http://bandookk.xyz:8000/BJTECH/BJTECH/17528
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: WILLOW CRICKET HD
-http://bandookk.xyz:8000/BJTECH/BJTECH/17538
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: Willow Xtra
-http://bandookk.xyz:8000/BJTECH/BJTECH/17527
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: Star Sports Hindi 1 HD
-http://bandookk.xyz:8000/BJTECH/BJTECH/17520
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: STAR SPORTS 1 HD 1080 H.264
-http://bandookk.xyz:8000/BJTECH/BJTECH/17522
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: STAR SPORTS 2 HD 1080 H.264
-http://bandookk.xyz:8000/BJTECH/BJTECH/17523
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: Star Sports 2 HD
-http://bandookk.xyz:8000/BJTECH/BJTECH/17521
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: Sky Sports Cricket HD
-http://bandookk.xyz:8000/BJTECH/BJTECH/17524
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: Sky Sports Cricket FHD
-http://bandookk.xyz:8000/BJTECH/BJTECH/17525
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: Super Sport GrandStand
-http://bandookk.xyz:8000/BJTECH/BJTECH/17526
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: SONY SIX SD
-http://bandookk.xyz:8000/BJTECH/BJTECH/1466
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: TEN 1 HD
-http://bandookk.xyz:8000/BJTECH/BJTECH/1468
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: TEN 2 HD
-http://bandookk.xyz:8000/BJTECH/BJTECH/1469
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: TEN 3 HD
-http://bandookk.xyz:8000/BJTECH/BJTECH/1470
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: T Sports HD
-http://bandookk.xyz:8000/BJTECH/BJTECH/22969
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC:  GAZI TV
-http://bandookk.xyz:8000/BJTECH/BJTECH/26398
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: RTA SPORTS
-http://bandookk.xyz:8000/BJTECH/BJTECH/11266
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: SPORTSMAX CRICKET
-http://bandookk.xyz:8000/BJTECH/BJTECH/11562
-#EXTINF:-1, group-title="🟢 T20 Men's World Cup 2022",T-20 WC: SPORTSMAX 2
-http://bandookk.xyz:8000/BJTECH/BJTECH/27981
