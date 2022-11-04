@@ -48,7 +48,7 @@ rtmp://singamcloud.in:1935/rasinetwork/rasitelugu
 #EXTINF:-0 tvg-id="Telugu" tvg-name="&Flix HD" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/flix-280-200.png" group-title="🟢 Movies",&Flix HD (Multi Audio)
 http://45.125.220.129:81/play/a04s
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Sony Pix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/220px-Sony_Pix_new.png" group-title="🟢 Movies",Sony Pix HD (Multi Audio)
-http://45.125.220.129:81/play/a055
+http://starshare.live:8080/live/Campbell123/Campbell123/147.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Studio Yuva Alpha" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png" group-title="🟢 Movies",Studio Yuva Alpha
 https://jiotv.hadinetbd.tech/jio/v1/Studio_Yuva_Alpha/Studio_Yuva_Alpha/Studio_Yuva_Alpha.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Studio One" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png" group-title="🟢 Movies",Studio One
