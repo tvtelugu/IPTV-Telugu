@@ -9,9 +9,9 @@ https://jiotv.hadinetbd.tech/jio/v1/Zee_Telugu/Zee_Telugu/Zee_Telugu.m3u8
 https://jiotv.hadinetbd.tech/jio/v1/ETV_HD/ETV_HD/ETV_HD.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="🟢 Entertinment",ETV Telugu
 https://jiotv.hadinetbd.tech/jio/v1/ETV_Telugu/ETV_Telugu/ETV_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Maa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="🟢 Entertinment",Star Maa TV HD
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Maa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="🟢 Entertinment",Star Maa HD
 http://starshare.live:8080/live/Campbell123/Campbell123/168.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Maa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="🟢 Entertinment",Stat Maa TV
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Maa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="🟢 Entertinment",Stat Maa
 http://starshare.live:8080/live/Campbell123/Campbell123/168.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini HD" tvg-logo="https://sund-images.sunnxt.com/14019/200x200_GeminiTVHD_14019_65bc2d50-f266-4521-8fd5-38791f3272b4.png" group-title="🟢 Entertinment",Gemini HD
 http://starshare.live:8080/live/Campbell123/Campbell123/98892.ts
