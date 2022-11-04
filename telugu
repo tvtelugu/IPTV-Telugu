@@ -34,7 +34,7 @@ http://starshare.live:8080/live/Campbell123/Campbell123/23317.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Cinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="🟢 Movies",Zee Cinemalu
 https://jiotv.hadinetbd.tech/jio/v1/Zee_Cinemalu/Zee_Cinemalu/Zee_Cinemalu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Movies HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Gemini_ Movies_HD.jpg" group-title="🟢 Movies",Gemini Movies HD
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/143244
+http://starshare.live:8080/live/Campbell123/Campbell123/212.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Gemini_ Movies.jpg" group-title="🟢 Movies",Gemini Movies
 http://starshare.live:8080/live/Campbell123/Campbell123/212.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Movies HD" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_ Movies.png" group-title="🟢 Movies",Maa Movies HD
