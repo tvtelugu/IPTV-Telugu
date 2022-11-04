@@ -175,6 +175,8 @@ https://jiotv.hadinetbd.tech/jio/v1/AP_CIE_SIVE/AP_CIE_SIVE/AP_CIE_SIVE.m3u8
 https://assets-1.entertainvideo.com/assets/media/6105977c5e02a503bd23c6bde3a4245d/dash/4cfe578a16846baef782ccc577efa29a.mpd
 #EXTINF:-1 tvg-id="VOD" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg" group-title="🎬 Dubbed Movies",Spider-Man: No Way Home (2021) Extended Vertion (Multi Audio)
 https://assets-1.entertainvideo.com/assets/media/550cba7e649a90c9566eb110c1839b90/dash/30ca58774bf9ae8f63d765545a7ecb74.mpd
+#EXTINF:-1 tvg-id="VOD" tvg-name="Brahmastra Part One: Shiva (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjY2MmI1ZWItNmU0Yy00NTdkLWJiYmQtNzFlZWNlMzkxZTZjXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_.jpg" group-title="🎬 Dubbed Movies",Brahmastra Part One: Shiva (2022)
+https://assets-1.entertainvideo.com/assets/media/fabfd7414ccde8df986d3d1eb4dfe985/dash/19c005af2259025ccbaa9f7b8d5a7806.mpd
 #EXTINF:-1 tvg-id="VOD" tvg-name="Parugo Parugu (2022)" tvg-logo="https://static.digit.in/OTT/v2/images/tr:n-ott_home_crousel/parugo-parugu-946823.jpg" group-title="🎬  Movies",Parugo Parugu (2022)
 https://assets-1.entertainvideo.com/assets/media/fabfd7414ccde8df986d3d1eb4dfe985/dash/19c005af2259025ccbaa9f7b8d5a7806.mpd
 #EXTINF:-1 tvg-id="VOD" tvg-name="Andaru bagundali Andulo Nenundali (2022)" tvg-logo="https://image-resizer-cloud-api.akamaized.net/image/88F1A938-A11D-4B8E-94E4-67C5F4B42AE0/0-2x3.jpg?width=500" group-title="🎬  Movies",Andaru bagundali Andulo Nenundali (2022)
