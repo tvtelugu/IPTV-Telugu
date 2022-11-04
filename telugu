@@ -434,13 +434,13 @@ http://starshare.live:8080/movie/Campbell123/Campbell123/64402.mp4
 http://starshare.live:8080/movie/Campbell123/Campbell123/64403.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Akshara (2021)" tvg-logo="http://starshare.live:8080/images/dc95e01999440fd46f7d517440c09585.jpg" group-title="🎬  TELUGU",Akshara (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64404.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aksharam (2021)" tvg-logo="http://starshare.live:8080/images/dc95e01999440fd46f7d517440c09585.jpg" group-title="🎬  TELUGU",Aksharam (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Aksharam (2021)" tvg-logo="https://m.media-amazon.com/images/I/7184upIqgNL._RI_.jpg" group-title="🎬  TELUGU",Aksharam (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64405.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Alludu Adhurs (2021)" tvg-logo="http://starshare.live:8080/images/0cba11130ba06dcd7f3f904165928c34.jpg" group-title="🎬  TELUGU",Alludu Adhurs (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64406.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amritha (2002)" tvg-logo="http://starshare.live:8080/images/0cba11130ba06dcd7f3f904165928c34.jpg" group-title="🎬  TELUGU",Amritha (2002)
+#EXTINF:-1 tvg-id="" tvg-name="Amritha (2002)" tvg-logo="" group-title="🎬  TELUGU",Amritha (2002)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64407.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anaganaga Oka Nenu (2021)" tvg-logo="http://starshare.live:8080/images/0cba11130ba06dcd7f3f904165928c34.jpg" group-title="🎬  TELUGU",Anaganaga Oka Nenu (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Anaganaga Oka Nenu (2021)" group-title="🎬  TELUGU",Anaganaga Oka Nenu (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64408.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Anbarivu (2022)" tvg-logo="http://starshare.live:8080/images/0f4e3f520a32a10de50217a1712e4b28.jpg" group-title="🎬  TELUGU",Anbarivu (2022)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64409.mp4
@@ -448,11 +448,11 @@ http://starshare.live:8080/movie/Campbell123/Campbell123/64409.mp4
 http://starshare.live:8080/movie/Campbell123/Campbell123/64410.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Anubhavinchu Raja (2021)" tvg-logo="http://starshare.live:8080/images/d2b8b14d1a09f116e7c1919af72d6f7a.jpg" group-title="🎬  TELUGU",Anubhavinchu Raja (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64411.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anukoni Athidhi (2021)" tvg-logo="http://starshare.live:8080/images/d2b8b14d1a09f116e7c1919af72d6f7a.jpg" group-title="🎬  TELUGU",Anukoni Athidhi (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Anukoni Athidhi (2021)"  group-title="🎬  TELUGU",Anukoni Athidhi (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64412.mp4
 #EXTINF:-1 tvg-id="" tvg-name="April 28th Em Jarigindi (2021)" tvg-logo="http://starshare.live:8080/images/9b7884158436c11f19f7274de4a70e50.jpg" group-title="🎬  TELUGU",April 28th Em Jarigindi (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64413.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aranya (2021)" tvg-logo="http://starshare.live:8080/images/9b7884158436c11f19f7274de4a70e50.jpg" group-title="🎬  TELUGU",Aranya (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Aranya (2021)"  group-title="🎬  TELUGU",Aranya (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64414.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ardha Shathabdham (2021)" tvg-logo="http://starshare.live:8080/images/677dd80a8dc1c7ec79d4e3401545f085.jpg" group-title="🎬  TELUGU",Ardha Shathabdham (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64415.mp4
@@ -462,13 +462,13 @@ http://starshare.live:8080/movie/Campbell123/Campbell123/64416.mp4
 http://starshare.live:8080/movie/Campbell123/Campbell123/64417.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Avane Srimannarayana (2019)" tvg-logo="http://starshare.live:8080/images/f200adef7147a4c080515ad1a3f96e2d.jpg" group-title="🎬  TELUGU",Avane Srimannarayana (2019)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64418.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Atma Vasikaranam (2021)" tvg-logo="http://starshare.live:8080/images/f200adef7147a4c080515ad1a3f96e2d.jpg" group-title="🎬  TELUGU",Atma Vasikaranam (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Atma Vasikaranam (2021)"  group-title="🎬  TELUGU",Atma Vasikaranam (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64419.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Attack (2016)" tvg-logo="http://starshare.live:8080/images/f200adef7147a4c080515ad1a3f96e2d.jpg" group-title="🎬  TELUGU",Attack (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Attack (2016)"  group-title="🎬  TELUGU",Attack (2016)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64420.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bachelor (2021)" tvg-logo="http://starshare.live:8080/images/f200adef7147a4c080515ad1a3f96e2d.jpg" group-title="🎬  TELUGU",Bachelor (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Bachelor (2021)" group-title="🎬  TELUGU",Bachelor (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64421.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BalaMitra (2021)" tvg-logo="http://starshare.live:8080/images/f200adef7147a4c080515ad1a3f96e2d.jpg" group-title="🎬  TELUGU",BalaMitra (2021)
+#EXTINF:-1 tvg-id="" tvg-name="BalaMitra (2021)" group-title="🎬  TELUGU",BalaMitra (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64422.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bamfaad (2020)" tvg-logo="http://starshare.live:8080/images/bb8039c3bab360ba3d3e625101ae3fba.jpg" group-title="🎬  TELUGU",Bamfaad (2020)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64423.mp4
@@ -482,25 +482,25 @@ http://starshare.live:8080/movie/Campbell123/Campbell123/64426.mp4
 http://starshare.live:8080/movie/Campbell123/Campbell123/64427.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Big B (2007)" tvg-logo="http://starshare.live:8080/images/3d194e5b71ffd87ec3ef3eecd3486067.jpg" group-title="🎬  TELUGU",Big B (2007)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64428.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother (2020)" tvg-logo="http://starshare.live:8080/images/3d194e5b71ffd87ec3ef3eecd3486067.jpg" group-title="🎬  TELUGU",Big Brother (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother (2020)"  group-title="🎬  TELUGU",Big Brother (2020)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64429.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bomma Adirindi Dimma Tirigindi (2021)" tvg-logo="http://starshare.live:8080/images/1852dcdd0a1625514ef672ee68f425b6.jpg" group-title="🎬  TELUGU",Bomma Adirindi Dimma Tirigindi (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64430.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Boomika (2021)" tvg-logo="http://starshare.live:8080/images/fa456f3394ff5e7a6fd3ad3d1e863782.jpg" group-title="🎬  TELUGU",Boomika (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Buchinaidu Kandriga (2021)" tvg-logo="http://starshare.live:8080/images/fa456f3394ff5e7a6fd3ad3d1e863782.jpg" group-title="🎬  TELUGU",Buchinaidu Kandriga (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Buchinaidu Kandriga (2021)"  group-title="🎬  TELUGU",Buchinaidu Kandriga (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Captain Rana Prathap (2021)" tvg-logo="http://starshare.live:8080/images/fa456f3394ff5e7a6fd3ad3d1e863782.jpg" group-title="🎬  TELUGU",Captain Rana Prathap (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Captain Rana Prathap (2021)"  group-title="🎬  TELUGU",Captain Rana Prathap (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CBI Vs Lovers (2021)" tvg-logo="http://starshare.live:8080/images/fa456f3394ff5e7a6fd3ad3d1e863782.jpg" group-title="🎬  TELUGU",CBI Vs Lovers (2021)
+#EXTINF:-1 tvg-id="" tvg-name="CBI Vs Lovers (2021)"  group-title="🎬  TELUGU",CBI Vs Lovers (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64434.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chaavu Kaburu Challaga (2021)" tvg-logo="http://starshare.live:8080/images/f8b7b587e15a172e42c7484b0d94502e.jpg" group-title="🎬  TELUGU",Chaavu Kaburu Challaga (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64435.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chalo Assembly (2001)" tvg-logo="http://starshare.live:8080/images/f8b7b587e15a172e42c7484b0d94502e.jpg" group-title="🎬  TELUGU",Chalo Assembly (2001)
+#EXTINF:-1 tvg-id="" tvg-name="Chalo Assembly (2001)"  group-title="🎬  TELUGU",Chalo Assembly (2001)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64436.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Chathur Mukham (2021)" tvg-logo="http://starshare.live:8080/images/7f9f4ee0b131665d45c7280e5e914dc9.jpg" group-title="🎬  TELUGU",Chathur Mukham (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64437.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Check (2021)" tvg-logo="http://starshare.live:8080/images/7f9f4ee0b131665d45c7280e5e914dc9.jpg" group-title="🎬  TELUGU",Check (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Check (2021)"  group-title="🎬  TELUGU",Check (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64438.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Checkmate (2021)" tvg-logo="http://starshare.live:8080/images/f9d5ca1cccd85a16a926cdeeed586eb7.jpg" group-title="🎬  TELUGU",Checkmate (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64439.mp4
@@ -512,35 +512,35 @@ http://starshare.live:8080/movie/Campbell123/Campbell123/64441.mp4
 http://starshare.live:8080/movie/Campbell123/Campbell123/64442.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cinema Bandi (2021)" tvg-logo="http://starshare.live:8080/images/d909081c7e4da6e6173a6e0fc4f5a22a.jpg" group-title="🎬  TELUGU",Cinema Bandi (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64443.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cinemavadu (2021)" tvg-logo="http://starshare.live:8080/images/d909081c7e4da6e6173a6e0fc4f5a22a.jpg" group-title="🎬  TELUGU",Cinemavadu (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Cinemavadu (2021)"  group-title="🎬  TELUGU",Cinemavadu (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64444.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Climax (2021)" tvg-logo="http://starshare.live:8080/images/d909081c7e4da6e6173a6e0fc4f5a22a.jpg" group-title="🎬  TELUGU",Climax (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Climax (2021)"  group-title="🎬  TELUGU",Climax (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64445.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cold Case (2021)" tvg-logo="http://starshare.live:8080/images/43f0c350bfbee0d95818016ba6b5a8be.jpg" group-title="🎬  TELUGU",Cold Case (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64446.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Devadas (2018)" tvg-logo="http://starshare.live:8080/images/0c37ab199ae0a6a1fea1491d86b56e1f.jpg" group-title="🎬  TELUGU",Devadas (2018)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64447.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Devarakondalo Vijay Premakatha (2021)" tvg-logo="http://starshare.live:8080/images/0c37ab199ae0a6a1fea1491d86b56e1f.jpg" group-title="🎬  TELUGU",Devarakondalo Vijay Premakatha (2021)
+#EXTINF:-1  group-title="🎬  TELUGU",Devarakondalo Vijay Premakatha (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64448.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Devineni (2021)" tvg-logo="http://starshare.live:8080/images/dd69097827d6dcc8d66c0140d90c31c2.jpg" group-title="🎬  TELUGU",Devineni (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64449.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Devudu Chesina Manushulu (2012)" tvg-logo="http://starshare.live:8080/images/d843ae6f8709fe507fa3bfbae9d52105.jpg" group-title="🎬  TELUGU",Devudu Chesina Manushulu (2012)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dheevara (2021)" tvg-logo="http://starshare.live:8080/images/d843ae6f8709fe507fa3bfbae9d52105.jpg" group-title="🎬  TELUGU",Dheevara (2021)
+#EXTINF:-1 group-title="🎬  TELUGU",Dheevara (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64451.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dhoom 2 (2006)" tvg-logo="http://starshare.live:8080/images/b9a55c642ea34374ae0ae0fc79e7ae27.jpg" group-title="🎬  TELUGU",Dhoom 2 (2006)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doctor (2021)" tvg-logo="http://starshare.live:8080/images/b9a55c642ea34374ae0ae0fc79e7ae27.jpg" group-title="🎬  TELUGU",Doctor (2021)
+#EXTINF:-1 group-title="🎬  TELUGU",Doctor (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dosham (2019)" tvg-logo="http://starshare.live:8080/images/b9a55c642ea34374ae0ae0fc79e7ae27.jpg" group-title="🎬  TELUGU",Dosham (2019)
+#EXTINF:-1 group-title="🎬  TELUGU",Dosham (2019)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dosth Mera Dosth (2021)" tvg-logo="http://starshare.live:8080/images/b9a55c642ea34374ae0ae0fc79e7ae27.jpg" group-title="🎬  TELUGU",Dosth Mera Dosth (2021)
+#EXTINF:-1 group-title="🎬  TELUGU",Dosth Mera Dosth (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64455.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dream Boy (2021)" tvg-logo="http://starshare.live:8080/images/fddd3d4619d82fb09d684391bf525269.jpg" group-title="🎬  TELUGU",Dream Boy (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64456.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Edaina Jaragocchu (2019)" tvg-logo="http://starshare.live:8080/images/57bbba7c36fca4d1661326b87d595e2d.jpg" group-title="🎬  TELUGU",Edaina Jaragocchu (2019)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64457.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Friendship (2021)" tvg-logo="http://starshare.live:8080/images/57bbba7c36fca4d1661326b87d595e2d.jpg" group-title="🎬  TELUGU",Friendship (2021)
+#EXTINF:-1  group-title="🎬  TELUGU",Friendship (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64458.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Galipatam (2014)" tvg-logo="http://starshare.live:8080/images/f2c35c3cd04c18e02ed400b9b69fa31e.jpg" group-title="🎬  TELUGU",Galipatam (2014)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64459.mp4
@@ -550,13 +550,13 @@ http://starshare.live:8080/movie/Campbell123/Campbell123/64460.mp4
 http://starshare.live:8080/movie/Campbell123/Campbell123/64461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Haseen Dillruba (2021)" tvg-logo="http://starshare.live:8080/images/381b8c700ccad1842d277ce469dba725.jpg" group-title="🎬  TELUGU",Haseen Dillruba (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hero (2021)" tvg-logo="http://starshare.live:8080/images/381b8c700ccad1842d277ce469dba725.jpg" group-title="🎬  TELUGU",Hero (2021)
+#EXTINF:-1group-title="🎬  TELUGU",Hero (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64463.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ichata Vahanamulu Niluparadhu (2021)" tvg-logo="http://starshare.live:8080/images/381b8c700ccad1842d277ce469dba725.jpg" group-title="🎬  TELUGU",Ichata Vahanamulu Niluparadhu (2021)
+#EXTINF:-1 group-title="🎬  TELUGU",Ichata Vahanamulu Niluparadhu (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64464.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Idhe Maa Katha (2021)" tvg-logo="http://starshare.live:8080/images/338b48a29960c556a500e04ee0560b88.jpg" group-title="🎬  TELUGU",Idhe Maa Katha (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64465.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ja (2021)" tvg-logo="http://starshare.live:8080/images/338b48a29960c556a500e04ee0560b88.jpg" group-title="🎬  TELUGU",Ja (2021)
+#EXTINF:-1 group-title="🎬  TELUGU",Ja (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64466.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jai Bhim (2021)" tvg-logo="http://starshare.live:8080/images/84876036aea80e74c9bc1e5c869a937d.jpg" group-title="🎬  TELUGU",Jai Bhim (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64467.mp4
@@ -570,7 +570,7 @@ http://starshare.live:8080/movie/Campbell123/Campbell123/64470.mp4
 http://starshare.live:8080/movie/Campbell123/Campbell123/64471.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Konda Polam (2021)" tvg-logo="http://starshare.live:8080/images/102a6184e4c81509007c864976df15fd.jpg" group-title="🎬  TELUGU",Konda Polam (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64472.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Krishna mukundham (2021)" tvg-logo="http://starshare.live:8080/images/102a6184e4c81509007c864976df15fd.jpg" group-title="🎬  TELUGU",Krishna mukundham (2021)
+#EXTINF:-1 group-title="🎬  TELUGU",Krishna mukundham (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64473.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ksheera Sagara Madhanam (2021)" tvg-logo="http://starshare.live:8080/images/e0ba73895df61281be0e4e1be67996ed.jpg" group-title="🎬  TELUGU",Ksheera Sagara Madhanam (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64474.mp4
@@ -582,7 +582,7 @@ http://starshare.live:8080/movie/Campbell123/Campbell123/64476.mp4
 http://starshare.live:8080/movie/Campbell123/Campbell123/64477.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LKG (2019)" tvg-logo="http://starshare.live:8080/images/8b5009937ae44956ff30d2fe5ae54ac5.jpg" group-title="🎬  TELUGU",LKG (2019)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Story (2021)" tvg-logo="http://starshare.live:8080/images/8b5009937ae44956ff30d2fe5ae54ac5.jpg" group-title="🎬  TELUGU",Love Story (2021)
+#EXTINF:-1  group-title="🎬  TELUGU",Love Story (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64479.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Maa Oori Polimera (2021)" tvg-logo="http://starshare.live:8080/images/c4adb9bbf35da7444238f4a69f656f01.jpg" group-title="🎬  TELUGU",Maa Oori Polimera (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/64480.mp4
@@ -2886,11 +2886,11 @@ http://starshare.live:8080/movie/Campbell123/Campbell123/50433.mkv
 http://starshare.live:8080/movie/Campbell123/Campbell123/50434.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Raani (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o55w8ruSopoFdsBgDMjKmkd3g8I.jpg" group-title="🎬  TELUGU",Raani (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/50435.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viraham (2021)" tvg-logo="" group-title="🎬  TELUGU",Viraham (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Viraham (2021)" tvg-logo="https://m.media-amazon.com/images/I/71MtbqO5yCL._RI_.jpg" group-title="🎬  TELUGU",Viraham (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/50413.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mogalturu (2021)" " group-title="🎬  TELUGU",Mogalturu (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/50411.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Evaraa Killer (2021)" tvg-logo="" group-title="🎬  TELUGU",Evaraa Killer (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Evaraa Killer (2021)" tvg-logo="https://m.media-amazon.com/images/I/71Gm+UuVeJL._SX300_.jpg" group-title="🎬  TELUGU",Evaraa Killer (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/50412.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Point Blank (2021)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81sBVUBs6iL._RI_.jpg" group-title="🎬  TELUGU",Point Blank (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/50410.mkv
@@ -2900,13 +2900,13 @@ http://starshare.live:8080/movie/Campbell123/Campbell123/50407.mkv
 http://starshare.live:8080/movie/Campbell123/Campbell123/50408.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tribhanga (2021) Telugu + Tamil + Hindi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbGINHbqJ7zYcIpsoIaEEASNrBM.jpg" group-title="🎬  TELUGU",Tribhanga (2021) Telugu + Tamil + Hindi
 http://starshare.live:8080/movie/Campbell123/Campbell123/50409.mkv
-#EXTINF:-1 tvg-id="" tvg-name="VIRGIN (2020)" tvg-logo="" group-title="🎬  TELUGU",VIRGIN (2020)
+#EXTINF:-1 tvg-id="" tvg-name="VIRGIN (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIzMGYzMmItYzg0Zi00MDM1LWI3ZjEtMjEzMzFjOTVjYjYwXkEyXkFqcGdeQXVyMTIwNDYzMjIz._V1_.jpg" group-title="🎬  TELUGU",VIRGIN (2020)
 http://starshare.live:8080/movie/Campbell123/Campbell123/50405.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Freedom @ Midnight (2021)  Telugu + Malayalam + Kan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJvIDpJmslIWpDjJgERQCrNIooX.jpg" group-title="🎬  TELUGU",Freedom @ Midnight (2021)  Telugu + Malayalam + Kan
 http://starshare.live:8080/movie/Campbell123/Campbell123/50406.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Most Eligible Bachelor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7myQADi9CzpdcVWNWVAsK8o2WF.jpg" group-title="🎬  TELUGU",Most Eligible Bachelor (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/50350.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ooriki Uttharana (2021)" tvg-logo="" group-title="🎬  TELUGU",Ooriki Uttharana (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Ooriki Uttharana (2021)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDVmYWRmZTMtOTVhZi00MmJhLTk3OTItNTEwOGY4ZmQ1ZDg5XkEyXkFqcGdeQXVyOTc2MTgwNjY@._V1_.jpg" group-title="🎬  TELUGU",Ooriki Uttharana (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/50349.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Battala Ramaswami biopikku (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6EVch6ypo6S5Gg8iShYm31yMiA.jpg" group-title="🎬  TELUGU",Battala Ramaswami biopikku (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/50341.mkv
@@ -2942,7 +2942,7 @@ http://starshare.live:8080/movie/Campbell123/Campbell123/10550.mkv
 http://starshare.live:8080/movie/Campbell123/Campbell123/10551.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aakasha Ganga (1999)" tvg-logo="http://starshare.live:8080/images/586a43ef83ca48cbc7ce5b9379b095f4.jpg" group-title="🎬  TELUGU",Aakasha Ganga (1999)
 http://starshare.live:8080/movie/Campbell123/Campbell123/10552.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Addham" tvg-logo="" group-title="🎬  TELUGU",Addham
+#EXTINF:-1 tvg-id="" tvg-name="Addham" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg0OTFjN2YtN2I3Zi00NjZiLTlkOGEtODlmMWE5M2MzOWRlXkEyXkFqcGdeQXVyMTIwNDYzMjIz._V1_.jpg" group-title="🎬  TELUGU",Addham (2021)
 http://starshare.live:8080/movie/Campbell123/Campbell123/10553.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Agent Jade Black (2020)" tvg-logo="http://starshare.live:8080/images/001edb95981abda620c8c41ebef1f9e8.jpg" group-title="🎬  TELUGU",Agent Jade Black (2020)
 http://starshare.live:8080/movie/Campbell123/Campbell123/10554.mkv
@@ -2966,9 +2966,9 @@ http://starshare.live:8080/movie/Campbell123/Campbell123/10563.mkv
 http://starshare.live:8080/movie/Campbell123/Campbell123/10565.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bloodshot (2020)" tvg-logo="http://starshare.live:8080/images/a25f15b25882bc6ef874d3ce4c96b69b.jpg" group-title="🎬  TELUGU",Bloodshot (2020)
 http://starshare.live:8080/movie/Campbell123/Campbell123/10566.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Breathe Into the Shadows 2020" tvg-logo="" group-title="🎬  TELUGU",Breathe Into the Shadows 2020
+#EXTINF:-1 tvg-id="" tvg-name="Breathe Into the Shadows 2020" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNkYTA3MWYtMzNmOS00MzNlLWFmYTAtOWU4YTM0ZGJiZDAwXkEyXkFqcGdeQWthc2hpa2F4._V1_.jpg" group-title="🎬  TELUGU",Breathe Into the Shadows 2020
 http://starshare.live:8080/movie/Campbell123/Campbell123/10567.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Business Man" tvg-logo="" group-title="🎬  TELUGU",Business Man
+#EXTINF:-1 tvg-id="" tvg-name="Business Man" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRlNzk5OWUtNTIwNi00MDhmLThhYTctMTQ2OGM3NWU1ZTU5XkEyXkFqcGdeQXVyMzc5Nzk1NDY@._V1_.jpg" group-title="🎬  TELUGU",Business Man
 http://starshare.live:8080/movie/Campbell123/Campbell123/10569.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Charlie and the Chocolate Factory (2005)" tvg-logo="http://starshare.live:8080/images/f15e6f64f6c4516cda5ea3a3087ba565.jpg" group-title="🎬  TELUGU",Charlie and the Chocolate Factory (2005)
 http://starshare.live:8080/movie/Campbell123/Campbell123/10570.mkv
@@ -2982,7 +2982,7 @@ http://starshare.live:8080/movie/Campbell123/Campbell123/10573.mp4
 http://starshare.live:8080/movie/Campbell123/Campbell123/10574.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Donga (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="🎬  TELUGU",Donga (1985)
 http://starshare.live:8080/movie/Campbell123/Campbell123/10575.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ee Rathri Ki Evaru 2020" tvg-logo="" group-title="🎬  TELUGU",Ee Rathri Ki Evaru 2020
+#EXTINF:-1 tvg-id="" tvg-name="Ee Rathri Ki Evaru 2020" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2FhYjA3ZjktMTA4NC00OWNhLWE2NTEtMGNlMGNkMmNmNjExXkEyXkFqcGdeQXVyMTIyNjk5MTE3._V1_.jpg" group-title="🎬  TELUGU",Ee Rathri Ki Evaru 2020
 http://starshare.live:8080/movie/Campbell123/Campbell123/10576.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Expiry Date 2020" tvg-logo="https://s3images.zee5.com/wp-content/uploads/sites/7/2020/09/Expiry-Date-on-ZEE5.jpg" group-title="🎬  TELUGU",Expiry Date 2020
 http://starshare.live:8080/movie/Campbell123/Campbell123/10577.mkv
@@ -2992,7 +2992,7 @@ http://starshare.live:8080/movie/Campbell123/Campbell123/10578.mkv
 http://starshare.live:8080/movie/Campbell123/Campbell123/10579.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Honey Boy (2019)" tvg-logo="http://starshare.live:8080/images/b01fb41428de39278bfc9f0d8cc983f3.jpg" group-title="🎬  TELUGU",Honey Boy (2019)
 http://starshare.live:8080/movie/Campbell123/Campbell123/10580.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jaanu oy" tvg-logo="" group-title="🎬  TELUGU",Jaanu oy
+#EXTINF:-1 tvg-id="" tvg-name="Jaanu oy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ3MzU3NjEtYzJkMi00MmNmLWI5MGItMGQyODJmOGNlMDgzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg" group-title="🎬  TELUGU",Jaanu oy
 http://starshare.live:8080/movie/Campbell123/Campbell123/10581.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jallikattu (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyvPPbG05Sk31FuQbAa1EfvfzYf.jpg" group-title="🎬  TELUGU",Jallikattu (2019)
 http://starshare.live:8080/movie/Campbell123/Campbell123/10582.mkv
@@ -3010,7 +3010,7 @@ http://starshare.live:8080/movie/Campbell123/Campbell123/10587.mkv
 http://starshare.live:8080/movie/Campbell123/Campbell123/10588.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic World: Fallen Kingdom (2018)" tvg-logo="http://starshare.live:8080/images/b506a5c7bdec7ec3269942a68d89a6ff.jpg" group-title="🎬  TELUGU",Jurassic World: Fallen Kingdom (2018)
 http://starshare.live:8080/movie/Campbell123/Campbell123/10589.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kalayaa Nijamaa 2020" tvg-logo="" group-title="🎬  TELUGU",Kalayaa Nijamaa 2020
+#EXTINF:-1 tvg-id="" tvg-name="Kalayaa Nijamaa 2020" tvg-logo="https://www.bidcinema.com/photocards/mainPhotoCard1536300517_Kalaya-Nijama-Poster-1.jpg" group-title="🎬  TELUGU",Kalayaa Nijamaa 2020
 http://starshare.live:8080/movie/Campbell123/Campbell123/10590.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Khaali Peeli (2020)" tvg-logo="http://starshare.live:8080/images/c201e409121aef6306f9cee52b84e8f4.jpg" group-title="🎬  TELUGU",Khaali Peeli (2020)
 http://starshare.live:8080/movie/Campbell123/Campbell123/10592.mkv
@@ -3028,7 +3028,7 @@ http://starshare.live:8080/movie/Campbell123/Campbell123/10597.mkv
 http://starshare.live:8080/movie/Campbell123/Campbell123/10599.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Nishabdham (2020)" tvg-logo="http://starshare.live:8080/images/d56723068ec3ce0688dd3fbfd33151ba.jpg" group-title="🎬  TELUGU",Nishabdham (2020)
 http://starshare.live:8080/movie/Campbell123/Campbell123/10601.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Orey Bujjigaa 2020" tvg-logo="" group-title="🎬  TELUGU",Orey Bujjigaa 2020
+#EXTINF:-1 tvg-id="" tvg-name="Orey Bujjigaa 2020" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRjNGM1NzctZWFiOS00ZDM1LTkxMjItYzY5OGJmNDBhMTVkXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_.jpg" group-title="🎬  TELUGU",Orey Bujjigaa 2020
 http://starshare.live:8080/movie/Campbell123/Campbell123/10603.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Penguin (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="🎬  TELUGU",Penguin (2009)
 http://starshare.live:8080/movie/Campbell123/Campbell123/10605.mkv
