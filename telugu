@@ -211,8 +211,12 @@ https://air.pc.cdn.bitgravity.com/air/live/pbaudio039/chunklist.m3u8
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/chunklist.m3u8
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/air-hyderabad-vbs.jpg",Vividh Bharati 102.8 FM in Hyderabad
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/chunklist.m3u8
-#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/TeluguNRIRadio.png",Telugu NRI Radio
-https://vobook.ru/http://104.167.4.67:8332/;stream.mp3
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/a8q8shxynfgk.jpg",Radio Vishnu
+http://streamasiacdn.atc-labs.com/radiovishnu.aac
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://liveradios.in/wp-content/uploads/radioguru.jpg",Radio Guru 90.4 FM
+https://d33vbw5rwybpkd.cloudfront.net/vjmsradio.m3u8
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://manaradio.in/images/mana-radio-logo.png",Mana Radio
+http://38.68.135.17:8000/manaradio_128.m3u8
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/myindmedia.png",Myind Media Telugu
 http://52.200.24.222:8000/stream
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/Telugu%20Radio.webp",Hungama Hot Now
