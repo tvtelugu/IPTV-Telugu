@@ -130,7 +130,7 @@ https://jiotv.hadinetbd.tech/jio/v1/CN_HD_Telugu/CN_HD_Telugu/CN_HD_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Pogo Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png" group-title="🟢 Kids",Pogo Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Pogo_Telugu/Pogo_Telugu/Pogo_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Super Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Super_Hungama_Logo.png/220px-Super_Hungama_Logo.png" group-title="🟢 Kids",Super Hungama (Multi Audio)
-https://tsneh.vercel.app/ytggtthhgy
+http://starshare.live:8080/live/Gerard123/Gerard123/85595.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Disney" tvg-logo="http://files.rednetcontent.com/chlogo/disny.png" group-title="🟢 Kids",Disney (Multi Audio)
 http://starshare.live:8080/live/Gerard123/Gerard123/19741.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Hungama" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/hungama.png" group-title="🟢 Kids",Hungama (Multi Audio)
