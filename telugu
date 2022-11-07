@@ -221,6 +221,10 @@ https://securestreams7.autopo.st/?uri=http://38.68.135.17:8000/manaradio_128
 http://52.200.24.222:8000/stream
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/Telugu%20Radio.webp",Hungama Hot Now
 https://securestreams8.autopo.st:3018/1
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://liveradios.in/wp-content/uploads/radioranjan.jpg",Radio Ranjan Cards 90.4 FM
+https://ranjan.radioca.st/stream
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://liveradios.in/wp-content/uploads/radioala.jpg",Radio Ala 90.8 FM
+https://mahi.radioca.st/stream
 #EXTINF:-1 tvg-id="VOD" tvg-name="The Ghost (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWU3OGFkMWYtNTU4OC00NzQwLWE3MmMtMGQyOGZhODc0MDZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="🎬  Movies",The Ghost (2022)
 https://assets-1.entertainvideo.com/assets/media/6105977c5e02a503bd23c6bde3a4245d/dash/4cfe578a16846baef782ccc577efa29a.mpd
 #EXTINF:-1 tvg-id="VOD" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg" group-title="🎬 Dubbed Movies",Spider-Man: No Way Home (2021) Extended Vertion (Multi Audio)
