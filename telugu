@@ -214,7 +214,7 @@ https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/chunklist.m3u8
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/TeluguNRIRadio.png",Telugu NRI Radio
 https://vobook.ru/http://104.167.4.67:8332/;stream.mp3
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/myindmedia.png",Myind Media Telugu
-https://radioindia.net/radio/myndmedia/icecast.audio
+http://52.200.24.222:8000/stream
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/Telugu%20Radio.webp",Hungama Hot Now
 https://securestreams8.autopo.st:3018/1
 #EXTINF:-1 tvg-id="VOD" tvg-name="The Ghost (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWU3OGFkMWYtNTU4OC00NzQwLWE3MmMtMGQyOGZhODc0MDZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="🎬  Movies",The Ghost (2022)
