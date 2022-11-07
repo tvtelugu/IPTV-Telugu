@@ -183,6 +183,40 @@ https://stream-58.zeno.fm/2532fy6zrf9uv?zs=otQuUOufTueymnB-XuDkhw&listening-from
 https://n11.radiojar.com/z4qyckhr9druv?listening-from-radio-garden=1667806321&rj-tok=AAABhFEKBZkAus-NpZ-3IlDCMg&rj-ttl=5
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://www.teluguoneradio.com/images/tori_logo.png",Telugu One Radio
 https://stream.teluguoneradio.com/index.html?sid=1
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/air-hyderabad-a.jpg",AIR Telugu - Hyderabad
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/chunklist.m3u8
+EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/airvisakhapc.jpg",AIR Telugu - Visakhapatnam
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio080/playlist.m3u8
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/air-aadilabad.jpg",AIR Telugu - Adilabad
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio218/chunklist.m3u8
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/airvijayawada.jpg",AIR Telugu - Vijayawada
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio175/chunklist.m3u8
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/airtirupati.jpg",AIR Telugu - Tirupati
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio144/playlist.m3u8
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/airkurnool.jpg",AIR Telugu - Kurnool
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio052/chunklist.m3u8
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/aircuddapah.jpg",AIR Telugu - Cuddapah
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio052/chunklist.m3u8
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/air-anantabpur.jpg",AIR Telugu - Anantapur
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio054/chunklist.m3u8
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/air-nellore.jpg",AIR Telugu - Nellore
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio168/chunklist.m3u8
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/airwarangal.jpg",AIR Telugu - Warangal
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio154/chunklist.m3u8
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/air-nizamabad.jpg",AIR Telugu - Nizamabad
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio222/chunklist.m3u8
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/airmarkapur.jpg",AIR Telugu - Markapur
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio039/chunklist.m3u8
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/air-kothagudem.jpg",AIR Telugu - Kothagudem
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/chunklist.m3u8
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/air-hyderabad-vbs.jpg",Vividh Bharati 102.8 FM in Hyderabad
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/chunklist.m3u8
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/TeluguNRIRadio.png",Telugu NRI Radio
+https://vobook.ru/http://104.167.4.67:8332/;stream.mp3
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/myindmedia.png",Myind Media Telugu
+https://radioindia.net/radio/myndmedia/icecast.audio
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://onlineradiofm.in/assets/image/radio/180/Telugu%20Radio.webp",Hungama Hot Now
+https://securestreams8.autopo.st:3018/1
 #EXTINF:-1 tvg-id="VOD" tvg-name="The Ghost (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWU3OGFkMWYtNTU4OC00NzQwLWE3MmMtMGQyOGZhODc0MDZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="🎬  Movies",The Ghost (2022)
 https://assets-1.entertainvideo.com/assets/media/6105977c5e02a503bd23c6bde3a4245d/dash/4cfe578a16846baef782ccc577efa29a.mpd
 #EXTINF:-1 tvg-id="VOD" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg" group-title="🎬 Dubbed Movies",Spider-Man: No Way Home (2021) Extended Vertion (Multi Audio)
