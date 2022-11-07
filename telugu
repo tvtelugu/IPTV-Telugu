@@ -146,9 +146,9 @@ http://showflix.org:5890/NaoufaL02/G827R5KTV4/143322
 #EXTINF:-0 tvg-id="Telugu" tvg-name="National Geographic HD" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" group-title="🟢 Infotainment",National Geographic HD
 http://rv.bleutv.net:2089/152019521663077/152058336619947/198025
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports Telugu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Star_Sports_1_Telugu.png" group-title="🟢 Sports",Star Sports Telugu
-https://tsneh.vercel.app/star1denvertelugu
+http://starshare.live:8080/live/Gerard123/Gerard123/82826.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports Telugu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Star_Sports_1_Telugu.png" group-title="🟢 Sports",Star Sports Telugu 2
-https://tsneh.vercel.app/star1denvertelugu2
+http://starshare.live:8080/live/Gerard123/Gerard123/124292.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png" group-title="🟢 Sports",Star Sports 1 HD
 http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/363956
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg" group-title="🟢 Sports",Star Sports 2 HD
