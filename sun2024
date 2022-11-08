@@ -1,103 +1,69 @@
 #EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz"
 #EXTINF:-0 tvg-id="",Zee Telugu HD
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862922&extension=ts&play_token=Mmx30JkGyt
-#EXTINF:-0 tvg-id="",Zee Telugu HD
-http://svf05.hd4.co:8888/tel_Discovery_Kids/index.m3u8?token=8d6fcf6470f877789aa9ee851bceb247
-#EXTINF:-0 tvg-id="",Zee Cinema HD
-http://svf05.hd4.co:8888/tel_Disney_Junior/index.m3u8?token=cc7973c1c2cc42209af96db0a8594acb
+#EXTINF:-0 tvg-id="",Zee Cinemalu HD
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862921&extension=ts&play_token=OaqjjVqXKI
 #EXTINF:-0 tvg-id="",Star Maa HD
-http://svf07.hd4.co:8888/TE4002MTU/index.m3u8?token=2563d183ce48bd7e3e3063cbe8cafe51
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862912&extension=ts&play_token=71mKuaeg3J
 #EXTINF:-0 tvg-id="",Star Maa Movies HD
-http://pakin2.worldtvip.co:9090/tel_maa_movies/index.m3u8?token=d3b4e21214165fc2353d66637ab273fb
-#EXTINF:-0 tvg-id="",Maa Gold
-http://pakin2.worldtvip.co:9090/tel_maa_gold/index.m3u8?token=a0bbad671a142f747590f7fbd35514e3
-#EXTINF:-0 tvg-id="",Gemini HD
-http://svf01.hd4.co:2234/10863_GeminiHdUS/index.m3u8?token=e81dc8288dedb55ffbafebd13e48c3ec
-#EXTINF:-0 tvg-id="",Gemini HD
-http://pakin.worldtvip.co/motive_geminitv_hd/index.m3u8?token=bfa5f4aff2636380bce6c5ec0a2f2800
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862914&extension=ts&play_token=IZvDtU4nD7
+#EXTINF:-0 tvg-id="",Star Maa Gold
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862913&extension=ts&play_token=jLEa3zlnLj
+#EXTINF:-0 tvg-id="",Gemini TV HD
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862898&extension=ts&play_token=P1MJDtZi5F
 #EXTINF:-0 tvg-id="",Gemini Movies HD
-http://pakin2.worldtvip.co:9090/tel_gemini_movie/index.m3u8?token=75a79f74927e98032369126e09c6da90
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862897&extension=ts&play_token=oLf9S7mrA3
 #EXTINF:-0 tvg-id="",Gemini Comedy
 http://pakin2.worldtvip.co:9090/tel_gemini_comedy/index.m3u8?token=ae653340d108d60a307f49af725069ce
 #EXTINF:-0 tvg-id="",Gemini Life
-http://pakin.worldtvip.co/telugu_geminilife/index.m3u8?token=f36a88b29bf0b5e355154400f43ea951
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862896&extension=ts&play_token=wxaAkfpK3s
 #EXTINF:-0 tvg-id="",ETV HD
-http://pakin2.worldtvip.co:9090/tel_etv/index.m3u8?token=fde9e7ddcaae430b586c55bb00975bac
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862892&extension=ts&play_token=CXqGgsP0Vi
+#EXTINF:-0 tvg-id="",ETV Life
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862893&extension=ts&play_token=ghKYaWZGBf
 #EXTINF:-0 tvg-id="",ETV Abhiruchi
-http://pakin.worldtvip.co/telugu_etvabhiruc/index.m3u8?token=3fda8f2c12a86487fb47a6ac9ef5d200
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862889&extension=ts&play_token=pRqUu9dOlU
 #EXTINF:-0 tvg-id="",ETV Plus
-http://pakin.worldtvip.co/telugu_etvplus/index.m3u8?token=7455fd86a97f70e79ba340ae7f16483e
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862894&extension=ts&play_token=KrAnQOu8jA
 #EXTINF:-0 tvg-id="",ETV Cinema
-http://pakin.worldtvip.co/telugu_etvcinema/index.m3u8?token=197edee9a42233346b02149c65614383
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862891&extension=ts&play_token=BB90lAvjfa
 #EXTINF:-0 tvg-id="",ETV Telangana
-http://pakin.worldtvip.co/telugu_etvtelenga/index.m3u8?token=902f81ad94a03588e772e4192f68a532
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862895&extension=ts&play_token=AYK58LAGZI
 #EXTINF:-0 tvg-id="",ETV Andhra Pradesh
-http://pakin.worldtvip.co/telugu_etvandhrapradesh/index.m3u8?token=e3a390419fd9113251479c85f4149b79
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862890&extension=ts&play_token=jNMylNKgLq
 #EXTINF:-0 tvg-id="",Sakshi Tv
-http://pakin2.worldtvip.co:9090/tel_sakshi_tv/index.m3u8?token=bd882ce41ae2373b6bf6aae8d60d91ff
-#EXTINF:-0 tvg-id="",Raj Musix
-http://pakin.worldtvip.co/telugu_rajmusic/index.m3u8?token=bb6d2f1976b7110f617889c01e6ded5c
-#EXTINF:-0 tvg-id="",SVBC
-http://pakin2.worldtvip.co:9090/tel_svbc/index.m3u8?token=0f9c1d0bf08c76ccbb68385e07c412ad
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862908&extension=ts&play_token=2Vub8d2GRw
+#EXTINF:-0 tvg-id="",Sonic
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862908&extension=ts&play_token=2Vub8d2GRw
+#EXTINF:-0 tvg-id="",DD Sapthagiri
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862886&extension=ts&play_token=U4Fjo4obX7
 #EXTINF:-0 tvg-id="",Vissa Tv
-http://pakin2.worldtvip.co:9090/tel_vissa_tv/index.m3u8?token=95edc2e1d5463112d8a94c9c1f897dac
-#EXTINF:-0 tvg-id="",HMTV
-http://pakin.worldtvip.co/telugu_hmtv/index.m3u8?token=a6a6d6326fb0036b98aafbff3b2f7cdc
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862886&extension=ts&play_token=U4Fjo4obX7
+#EXTINF:-0 tvg-id="",Hindhu Darmam
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862919&extension=ts&play_token=hrgD9EsIwm
 #EXTINF:-0 tvg-id="",NTV
-http://pakin.worldtvip.co/telugu_ntv/index.m3u8?token=50aead18959dfab8f278a64faa198b43
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862905&extension=ts&play_token=MgI04OPtZv
 #EXTINF:-0 tvg-id="",ABN Andhra Jyothi
-http://pakin.worldtvip.co/telugu_abnnews/index.m3u8?token=fccc02e0d1f6393ee0abd65ae1f3858b
-#EXTINF:-0 tvg-id="",TV9
-http://pakin2.worldtvip.co:9090/tel_tv_9/index.m3u8?token=dcc2b8c5f95ed69c71406be72c1946ae
-#EXTINF:-0 tvg-id="",TV5
-http://pakin.worldtvip.co/telugu_tv5news/index.m3u8?token=9da23fb78b594aa4aa1087a2504891b7
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862883&extension=ts&play_token=0HMeyef5EC
+#EXTINF:-0 tvg-id="",TV9 Telugu
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862917&extension=ts&play_token=QwSgtUC1zi
+#EXTINF:-0 tvg-id="",TV5 News
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862916&extension=ts&play_token=e7GQaOooWC
 #EXTINF:-0 tvg-id="",T News
-http://pakin.worldtvip.co/telugu_tnews/index.m3u8?token=82044eb68c997eab6de16c0bb8f76df4
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862915&extension=ts&play_token=khPbKvWMm6
 #EXTINF:-0 tvg-id="",10 TV
-http://pakin.worldtvip.co/telugu_10tv/index.m3u8?token=7da607e9a640bbe96026c59d3d746659
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862882&extension=ts&play_token=CAxjOIqGFN
 #EXTINF:-0 tvg-id="",V6 News
-http://pakin.worldtvip.co/telugu_v6news/index.m3u8?token=46d06ed33d76defcb96de0bc605d413f
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862918&extension=ts&play_token=qW0BaXOKiB
+#EXTINF:-0 tvg-id="",Discovery HD
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862887&extension=ts&play_token=wSMFBhGZwA
+#EXTINF:-0 tvg-id="",Discovery Kids
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862888&extension=ts&play_token=uqZNVhhdWJ
 #EXTINF:-0 tvg-id="",History HD
-http://pakin.worldtvip.co/telugu_history_hd/index.m3u8?token=e604cee18df9e99a2871a08921995523
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862900&extension=ts&play_token=TVmSnQlKva
 #EXTINF:-0 tvg-id="",Net Geo HD
 http://pakin.worldtvip.co/telugu_nationalgeo_hd/index.m3u8?token=34b4829aef257665958d0c69dabd6737
 #EXTINF:-0 tvg-id="",Sony BBC Earth HD
-http://pakin.worldtvip.co/telugu_bbcearth_hd/index.m3u8?token=f81ad87434d40b5f661ada108da12882
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862910&extension=ts&play_token=kKUN2QT1FD
 #EXTINF:-0 tvg-id="",Net Geo Wild HD
-http://pakin.worldtvip.co/telugu_natgeowild_hd/index.m3u8?token=5b959f48654f05df6d89de071a3d1ce5
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_18_hd/mpegts?token=6f716df9a13c0519481f97601af04ad4
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_17_hd/mpegts?token=b55c368e68051e1035b552020e39e3ff
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_16_hd/mpegts?token=adc6581cb555e72b054b918e31156ddb
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_15_hd/mpegts?token=2084d216563ed5135d0ba805324c3891
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_14_hd/mpegts?token=a4dd3e7c283e3bdf39ea38beab6ed21e
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_13_hd/mpegts?token=b4ab04799101b667b7bdcf3c3ee2021e
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_12_hd/mpegts?token=96d61ed9a779a460a166b96dc0409b99
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_11_hd/mpegts?token=20449cc5921f9da14708080e5d7b420f
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_10_hd/mpegts?token=c421f3c72a6c3813f7983781467f9f7e
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_9_hd/mpegts?token=3b52c5ef22171b659d396473d6e219c0
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_8_hd/mpegts?token=93c9f33440889e6f1fdfa9ab356bc4d9
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_7_hd/mpegts?token=9194ddd8c0c32c4b7a0d517741449d8f
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_6_hd/mpegts?token=c6582fe41fb3c23ec2b4870cc8973710
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_5_hd/mpegts?token=29bbcce027623866bb6caf36d40d8c1a
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_4_hd/mpegts?token=c2d0a1639c528d9f34c7b4878408a6d3
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_3_hd/mpegts?token=5b79cc9af3d7baee7dc9638454cf5b7b
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_2_hd/mpegts?token=1fcc1f23ecbf7ad0188bcadbd2c6d2a9
-#EXTINF:-0 tvg-id="",Tollywood 24/7
-http://dac.worldtvip.co:8080/telugu_tollywood_movies_1_hd/mpegts?token=5cf510f869ce1ac8210c21c28d5e2fd2
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862903&extension=ts&play_token=grGvN0MAIz
