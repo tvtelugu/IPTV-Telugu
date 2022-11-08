@@ -1,103 +1,103 @@
 #EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz"
-#EXTINF:-0 Zee Telugu
+#EXTINF:-0 , Zee Telugu
 http://pakin2.worldtvip.co:9090/tel_zee_telugu/index.m3u8?token=9186cae33fe76caea64df8ce4daf8288
-#EXTINF:-0 Zee Telugu HD
+#EXTINF:-0 , Zee Telugu HD
 http://pakin.worldtvip.co/motive_zeetelugu_hd/index.m3u8?token=c21f9e716e73a7c9e9ab8d8389c74190
-#EXTINF:-0 Zee Cinema HD
+#EXTINF:-0 , Zee Cinema HD
 http://pakin2.worldtvip.co:9090/tel_zeecinema/index.m3u8?token=0dde676d951d2dab7b934355e5b850dd
-#EXTINF:-0 Star Maa HD
+#EXTINF:-0 , Star Maa HD
 http://pakin2.worldtvip.co:9090/tel_star_maa_hd/index.m3u8?token=f988d43da43a37546b788fdfd6a2a0c9
-#EXTINF:-0 Star Maa Movies HD
+#EXTINF:-0 , Star Maa Movies HD
 http://pakin2.worldtvip.co:9090/tel_maa_movies/index.m3u8?token=d3b4e21214165fc2353d66637ab273fb
-#EXTINF:-0 Maa Gold
+#EXTINF:-0 , Maa Gold
 http://pakin2.worldtvip.co:9090/tel_maa_gold/index.m3u8?token=a0bbad671a142f747590f7fbd35514e3
-#EXTINF:-0 Gemini HD
+#EXTINF:-0 , Gemini HD
 http://pakin2.worldtvip.co:9090/tel_gemini_tv_hd/index.m3u8?token=672b7fa0b25120d2921d7ee93239553d
-#EXTINF:-0 Gemini HD
+#EXTINF:-0 , Gemini HD
 http://pakin.worldtvip.co/motive_geminitv_hd/index.m3u8?token=bfa5f4aff2636380bce6c5ec0a2f2800
-#EXTINF:-0 Gemini Movies HD
+#EXTINF:-0 , Gemini Movies HD
 http://pakin2.worldtvip.co:9090/tel_gemini_movie/index.m3u8?token=75a79f74927e98032369126e09c6da90
-#EXTINF:-0 Gemini Comedy
+#EXTINF:-0 , Gemini Comedy
 http://pakin2.worldtvip.co:9090/tel_gemini_comedy/index.m3u8?token=ae653340d108d60a307f49af725069ce
-#EXTINF:-0 Gemini Life
+#EXTINF:-0 , Gemini Life
 http://pakin.worldtvip.co/telugu_geminilife/index.m3u8?token=f36a88b29bf0b5e355154400f43ea951
-#EXTINF:-0 ETV HD
+#EXTINF:-0 , ETV HD
 http://pakin2.worldtvip.co:9090/tel_etv/index.m3u8?token=fde9e7ddcaae430b586c55bb00975bac
-#EXTINF:-0 ETV Abhiruchi
+#EXTINF:-0 , ETV Abhiruchi
 http://pakin.worldtvip.co/telugu_etvabhiruc/index.m3u8?token=3fda8f2c12a86487fb47a6ac9ef5d200
-#EXTINF:-0 ETV Plus
+#EXTINF:-0 , ETV Plus
 http://pakin.worldtvip.co/telugu_etvplus/index.m3u8?token=7455fd86a97f70e79ba340ae7f16483e
-#EXTINF:-0 ETV Cinema
+#EXTINF:-0 , ETV Cinema
 http://pakin.worldtvip.co/telugu_etvcinema/index.m3u8?token=197edee9a42233346b02149c65614383
-#EXTINF:-0 ETV Telangana
+#EXTINF:-0 , ETV Telangana
 http://pakin.worldtvip.co/telugu_etvtelenga/index.m3u8?token=902f81ad94a03588e772e4192f68a532
-#EXTINF:-0 ETV Andhra Pradesh
+#EXTINF:-0 , ETV Andhra Pradesh
 http://pakin.worldtvip.co/telugu_etvandhrapradesh/index.m3u8?token=e3a390419fd9113251479c85f4149b79
-#EXTINF:-0 Sakshi Tv
+#EXTINF:-0 , Sakshi Tv
 http://pakin2.worldtvip.co:9090/tel_sakshi_tv/index.m3u8?token=bd882ce41ae2373b6bf6aae8d60d91ff
-#EXTINF:-0 Raj Musix
+#EXTINF:-0 , Raj Musix
 http://pakin.worldtvip.co/telugu_rajmusic/index.m3u8?token=bb6d2f1976b7110f617889c01e6ded5c
-#EXTINF:-0 SVBC
+#EXTINF:-0 , SVBC
 http://pakin2.worldtvip.co:9090/tel_svbc/index.m3u8?token=0f9c1d0bf08c76ccbb68385e07c412ad
-#EXTINF:-0 Vissa Tv
+#EXTINF:-0 , Vissa Tv
 http://pakin2.worldtvip.co:9090/tel_vissa_tv/index.m3u8?token=95edc2e1d5463112d8a94c9c1f897dac
-#EXTINF:-0 HMTV
+#EXTINF:-0 , HMTV
 http://pakin.worldtvip.co/telugu_hmtv/index.m3u8?token=a6a6d6326fb0036b98aafbff3b2f7cdc
-#EXTINF:-0 NTV
+#EXTINF:-0 , NTV
 http://pakin.worldtvip.co/telugu_ntv/index.m3u8?token=50aead18959dfab8f278a64faa198b43
-#EXTINF:-0 ABN Andhra Jyothi
+#EXTINF:-0 , ABN Andhra Jyothi
 http://pakin.worldtvip.co/telugu_abnnews/index.m3u8?token=fccc02e0d1f6393ee0abd65ae1f3858b
-#EXTINF:-0 TV9
+#EXTINF:-0 , TV9
 http://pakin2.worldtvip.co:9090/tel_tv_9/index.m3u8?token=dcc2b8c5f95ed69c71406be72c1946ae
-#EXTINF:-0 TV5
+#EXTINF:-0 , TV5
 http://pakin.worldtvip.co/telugu_tv5news/index.m3u8?token=9da23fb78b594aa4aa1087a2504891b7
-#EXTINF:-0 T News
+#EXTINF:-0 , T News
 http://pakin.worldtvip.co/telugu_tnews/index.m3u8?token=82044eb68c997eab6de16c0bb8f76df4
-#EXTINF:-0 10 TV
+#EXTINF:-0 , 10 TV
 http://pakin.worldtvip.co/telugu_10tv/index.m3u8?token=7da607e9a640bbe96026c59d3d746659
-#EXTINF:-0 V6 News
+#EXTINF:-0 , V6 News
 http://pakin.worldtvip.co/telugu_v6news/index.m3u8?token=46d06ed33d76defcb96de0bc605d413f
-#EXTINF:-0 History HD
+#EXTINF:-0 , History HD
 http://pakin.worldtvip.co/telugu_history_hd/index.m3u8?token=e604cee18df9e99a2871a08921995523
-#EXTINF:-0 Net Geo HD
+#EXTINF:-0 , Net Geo HD
 http://pakin.worldtvip.co/telugu_nationalgeo_hd/index.m3u8?token=34b4829aef257665958d0c69dabd6737
-#EXTINF:-0 Sony BBC Earth HD
+#EXTINF:-0 , Sony BBC Earth HD
 http://pakin.worldtvip.co/telugu_bbcearth_hd/index.m3u8?token=f81ad87434d40b5f661ada108da12882
-#EXTINF:-0 Net Geo Wild HD
+#EXTINF:-0 , Net Geo Wild HD
 http://pakin.worldtvip.co/telugu_natgeowild_hd/index.m3u8?token=5b959f48654f05df6d89de071a3d1ce5
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_18_hd/mpegts?token=6f716df9a13c0519481f97601af04ad4
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_17_hd/mpegts?token=b55c368e68051e1035b552020e39e3ff
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_16_hd/mpegts?token=adc6581cb555e72b054b918e31156ddb
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_15_hd/mpegts?token=2084d216563ed5135d0ba805324c3891
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_14_hd/mpegts?token=a4dd3e7c283e3bdf39ea38beab6ed21e
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_13_hd/mpegts?token=b4ab04799101b667b7bdcf3c3ee2021e
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_12_hd/mpegts?token=96d61ed9a779a460a166b96dc0409b99
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_11_hd/mpegts?token=20449cc5921f9da14708080e5d7b420f
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_10_hd/mpegts?token=c421f3c72a6c3813f7983781467f9f7e
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_9_hd/mpegts?token=3b52c5ef22171b659d396473d6e219c0
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_8_hd/mpegts?token=93c9f33440889e6f1fdfa9ab356bc4d9
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_7_hd/mpegts?token=9194ddd8c0c32c4b7a0d517741449d8f
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_6_hd/mpegts?token=c6582fe41fb3c23ec2b4870cc8973710
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_5_hd/mpegts?token=29bbcce027623866bb6caf36d40d8c1a
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_4_hd/mpegts?token=c2d0a1639c528d9f34c7b4878408a6d3
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_3_hd/mpegts?token=5b79cc9af3d7baee7dc9638454cf5b7b
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_2_hd/mpegts?token=1fcc1f23ecbf7ad0188bcadbd2c6d2a9
-#EXTINF:-0 Tollywood 24/7
+#EXTINF:-0 , Tollywood 24/7
 http://dac.worldtvip.co:8080/telugu_tollywood_movies_1_hd/mpegts?token=5cf510f869ce1ac8210c21c28d5e2fd2
