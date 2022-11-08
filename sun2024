@@ -13,8 +13,6 @@ http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862913&e
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862898&extension=ts&play_token=P1MJDtZi5F
 #EXTINF:-0 tvg-id="",Gemini Movies HD
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862897&extension=ts&play_token=oLf9S7mrA3
-#EXTINF:-0 tvg-id="",Gemini Comedy
-http://pakin2.worldtvip.co:9090/tel_gemini_comedy/index.m3u8?token=ae653340d108d60a307f49af725069ce
 #EXTINF:-0 tvg-id="",Gemini Life
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862896&extension=ts&play_token=wxaAkfpK3s
 #EXTINF:-0 tvg-id="",ETV HD
@@ -33,13 +31,13 @@ http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862895&e
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862890&extension=ts&play_token=jNMylNKgLq
 #EXTINF:-0 tvg-id="",Sakshi Tv
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862908&extension=ts&play_token=2Vub8d2GRw
-#EXTINF:-0 tvg-id="",Sonic
-http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862908&extension=ts&play_token=2Vub8d2GRw
-#EXTINF:-0 tvg-id="",DD Sapthagiri
-http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862886&extension=ts&play_token=U4Fjo4obX7
+#EXTINF:-0 tvg-id="",Nickelodeon Sonic
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862909&extension=ts&play_token=w1Gzo7VSnw
+#EXTINF:-0 tvg-id="",Nick telugu
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862904&extension=ts&play_token=1qJbd3LrMx
 #EXTINF:-0 tvg-id="",Vissa Tv
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862886&extension=ts&play_token=U4Fjo4obX7
-#EXTINF:-0 tvg-id="",Hindhu Darmam
+#EXTINF:-0 tvg-id="",Hindu Dharmam
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862919&extension=ts&play_token=hrgD9EsIwm
 #EXTINF:-0 tvg-id="",NTV
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862905&extension=ts&play_token=MgI04OPtZv
@@ -55,15 +53,17 @@ http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862915&e
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862882&extension=ts&play_token=CAxjOIqGFN
 #EXTINF:-0 tvg-id="",V6 News
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862918&extension=ts&play_token=qW0BaXOKiB
-#EXTINF:-0 tvg-id="",Discovery HD
+#EXTINF:-0 tvg-id="",Discovery Telugu HD
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862887&extension=ts&play_token=wSMFBhGZwA
 #EXTINF:-0 tvg-id="",Discovery Kids
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862888&extension=ts&play_token=uqZNVhhdWJ
 #EXTINF:-0 tvg-id="",History HD
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862900&extension=ts&play_token=TVmSnQlKva
-#EXTINF:-0 tvg-id="",Net Geo HD
-http://pakin.worldtvip.co/telugu_nationalgeo_hd/index.m3u8?token=34b4829aef257665958d0c69dabd6737
+#EXTINF:-0 tvg-id="",National Geographic HD
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862691&extension=ts&play_token=CziCpulwu1
 #EXTINF:-0 tvg-id="",Sony BBC Earth HD
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862910&extension=ts&play_token=kKUN2QT1FD
-#EXTINF:-0 tvg-id="",Net Geo Wild HD
+#EXTINF:-0 tvg-id="",National Geographic Wild HD
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862903&extension=ts&play_token=grGvN0MAIz
+#EXTINF:-0 tvg-id="",Vikram (2022)
+http://aceservers.watch:8880/play/movie.php?mac=00:1A:79:bf:29:1c&stream=1830494.mkv&play_token=ZVv98UJiw3&type=movie
