@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz"
-#EXTINF:-0 tvg-id="",Zee Telugu HD 123
-https://delta45tatasky.akamaized.net/out/i/554.mpd
+#EXTINF:-0 tvg-id="",Zee Telugu HD
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862922&extension=ts&play_token=Mmx30JkGyt
 #EXTINF:-0 tvg-id="",Zee Telugu HD
 http://svf05.hd4.co:8888/tel_Discovery_Kids/index.m3u8?token=8d6fcf6470f877789aa9ee851bceb247
 #EXTINF:-0 tvg-id="",Zee Cinema HD
