@@ -45,8 +45,8 @@ https://jiotv.hadinetbd.tech/jio/v1/ETV_Cinema/ETV_Cinema/ETV_Cinema.m3u8
 rtmp://singamcloud.in:1935/rasinetwork/rasitelugu
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Tataplay Telugu Cinema" tvg-logo="https://assets.gadgets360cdn.com/content/assets/brands/tata-play-logo_1644572196.png" group-title="🟢 Movies",TataPlay Telugu Cinema
 http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/95876
-#EXTINF:-0 tvg-id="Telugu" tvg-name="&Flix HD" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/flix-280-200.png" group-title="🟢 Movies",&Flix HD (Multi Audio)
-http://45.125.220.129:81/play/a04s
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Movies",&Flix HD
+http://webo.asia:80/play/live.php?mac=00:1A:79:48:5E:31&stream=161827&extension=ts&play_token=cr2uoOLT37
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Movies",Sony Pix HD
 http://webo.asia:80/play/live.php?mac=00:1A:79:48:5E:31&stream=397979&extension=ts&play_token=yGlx4rkXmm
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Studio Yuva Alpha" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png" group-title="🟢 Movies",Studio Yuva Alpha
