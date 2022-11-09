@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTINF:-0 tvg-id="Telugu" tvg-name="IPTV Telugu" tvg-logo="https://i.postimg.cc/PfSfj5xm/photo-2022-10-14-14-15-53.jpg",IPTV Telugu
 https://github.com/madhukar7322/IPTV-Telugu/blob/main/iptv-telugu.ts?raw=true
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Telugu" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1008/PORTRAIT/k54DafKg.png" group-title="🟢 Entertinment",Zee Telugu HD
@@ -31,13 +31,13 @@ https://jiotv.hadinetbd.tech/jio/v1/DD_Saptagiri/DD_Saptagiri/DD_Saptagiri.m3u8
 http://starshare.live:8080/live/Hasan57938/3579147249/23317.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Cinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="🟢 Movies",Zee Cinemalu
 https://jiotv.hadinetbd.tech/jio/v1/Zee_Cinemalu/Zee_Cinemalu/Zee_Cinemalu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Movies HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Gemini_ Movies_HD.jpg" group-title="🟢 Movies",Gemini Movies HD
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Movies",Gemini Movies HD
 http://starshare.live:8080/live/Hasan57938/3579147249/212.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Gemini_ Movies.jpg" group-title="🟢 Movies",Gemini Movies
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Movies",Gemini Movies
 http://starshare.live:8080/live/Hasan57938/3579147249/212.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Movies HD" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_ Movies.png" group-title="🟢 Movies",Star Maa Movies HD
 http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/95875
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Movies" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_ Movies.png" group-title="🟢 Movies",Maa Movies
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Movies",Star Maa Movies
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862914&extension=ts&play_token=sVLwXTPff5
 #EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="🟢 Movies",ETV Cinema
 https://jiotv.hadinetbd.tech/jio/v1/ETV_Cinema/ETV_Cinema/ETV_Cinema.m3u8
@@ -45,7 +45,7 @@ https://jiotv.hadinetbd.tech/jio/v1/ETV_Cinema/ETV_Cinema/ETV_Cinema.m3u8
 rtmp://singamcloud.in:1935/rasinetwork/rasitelugu
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Tataplay Telugu Cinema" tvg-logo="https://assets.gadgets360cdn.com/content/assets/brands/tata-play-logo_1644572196.png" group-title="🟢 Movies",TataPlay Telugu Cinema
 http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/95876
-#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Movies",&Flix HD
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Movies", &flix HD
 http://webo.asia:80/play/live.php?mac=00:1A:79:11:84:FB&stream=161827&extension=ts&play_token=REoFKjLLF9
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Movies",Sony Pix HD
 http://webo.asia:80/play/live.php?mac=00:1A:79:11:84:FB&stream=397979&extension=ts&play_token=9MLRmWbEJy
@@ -57,7 +57,7 @@ https://jiotv.hadinetbd.tech/jio/v1/Studio_Yuva_Alpha/Studio_Yuva_Alpha/Studio_Y
 https://jiotv.hadinetbd.tech/jio/v1/Studio_One/Studio_One/Studio_One.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Music HD" tvg-logo="https://sund-images.sunnxt.com/26568/200x200_GeminiMusicHD_26568_2dc0c46d-afdf-407d-8862-3c2df67bee5b.png" group-title="🟢 Music",Gemini Music HD
 http://starshare.live:8080/live/Hasan57938/3579147249/23796.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-Music-black.png" group-title="🟢 Music",Maa Music
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-Music-black.png" group-title="🟢 Music",Star Maa Music
 http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=test
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Raj Music Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="🟢 Music",Raj Music Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Raj_Music_Telugu/Raj_Music_Telugu/Raj_Music_Telugu.m3u8
@@ -91,7 +91,7 @@ https://jiotv.hadinetbd.tech/jio/v1/Sakshi_tv/Sakshi_tv/Sakshi_tv.m3u8
 https://jiotv.hadinetbd.tech/jio/v1/10_TV/10_TV/10_TV.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="I News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png" group-title="🟢 News",I News
 https://jiotv.hadinetbd.tech/jio/v1/I_News/I_News/I_News.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="RAJ News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="🟢 News",RAJ News
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 News",Raj News Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Raj_News_Telugu/Raj_News_Telugu/Raj_News_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="TV 5 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/TV5_Telugu.png" group-title="🟢 News",TV5 News
 https://jiotv.hadinetbd.tech/jio/v1/TV_5_News/TV_5_News/TV_5_News.m3u8
