@@ -46,9 +46,11 @@ rtmp://singamcloud.in:1935/rasinetwork/rasitelugu
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Tataplay Telugu Cinema" tvg-logo="https://assets.gadgets360cdn.com/content/assets/brands/tata-play-logo_1644572196.png" group-title="🟢 Movies",TataPlay Telugu Cinema
 http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/95876
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Movies",&Flix HD
-http://webo.asia:80/play/live.php?mac=00:1A:79:48:5E:31&stream=161827&extension=ts&play_token=cr2uoOLT37
+http://webo.asia:80/play/live.php?mac=00:1A:79:11:84:FB&stream=161827&extension=ts&play_token=REoFKjLLF9
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Movies",Sony Pix HD
-http://webo.asia:80/play/live.php?mac=00:1A:79:48:5E:31&stream=397979&extension=ts&play_token=yGlx4rkXmm
+http://webo.asia:80/play/live.php?mac=00:1A:79:11:84:FB&stream=397979&extension=ts&play_token=9MLRmWbEJy
+#EXTINF:-0 tvg-id="Telugu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_white.png" group-title="🟢 Movies",TBO Classic
+http://webo.asia:80/play/live.php?mac=00:1A:79:11:84:FB&stream=20685&extension=ts&play_token=b4TUvu3wn5
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Studio Yuva Alpha" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png" group-title="🟢 Movies",Studio Yuva Alpha
 https://jiotv.hadinetbd.tech/jio/v1/Studio_Yuva_Alpha/Studio_Yuva_Alpha/Studio_Yuva_Alpha.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Studio One" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png" group-title="🟢 Movies",Studio One
@@ -135,8 +137,8 @@ https://tsneh.vercel.app/ytggtthhgy
 http://starshare.live:8080/live/Hasan57938/3579147249/19741.ts
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Kids",Discovery Kids
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862888&extension=ts&play_token=Vpb7UCpHha
-#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Kids",WOW Kidz
-http://webo.asia:80/play/live.php?mac=00:1A:79:48:5E:31&stream=86055&extension=ts&play_token=LzubBzVLgS
+#EXTINF:-0 tvg-id="Telugu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wow-kidz-new-hindi-white.png" group-title="🟢 Kids",Yupptv WOW Kidz
+http://webo.asia:80/play/live.php?mac=00:1A:79:11:84:FB&stream=86055&extension=ts&play_token=IkKTQl5dX1
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Hungama" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/hungama.png" group-title="🟢 Kids",Hungama (Multi Audio)
 http://starshare.live:8080/live/Hasan57938/3579147249/18456.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Kushi Tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Khushi_TV.jpg" group-title="🟢 Kids",Kushi Tv
