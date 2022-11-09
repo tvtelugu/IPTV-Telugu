@@ -47,14 +47,12 @@ rtmp://singamcloud.in:1935/rasinetwork/rasitelugu
 http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/95876
 #EXTINF:-0 tvg-id="Telugu" tvg-name="&Flix HD" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/flix-280-200.png" group-title="🟢 Movies",&Flix HD (Multi Audio)
 http://45.125.220.129:81/play/a04s
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Sony Pix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/220px-Sony_Pix_new.png" group-title="🟢 Movies",Sony Pix HD (Multi Audio)
-http://starshare.live:8080/live/Hasan57938/3579147249/147.ts
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Movies",Sony Pix HD
+http://webo.asia:80/play/live.php?mac=00:1A:79:48:5E:31&stream=397979&extension=ts&play_token=yGlx4rkXmm
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Studio Yuva Alpha" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png" group-title="🟢 Movies",Studio Yuva Alpha
 https://jiotv.hadinetbd.tech/jio/v1/Studio_Yuva_Alpha/Studio_Yuva_Alpha/Studio_Yuva_Alpha.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Studio One" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png" group-title="🟢 Movies",Studio One
 https://jiotv.hadinetbd.tech/jio/v1/Studio_One/Studio_One/Studio_One.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="View TV" tvg-logo="https://i.ibb.co/QdbLJLY/viewtv.jpg" group-title="🟢 Movies",View TV
-http://svf10.hd4.co:8888/TELUGU_PPV_2/index.m3u8?token=14082a85f876e25d43ecdadd21b0bcb7
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Music HD" tvg-logo="https://sund-images.sunnxt.com/26568/200x200_GeminiMusicHD_26568_2dc0c46d-afdf-407d-8862-3c2df67bee5b.png" group-title="🟢 Music",Gemini Music HD
 http://starshare.live:8080/live/Hasan57938/3579147249/23796.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-Music-black.png" group-title="🟢 Music",Maa Music
@@ -137,6 +135,8 @@ https://tsneh.vercel.app/ytggtthhgy
 http://starshare.live:8080/live/Hasan57938/3579147249/19741.ts
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Kids",Discovery Kids
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862888&extension=ts&play_token=Vpb7UCpHha
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Kids",WOW Kidz
+http://webo.asia:80/play/live.php?mac=00:1A:79:48:5E:31&stream=86055&extension=ts&play_token=LzubBzVLgS
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Hungama" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/hungama.png" group-title="🟢 Kids",Hungama (Multi Audio)
 http://starshare.live:8080/live/Hasan57938/3579147249/18456.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Kushi Tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Khushi_TV.jpg" group-title="🟢 Kids",Kushi Tv
