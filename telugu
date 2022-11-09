@@ -171,6 +171,8 @@ http://starshare.live:8080/live/Hasan57938/3579147249/124273.ts
 https://jiotv.hadinetbd.tech/jio/v1/Ten_4_Telugu/Ten_4_Telugu/Ten_4_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Ten 4 HD Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="🟢 Sports",Sony TEN 4 HD
 https://jiotv.hadinetbd.tech/jio/v1/Ten_4_HD_Telugu/Ten_4_HD_Telugu/Ten_4_HD_Telugu.m3u8
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports Telugu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Star_Sports_1_Telugu.png" group-title="🟢 Sports",Star Sports Telugu
+http://starshare.live:8080/live/Hasan57938/3579147249/82826.ts
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Educational" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png",AP BIE ARTS
 https://jiotv.hadinetbd.tech/jio/v1/AP_BIE_ARTS/AP_BIE_ARTS/AP_BIE_ARTS.m3u8
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Educational"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png",AP BIE SCIENCE
