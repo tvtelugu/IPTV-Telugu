@@ -135,6 +135,8 @@ http://starshare.live:8080/live/Hasan57938/3579147249/85595.ts
 https://tsneh.vercel.app/ytggtthhgy
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Disney" tvg-logo="http://files.rednetcontent.com/chlogo/disny.png" group-title="🟢 Kids",Disney (Multi Audio)
 http://starshare.live:8080/live/Hasan57938/3579147249/19741.ts
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Kids",Discovery Kids
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862888&extension=ts&play_token=Vpb7UCpHha
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Hungama" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/hungama.png" group-title="🟢 Kids",Hungama (Multi Audio)
 http://starshare.live:8080/live/Hasan57938/3579147249/18456.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Kushi Tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Khushi_TV.jpg" group-title="🟢 Kids",Kushi Tv
