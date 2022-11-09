@@ -12,13 +12,13 @@ https://jiotv.hadinetbd.tech/jio/v1/ETV_Telugu/ETV_Telugu/ETV_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="🟢 Entertinment",Star Maa HD
 http://starshare.live:8080/live/Hasan57938/3579147249/168.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="🟢 Entertinment",Star Maa
-http://starshare.live:8080/live/Hasan57938/3579147249/168.ts
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862912&extension=ts&play_token=QW0VooWC3c
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini HD" tvg-logo="https://sund-images.sunnxt.com/14019/200x200_GeminiTVHD_14019_65bc2d50-f266-4521-8fd5-38791f3272b4.png" group-title="🟢 Entertinment",Gemini TV HD
 http://starshare.live:8080/live/Hasan57938/3579147249/98892.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini " tvg-logo="https://i.ibb.co/MByCrHs/Gemini.png" group-title="🟢 Entertinment",Gemini TV
 http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/165794
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Maa Gold" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png" group-title="🟢 Entertinment",Star Maa Gold
-https://thenayeemparvez.chadasaniya.cf/star7/redline.php?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIyIDg6MDI6MzYgQU0maGFzaF92YWx1ZT1Xcy9GZHR3NWZIbUpzdFR3UVpKYkVRPT0mdmFsaWRtaW51dGVzPTM2MA==&m3u8=http://31.172.87.53:2200/R-EX/TELUGU_STAR_MAA_GOLD_-in/tracks-v1a1/mono.m3u8
+http://starshare.live:8080/live/Hasan57938/3579147249/9043.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Comedy" tvg-logo="https://sund-images.sunnxt.com/9027/200x200_GeminiComedy_9027_54480d40-b0f2-4b28-90cd-238a161dab4c.png" group-title="🟢 Entertinment",Gemini Comedy
 http://starshare.live:8080/live/Hasan57938/3579147249/9042.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="🟢 Entertinment",ETV Plus 
@@ -27,8 +27,6 @@ https://jiotv.hadinetbd.tech/jio/v1/ETV_Plus/ETV_Plus/ETV_Plus.m3u8
 https://jiotv.hadinetbd.tech/jio/v1/Vissa_TV/Vissa_TV/Vissa_TV.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="DD SAPTAGIRI" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="🟢 Entertinment",DD SAPTAGIRI
 https://jiotv.hadinetbd.tech/jio/v1/DD_Saptagiri/DD_Saptagiri/DD_Saptagiri.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="DD YADHAGIRI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/DD_Yadagiri.png" group-title="🟢 Entertinment",DD YADHAGIRI
-https://m3u-editor.com/serve/12ef7560-34b8-11ed-a954-7771ae1e6bdd/639668114
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Cinemalu" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png" group-title="🟢 Movies",Zee Cinemalu HD
 http://starshare.live:8080/live/Hasan57938/3579147249/23317.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Cinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="🟢 Movies",Zee Cinemalu
@@ -37,10 +35,10 @@ https://jiotv.hadinetbd.tech/jio/v1/Zee_Cinemalu/Zee_Cinemalu/Zee_Cinemalu.m3u8
 http://starshare.live:8080/live/Hasan57938/3579147249/212.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Gemini_ Movies.jpg" group-title="🟢 Movies",Gemini Movies
 http://starshare.live:8080/live/Hasan57938/3579147249/212.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Movies HD" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_ Movies.png" group-title="🟢 Movies",Maa Movies HD
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Movies HD" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_ Movies.png" group-title="🟢 Movies",Star Maa Movies HD
 http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/95875
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa Movies" tvg-logo=http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_ Movies.png" group-title="🟢 Movies",Maa Movies
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/82624
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862914&extension=ts&play_token=sVLwXTPff5
 #EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="🟢 Movies",ETV Cinema
 https://jiotv.hadinetbd.tech/jio/v1/ETV_Cinema/ETV_Cinema/ETV_Cinema.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Rasi Telugu" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="🟢 Movies",Rasi Telugu HD
