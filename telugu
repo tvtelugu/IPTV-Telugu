@@ -149,8 +149,8 @@ https://jiotv.hadinetbd.tech/jio/v1/Discovery_Channel_Telugu/Discovery_Channel_T
 https://jiotv.hadinetbd.tech/jio/v1/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="History 18 Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="🟢 Infotainment",History 18 Telugu
 https://jiotv.hadinetbd.tech/jio/v1/History_18_Telugu/History_18_Telugu/History_18_Telugu.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/500px-National_Geographic_Wild_logo.svg.png" group-title="🟢 Infotainment",National Geographic Wild HD
-http://showflix.org:5890/NaoufaL02/G827R5KTV4/143322
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 Infotainment",Nat Geo Wild HD
+http://p5.giffy.be:8080/play/live.php?mac=00:1A:79:7c:f9:d9&stream=20284&extension=ts&play_token=5RAYqRkwNb
 #EXTINF:-0 tvg-id="Telugu" tvg-name="National Geographic HD" tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" group-title="🟢 Infotainment",National Geographic HD
 http://rv.bleutv.net:2089/152019521663077/152058336619947/198025
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Star Sports Telugu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Star_Sports_1_Telugu.png" group-title="🟢 Sports",Star Sports Telugu
