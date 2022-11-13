@@ -1,19 +1,23 @@
 #EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz" 𝐈𝐏𝐓𝐕 𝐓𝐞𝐥𝐮𝐠𝐮™ 🕊 Exclusive Test
 #EXTINF:-0 tvg-id="",Zee Telugu HD
-http://pakin2.worldtvip.co:9090/tel_zee_telugu/index.m3u8?token=a0fe2dcae63170b090386a72d6677726
+http://tv.zaintv.net:80/K3uAkWft4S/ZbteqmY3Du/56222
+#EXTINF:-0 tvg-id="",Zee Telugu
+http://tv.zaintv.net:80/K3uAkWft4S/ZbteqmY3Du/100989
 #EXTINF:-0 tvg-id="",Zee Cinemalu HD
-http://pakin2.worldtvip.co:9090/tel_zeecinema/index.m3u8?token=0653bcc0342a7b6dc123e68c4df7499b
+http://tv.zaintv.net:80/K3uAkWft4S/ZbteqmY3Du/101777
 #EXTINF:-0 tvg-id="",STAR MAA HD
-http://pakin2.worldtvip.co:9090/tel_star_maa_hd/index.m3u8?token=97329d595bbb68ac393a88879b99433c
+http://tv.zaintv.net:80/K3uAkWft4S/ZbteqmY3Du/56375
 #EXTINF:-0 tvg-id="",STAR MAA Movies HD
-http://pakin2.worldtvip.co:9090/tel_maa_movies/index.m3u8?token=8a9c4d45831f1bfdfcdd3e17fcfa0b0a
+http://tv.zaintv.net:80/K3uAkWft4S/ZbteqmY3Du/101816
 #EXTINF:-0 tvg-id="",Gemini tv HD
-http://pakin2.worldtvip.co:9090/tel_gemini_tv_hd/index.m3u8?token=4c5d15dee3a74e8f81d211c26d136cae
+http://tv.zaintv.net:80/K3uAkWft4S/ZbteqmY3Du/101809
 #EXTINF:-0 tvg-id="",Gemini Movies
-http://pakin2.worldtvip.co:9090/tel_gemini_movie/index.m3u8?token=0d6f5b343d36d81f0ebf6f5f2531ab54
+http://tv.zaintv.net:80/K3uAkWft4S/ZbteqmY3Du/56265
 #EXTINF:-0 tvg-id="",Gemini Life
-http://pakin.worldtvip.co/telugu_geminilife/index.m3u8?token=32371f111cc696636543ccadb2ad24f1
+http://tv.zaintv.net:80/K3uAkWft4S/ZbteqmY3Du/101804
+#EXTINF:-0 tvg-id="",Gemini Music
+http://tv.zaintv.net:80/K3uAkWft4S/ZbteqmY3Du/56217
 #EXTINF:-0 tvg-id="",ETV HD
-http://pakin2.worldtvip.co:9090/tel_etv/index.m3u8?token=aa1a00ca772eeb2f6f76f97bd615cc7f
+http://tv.zaintv.net:80/K3uAkWft4S/ZbteqmY3Du/104468
 #EXTINF:-0 tvg-id="",Etv Cinema
-http://pakin.worldtvip.co/telugu_etvcinema/index.m3u8?token=ba3a3c49f936ed890a9badc24c93d2c4
+http://tv.zaintv.net:80/K3uAkWft4S/ZbteqmY3Du/56258
