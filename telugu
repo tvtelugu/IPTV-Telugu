@@ -231,6 +231,18 @@ https://securestreams8.autopo.st:3018/1
 https://ranjan.radioca.st/stream
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://liveradios.in/wp-content/uploads/radioala.jpg",Radio Ala 90.8 FM
 https://mahi.radioca.st/stream
+#EXTINF:-1 tvg-id="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Q5ZGU2MGUtOWZlMS00OTUwLWIyYjAtOGFkZTM3MDc2MWY5XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg" group-title="🎬  Movies",Ori Devuda (2022)
+https://assets-1.mypowerdisk.com/transcode_video/b9aac009847ed72fb7839db2a4df181a/dash/e96341e0f561302553b6d77be9efb804.mpd
+#EXTINF:-1 tvg-id="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E0YzMwZjEtMjllNC00OGY2LTg2NDEtZjE4MzQ4YzY2OTQ3XkEyXkFqcGdeQXVyODE5MDk4NjI@._V1_.jpg" group-title="🎬 Dubbed Movies",Jeepers Creepers: Reborn (2022) (Multi Audio)
+https://assets-1.mypowerdisk.com/transcode_video/0f6f1a19994250f0862b91b4391ab234/dash/ea4a8c7801b82a374d92cb277b884bf2.mpd
+#EXTINF:-1 tvg-id="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZmZWNkYTUtZmNjOC00MzUwLTg4NmQtMzFjZDg1MGU3NmQ0XkEyXkFqcGdeQXVyODA1MTcyNjE@._V1_.jpg" group-title="🎬 Dubbed Movies",Rorschach (2022) (Multi Audio)
+https://assets-1.mypowerdisk.com/transcode_video/8dbec2b0c2361d33fd8e677a9b955d65/dash/3faab525499b5bf1edad39a51da4788e.mpd
+#EXTINF:-1 tvg-id="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA1YWEyNTYtN2EzNC00YWM3LThmOWUtY2I3YTA0YjkyZmZjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg" group-title="🎬 Dubbed Movies",My Father's Dragon (2022) (Multi Audio)
+https://assets-1.mypowerdisk.com/transcode_video/efe18c015fe8acb268dded5481ffa908/dash/e8b1b46b7a3d341852bd621b7d1b9363.mpd
+#EXTINF:-1 tvg-id="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdjNjJmNGQtZWEwOS00ZDkzLThjNzEtNGNjODYyMjc4MTc5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg" group-title="🎬 Dubbed Movies",Emergency Declaration (2022) (Multi Audio)
+https://assets-1.mypowerdisk.com/transcode_video/3709d78dd4b7f54ab3092816f294fbaa/dash/5135990c6144875de76059df57a367a9.mpd
+#EXTINF:-1 tvg-id="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdjNjJmNGQtZWEwOS00ZDkzLThjNzEtNGNjODYyMjc4MTc5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg" group-title="🎬 Dubbed Movies",Monica, O My Darling (2022) (Multi Audio)
+https://assets-1.mypowerdisk.com/transcode_video/e3825e45334e7ceb45bf7db801be8257/dash/67c8312c771e85acce5aa5fc0274ae60.mpd
 #EXTINF:-1 tvg-id="VOD" tvg-name="The Ghost (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWU3OGFkMWYtNTU4OC00NzQwLWE3MmMtMGQyOGZhODc0MDZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="🎬  Movies",The Ghost (2022)
 https://assets-1.entertainvideo.com/assets/media/6105977c5e02a503bd23c6bde3a4245d/dash/4cfe578a16846baef782ccc577efa29a.mpd
 #EXTINF:-1 tvg-id="VOD" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg" group-title="🎬 Dubbed Movies",Spider-Man: No Way Home (2021) Extended Vertion (Multi Audio)
