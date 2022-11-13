@@ -2,11 +2,11 @@
 #EXTINF:-0 tvg-id="Telugu" tvg-name="IPTV Telugu" tvg-logo="https://i.postimg.cc/PfSfj5xm/photo-2022-10-14-14-15-53.jpg", 𝐈𝐏𝐓𝐕 𝐓𝐞𝐥𝐮𝐠𝐮™ 🕊 Exclusive ミ★𝐌𝐚𝐝𝐡𝐮 @ https://t.me/tvtelugu ★彡
 https://github.com/madhukar7322/IPTV-Telugu/blob/main/iptv-telugu.ts?raw=true
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Telugu" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1008/PORTRAIT/k54DafKg.png" group-title="🟢 Entertinment",Zee Telugu HD
-http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/95883
+https://z5ak-live.zee5.com/out/v1/95ba4533288e40a997c2b378f6b5c3b9/index.m3u8?hdnts=st=1668309363~exp=1668312363~acl=/out/v1/95ba4533288e40a997c2b378f6b5c3b9/index.m3u8*~hmac=46314f80807b05fd5a01ac5cdb12dc5fdd544d4f5dbf2883005a56d10dafa39b
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="🟢 Entertinment",Zee Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Zee_Telugu/Zee_Telugu/Zee_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="ETV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="🟢 Entertinment",ETV HD
-https://jiotv.hadinetbd.tech/jio/v1/ETV_HD/ETV_HD/ETV_HD.m3u8
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862892&extension=ts&play_token=CXqGgsP0Vi
 #EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="🟢 Entertinment",ETV Telugu
 https://jiotv.hadinetbd.tech/jio/v1/ETV_Telugu/ETV_Telugu/ETV_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Maa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TV.png" group-title="🟢 Entertinment",Star Maa HD
@@ -64,9 +64,9 @@ https://jiotv.hadinetbd.tech/jio/v1/Raj_Music_Telugu/Raj_Music_Telugu/Raj_Music_
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Gemini Life" tvg-logo="https://sund-images.sunnxt.com/26572/200x200_GeminiLife_26572_797a9d8c-2ec2-4af8-b3dc-3b10c16c060d.png" group-title="🟢 Music",Gemini Life
 http://starshare.live:8080/live/Hasan57938/3579147249/9044.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Abhiruchi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" group-title="🟢 Life Style",ETV Abhiruchi
-https://jiotv.hadinetbd.tech/jio/v1/ETV_Abhiruchi/ETV_Abhiruchi/ETV_Abhiruchi.m3u8
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862889&extension=ts&play_token=pRqUu9dOlU
 #EXTINF:-0 tvg-id="Telugu" tvg-name="ETV Life" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png" group-title="🟢 Life Style",ETV Life
-https://jiotv.hadinetbd.tech/jio/v1/ETV_Life/ETV_Life/ETV_Life.m3u8
+http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862893&extension=ts&play_token=ghKYaWZGBf
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Aastha Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="🟢 Life Style",Aastha Telugu
 https://jiotv.hadinetbd.tech/jio/v1/Aastha_Telugu/Aastha_Telugu/Aastha_Telugu.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="CVR Health" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png" group-title="🟢 Life Style",CVR Health
