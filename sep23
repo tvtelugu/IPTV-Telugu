@@ -1,10 +1,12 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz" 𝐈𝐏𝐓𝐕 𝐓𝐞𝐥𝐮𝐠𝐮™ 🕊 Exclusive ミ★𝐌𝐚𝐝𝐡𝐮 @ https://t.me/tvtelugu ★彡
 #EXTINF:-0 group-title="🟢 Entertinment",ZEE Telugu
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862922&extension=ts&play_token=r55NgqWCxh
+#EXTINF:-0 group-title="🟢 Entertinment",Zee telugu HD
+http://eu.majes-line.co:80/play/live.php?mac=00:1a:79:28:2F:20&stream=281780&extension=ts&play_token=c9BWvbxvEL
 #EXTINF:-0 group-title="🟢 Entertinment",Star Maa
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862912&extension=ts&play_token=JGHkhMhNnn
 #EXTINF:-0 group-title="🟢 Entertinment",Star Maa HD
-http://play-plus.net:8000/play/live.php?mac=00:1A:79:72:6B:D3&stream=363922&extension=ts&play_token=FfvuK9IiQI
+http://eu.majes-line.co:80/play/live.php?mac=00:1a:79:28:2F:20&stream=281777&extension=ts&play_token=dFt6YbuHJ6
 #EXTINF:-0 group-title="🟢 Entertinment",Gemini Tv HD
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862898&extension=ts&play_token=nMZGbCfWuC
 #EXTINF:-0 group-title="🟢 Entertinment",ETV HD
@@ -13,30 +15,31 @@ http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862892
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862913&extension=ts&play_token=KRDpyW3k0f
 #EXTINF:-0 group-title="🟢 Entertinment",ETV Plus
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862894&extension=ts&play_token=KNbCSfXllh
-
 #EXTINF:-0 group-title="🟢 Entertinment",Gemini Comedy
-http://play-plus.net:8000/play/live.php?mac=00:1A:79:72:6B:D3&stream=363920&extension=ts&play_token=tuOZfdNW9w
-#EXTINF:-0 group-title="🟢 Entertinment",Zee telugu HD
-http://play-plus.net:8000/play/live.php?mac=00:1A:79:72:6B:D3&stream=364148&extension=ts&play_token=jQrXGNNOsj
+http://eu.majes-line.co:80/play/live.php?mac=00:1a:79:28:2F:20&stream=281787&extension=ts&play_token=s3hqYokdIF
 
 
 
+#EXTINF:-0 group-title="🟢 Movies",Star Maa Movies HD
+http://eu.majes-line.co:80/play/live.php?mac=00:1a:79:28:2F:20&stream=281778&extension=ts&play_token=JrZt8ObTFS
 #EXTINF:-0 group-title="🟢 Movies",Zee Cinemalu HD
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862921&extension=ts&play_token=kO3v5F6QwL
 #EXTINF:-0 group-title="🟢 Movies",Gemini Movies HD
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862897&extension=ts&play_token=pqOJFyj4t7
 #EXTINF:-0 group-title="🟢 Movies",ETV Cinema
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862891&extension=ts&play_token=KsGcVrcxcq
+#EXTINF:-0 group-title="🟢 Movies",TATAPlay Telugu Cinema
+http://eu.majes-line.co:80/play/live.php?mac=00:1a:79:28:2F:20&stream=281797&extension=ts&play_token=Aed9kNQYeV
 
-#EXTINF:-0 group-title="🟢 Movies",Star Maa Movies HD
-http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:00:00:78&stream=281778&extension=ts&play_token=6XR5rg3oNE
+
 
 
 #EXTINF:-0 group-title="🟢 Music",Raj Music
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862906&extension=ts&play_token=yLJHgNxvv0
 #EXTINF:-0 group-title="🟢 Music",Gemini Life
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862896&extension=ts&play_token=wx8bT6x9H7
-
+#EXTINF:-0 group-title="🟢 Music",Gemini Music
+http://eu.majes-line.co:80/play/live.php?mac=00:1a:79:28:2F:20&stream=281789&extension=ts&play_token=2Efk5vnC1r
 #EXTINF:-0 group-title="🟢 Music",Gemini Music
 http://play-plus.net:8000/play/live.php?mac=00:1A:79:72:6B:D3&stream=363917&extension=ts&play_token=iZ2LXwmgMY
 
@@ -75,9 +78,8 @@ http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862904
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862888&extension=ts&play_token=IlBWHXXDIj
 #EXTINF:-0  group-title="🟢 KIDS",Cartoon Network Telugu
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862885&extension=ts&play_token=DCwpqOA69
-
 #EXTINF:-0  group-title="🟢 KIDS",Kushi Tv
-http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:00:00:78&stream=281792&extension=ts&play_token=45iAwS6OK6
+http://eu.majes-line.co:80/play/live.php?mac=00:1a:79:28:2F:20&stream=281792&extension=ts&play_token=cBb5ZPCLgU
 
 
 #EXTINF:-0  group-title="🟢 Infotainment", Sony BBC Earth
