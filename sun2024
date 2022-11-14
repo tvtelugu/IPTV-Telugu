@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz" 𝐈𝐏𝐓𝐕 𝐓𝐞𝐥𝐮𝐠𝐮™ 🕊 Exclusive Test
 #EXTINF:-0 tvg-id="",Zee Telugu HD
+https://venompouer.000webhostapp.com/api.php?c=0-9-zeetelugu
+#EXTINF:-0 tvg-id="",Zee Telugu HD
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862922&extension=ts&play_token=Mmx30JkGyt
 #EXTINF:-0 tvg-id="",Zee Cinemalu HD
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862921&extension=ts&play_token=OaqjjVqXKI
@@ -65,5 +67,5 @@ http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862691&e
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862910&extension=ts&play_token=kKUN2QT1FD
 #EXTINF:-0 tvg-id="",National Geographic Wild HD
 http://aceservers.watch:8880/play/live.php?mac=00:1A:79:bf:29:1c&stream=862903&extension=ts&play_token=grGvN0MAIz
-#EXTINF:-0 tvg-id="",Vikram (2022)
-http://aceservers.watch:8880/play/movie.php?mac=00:1A:79:bf:29:1c&stream=1830494.mkv&play_token=ZVv98UJiw3&type=movie
+#EXTINF:-0 tvg-id="",Zee Cinemalu HD
+https://venompouer.000webhostapp.com/api.php?c=0-9-zeecinemalu
