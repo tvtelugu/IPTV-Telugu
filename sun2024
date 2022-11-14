@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz" 𝐈𝐏𝐓𝐕 𝐓𝐞𝐥𝐮𝐠𝐮™ 🕊 Exclusive Test
+#EXTINF:-0 tvg-id="",MAA TV
+http://pakin2.worldtvip.co:9090/tel_star_maa_hd/index.m3u8?token=9cc4e34d3c766db9578bc3d122902277
 #EXTINF:-0 tvg-id="",Zee Telugu HD
 https://venompouer.000webhostapp.com/api.php?c=0-9-zeetelugu
 #EXTINF:-0 tvg-id="",Zee Telugu HD
