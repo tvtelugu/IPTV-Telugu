@@ -3,6 +3,8 @@
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862922&extension=ts&play_token=r55NgqWCxh
 #EXTINF:-0 group-title="🟢 Entertinment",Star Maa
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862912&extension=ts&play_token=JGHkhMhNnn
+#EXTINF:-0 group-title="🟢 Entertinment",Star Maa HD
+http://play-plus.net:8000/play/live.php?mac=00:1A:79:72:6B:D3&stream=363922&extension=ts&play_token=FfvuK9IiQI
 #EXTINF:-0 group-title="🟢 Entertinment",Gemini Tv HD
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862898&extension=ts&play_token=nMZGbCfWuC
 #EXTINF:-0 group-title="🟢 Entertinment",ETV HD
@@ -13,11 +15,11 @@ http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862913
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862894&extension=ts&play_token=KNbCSfXllh
 
 #EXTINF:-0 group-title="🟢 Entertinment",Gemini Comedy
-http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:00:00:78&stream=281787&extension=ts&play_token=4G94DqlVmP
+http://play-plus.net:8000/play/live.php?mac=00:1A:79:72:6B:D3&stream=363920&extension=ts&play_token=tuOZfdNW9w
 #EXTINF:-0 group-title="🟢 Entertinment",Zee telugu HD
-http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:00:00:78&stream=281780&extension=ts&play_token=vrktE4p91B
-#EXTINF:-0 group-title="🟢 Entertinment",Star Maa HD
-http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:00:00:78&stream=281777&extension=ts&play_token=6f0OfdwT0c
+http://play-plus.net:8000/play/live.php?mac=00:1A:79:72:6B:D3&stream=364148&extension=ts&play_token=jQrXGNNOsj
+
+
 
 #EXTINF:-0 group-title="🟢 Movies",Zee Cinemalu HD
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862921&extension=ts&play_token=kO3v5F6QwL
@@ -36,7 +38,7 @@ http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862906
 http://infinitymedia.live:8880/play/live.php?mac=00:1A:79:12:70:9c&stream=862896&extension=ts&play_token=wx8bT6x9H7
 
 #EXTINF:-0 group-title="🟢 Music",Gemini Music
-http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:00:00:78&stream=281789&extension=ts&play_token=U7RhWTuKhK
+http://play-plus.net:8000/play/live.php?mac=00:1A:79:72:6B:D3&stream=363917&extension=ts&play_token=iZ2LXwmgMY
 
 
 #EXTINF:-0  group-title="🟢 News",V6 News
