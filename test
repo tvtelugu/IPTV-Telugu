@@ -1,6 +1,8 @@
 #EXTM3U url-ext="https://raw.githubusercontent.com/madhukar7322/iptvlogo/main/telugu"
 #EXTINF:-0 tvg-id="Telugu" tvg-name="" tvg-logo="" group-title="Entertinment",Super Hungama 
 https://tsneh.vercel.app/denver45679489
+#EXTINF:-0 tvg-id="Telugu" tvg-name="" tvg-logo="" group-title="Entertinment",test
+https://hls.aagmaalfree.com/hls/UXM2RElMaThGblVvOGpIcExZU2hIQT09/xfgdYshjhYhj=!sdsHsyG
 #EXTINF:-0 tvg-id="Telugu" tvg-name="" tvg-logo="" group-title="Entertinment",Super Hungama 
 https://tsneh.vercel.app/ytggtthhgy
 #EXTINF:-0 tvg-id="Telugu" tvg-name="" tvg-logo="" group-title="Entertinment",Bak
