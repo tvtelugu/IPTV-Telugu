@@ -232,6 +232,13 @@ https://ranjan.radioca.st/stream
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://liveradios.in/wp-content/uploads/radioala.jpg",Radio Ala 90.8 FM
 https://mahi.radioca.st/stream
 
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 IND vs NZ"  tvg-logo="",FOX 501
+https://ranapk-x.tk/crickx/play.php?id=fox501&e=.m3u8
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 IND vs NZ"  tvg-logo="",Super Crick 3
+https://ranapk-x.tk/crickx/play.php?id=supercricket&e=.m3u8
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 IND vs NZ"  tvg-logo="",BT Sports 3
+https://ranapk-x.tk/crickx/play.php?id=bbsp3&e=.m3u8
+
 
 #EXTINF:-1 tvg-id="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY2NDQ3ZWYtMjg0Zi00ZGYwLWJmNzctYzgwZTkzMTcyY2E0XkEyXkFqcGdeQXVyMTU2NDkwOTAw._V1_.jpg" group-title="🎬 Dubbed Movies",Anel Meley Panithuli (2022) (Multi Audio)
 https://assets-1.mypowerdisk.com/transcode_video/01892f53e3e0949b44c85a4479dbe29e/dash/622b591ca37ce86fc242bc11d205e9d4.mpd
