@@ -232,8 +232,10 @@ https://ranjan.radioca.st/stream
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 Radio"  tvg-logo="https://liveradios.in/wp-content/uploads/radioala.jpg",Radio Ala 90.8 FM
 https://mahi.radioca.st/stream
 
-#EXTINF:-0 tvg-id="Telugu" group-title="🟢 IND vs NZ"  tvg-logo="",Amazon Hindi 
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/LeITSHTTTLwJnld7jXX4vfcXiUtn87Ov2Qb-VrIpmmVmA-6WQSClIO-Nb9_IWxX8QVuc_S4-Jin5iuf9Ej529w/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
+
+
+#EXTINF:-0 tvg-id="Telugu" group-title="🟢 IND vs NZ"  tvg-logo="",DD Sports 
+http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4044
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 IND vs NZ"  tvg-logo="",Super Crick 3
 https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/DCweiXxEzV5YHWaoDRnO7Fp6Z1ns33RYSCnGs8uCv67N7AJ4yeaVfphnTdXWyJSO2THXcpgKZSHOYBCBaaOQ4g/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-0 tvg-id="Telugu" group-title="🟢 IND vs NZ"  tvg-logo="",BT Sports 3
