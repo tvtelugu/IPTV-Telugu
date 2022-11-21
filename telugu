@@ -234,12 +234,30 @@ https://mahi.radioca.st/stream
 
 
 
-#EXTINF:-0 tvg-id="Telugu" group-title="🟢 IND vs NZ"  tvg-logo="",DD Sports 
-http://starshare.live:8080/TR-_-@46fjkSEgd_-_99@ryjjf57hni7d@-_-@9dkq33idk/pal@849_-_03@84jkd_-_-_-@84jdj29JNDW838wq92s/4044
-#EXTINF:-0 tvg-id="Telugu" group-title="🟢 IND vs NZ"  tvg-logo="",Super Crick 3
-https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/DCweiXxEzV5YHWaoDRnO7Fp6Z1ns33RYSCnGs8uCv67N7AJ4yeaVfphnTdXWyJSO2THXcpgKZSHOYBCBaaOQ4g/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-0 tvg-id="Telugu" group-title="🟢 IND vs NZ"  tvg-logo="",BT Sports 3
-https://vkvsd41.mycdn.me/hls/3182544751335.m3u8/sig/NRTcKe-q5RM/srcIp/106.214.75.221/urls/45.136.22.67/expires/1669391763896/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/4523147013095/id/3182544751335/video.m3u8?p
+
+#EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022",Sports 18
+http://starshare.live:8080/live/Hasan57938/3579147249/128843.ts
+#EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022",A Sports ARY
+http://starshare.live:8080/live/Hasan57938/3579147249/43447.ts
+#EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022",Sky Sports Premier
+http://starshare.live:8080/live/Hasan57938/3579147249/122410.ts
+#EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022",Sky Sports Football
+http://starshare.live:8080/live/Hasan57938/3579147249/122411.ts
+#EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022",WorldCup HD
+http://starshare.live:8080/live/Hasan57938/3579147249/129061.ts
+#EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022",BEIN Sport Max 1
+http://starshare.live:8080/live/Hasan57938/3579147249/129497.ts
+#EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022",BEIN Sport Max 2
+http://starshare.live:8080/live/Hasan57938/3579147249/129498.ts
+#EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022",BEIN Sport Max 3
+http://starshare.live:8080/live/Hasan57938/3579147249/129499.ts
+#EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022",BEIN Sport Max 4
+http://starshare.live:8080/live/Hasan57938/3579147249/129500.ts
+#EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022",BEIN Sport Max 5
+http://starshare.live:8080/live/Hasan57938/3579147249/129501.ts
+#EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022",BEIN Sport Max 6
+http://starshare.live:8080/live/Hasan57938/3579147249/129502.ts
+
 
 
 #EXTINF:-1 tvg-id="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY2NDQ3ZWYtMjg0Zi00ZGYwLWJmNzctYzgwZTkzMTcyY2E0XkEyXkFqcGdeQXVyMTU2NDkwOTAw._V1_.jpg" group-title="🎬 Dubbed Movies",Anel Meley Panithuli (2022) (Multi Audio)
@@ -403,6 +421,9 @@ http://starshare.live:8080/live/Hasan57938/3579147249/74827.ts
 http://starshare.live:8080/live/Hasan57938/3579147249/121374.ts
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Godfather (2022" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDRlY2JkZmMtYzIwNy00OGJmLTk0NDUtNmNlOWZhZjY1YjY0XkEyXkFqcGdeQWthc2hpa2F4._V1_.jpg" group-title="🎬  Telugu (2022)",Godfather (2022)
+http://starshare.live:8080/movie/Hasan57938/3579147249/129462.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Aa Ammayi Gurinchi Meeku Cheppali (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YiyUyEGn3layO4lMTciX0IyAmj.jpg" group-title="🎬  Telugu (2022)",Aa Ammayi Gurinchi Meeku Cheppali (2022)
 http://starshare.live:8080/movie/Hasan57938/3579147249/122593.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bujji... Ila Raa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPkiZEAkJAguxPVPLtLIBVvDN8k.jpg" group-title="🎬  Telugu (2022)",Bujji... Ila Raa (2022)
