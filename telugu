@@ -27,6 +27,8 @@ https://madplayjio.ml/MADPLAYJIOX/autoq.php?c=ETV_Plus
 https://madplayjio.ml/MADPLAYJIOX/autoq.php?c=Vissa_TV
 #EXTINF:-0 tvg-id="Telugu" tvg-name="DD SAPTAGIRI" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="🟢 Entertinment",DD SAPTAGIRI
 https://madplayjio.ml/MADPLAYJIOX/autoq.php?c=DD_Saptagiri
+#EXTINF:-0 tvg-id="Telugu" tvg-name="DD Yadagiri" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/DD_Yadagiri_logo.png/200px-DD_Yadagiri_logo.png" group-title="🟢 Entertinment",DD Yadagiri
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=281978&extension=ts&play_token=Tt50xBqESS
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Cinemalu" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1009/PORTRAIT/qmhsTcVm.png" group-title="🟢 Movies",Zee Cinemalu HD
 http://starshare.live:8080/live/Hasan57938/3579147249/23317.ts
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Cinemalu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="🟢 Movies",Zee Cinemalu
@@ -146,7 +148,7 @@ http://webo.asia:80/play/live.php?mac=00:1A:79:11:84:FB&stream=86055&extension=t
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Hungama" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/hungama.png" group-title="🟢 Kids",Hungama (Multi Audio)
 http://223.29.231.66:8000/play/a01u/index.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Kushi Tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Khushi_TV.jpg" group-title="🟢 Kids",Kushi Tv
-http://www.pandar.plus:25461/HHVZCDPRU5EU7DG/V2BARZJY1CYRBGG/95867
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=155868&extension=ts&play_token=9FK4Kb5TBV
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Discovery Channel Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="🟢 Infotainment",Discovery Channel Telugu
 https://madplayjio.ml/MADPLAYJIOX/autoq.php?c=Discovery_Channel_Telugu
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Sony BBC Earth HD Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="🟢 Infotainment",Sony BBC Earth HD Telugu
