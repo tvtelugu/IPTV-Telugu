@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="Telugu: ETV (4K)." tvg-logo="" group-title="INDIAN (4K ULTRA VIP)",Telugu: ETV (4K).
+http://humiptv.live:8080/live/anandhu974/00472110362xx/98885.ts
+#EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Telugu: STAR-MAA (4K)." tvg-logo="https://www.pngkit.com/png/detail/852-8523902_maa-tv-star-maa-hd-logo.png" group-title="INDIAN (4K ULTRA VIP)",Telugu: STAR-MAA (4K).
+http://humiptv.live:8080/live/anandhu974/00472110362xx/98886.ts
+#EXTINF:-1 tvg-id="starmaamovieshd.in" tvg-name="Telugu: STAR-MAA-MOVIE (4K)." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20180531131824" group-title="INDIAN (4K ULTRA VIP)",Telugu: STAR-MAA-MOVIE (4K).
+http://humiptv.live:8080/live/anandhu974/00472110362xx/98887.ts
+#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="Telugu: GEMINI (4K)." tvg-logo="https://banner2.cleanpng.com/20180403/kkw/kisspng-gemini-tv-television-show-television-channel-gemin-gemini-5ac30d84a16399.8260756515227324206611.jpg" group-title="INDIAN (4K ULTRA VIP)",Telugu: GEMINI (4K).
+http://humiptv.live:8080/live/anandhu974/00472110362xx/98892.ts
+#EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="Telugu: ZEE-TELUGU (4K)." tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Zee_Telugu_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180924091239" group-title="INDIAN (4K ULTRA VIP)",Telugu: ZEE-TELUGU (4K).
+http://humiptv.live:8080/live/anandhu974/00472110362xx/98894.ts
+#EXTINF:-1 tvg-id="zeecinemaluhd.in" tvg-name="Telugu: ZEE-CINEMALU (4K)." tvg-logo="" group-title="INDIAN (4K ULTRA VIP)",Telugu: ZEE-CINEMALU (4K).
+http://humiptv.live:8080/live/anandhu974/00472110362xx/98896.ts
+#EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Telugu: STAR MAA TV HD" tvg-logo="" group-title="TELUGU",Telugu: STAR MAA TV HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/168.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: TV 5 News" tvg-logo="" group-title="TELUGU",Telugu: TV 5 News
+http://humiptv.live:8080/live/anandhu974/00472110362xx/170.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: Gemini_Music_HD" tvg-logo="" group-title="TELUGU",Telugu: Gemini_Music_HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/213.ts
+#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="Telugu: Gemini_TV_HD" tvg-logo="" group-title="TELUGU",Telugu: Gemini_TV_HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/214.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: Sony_BBC_Earth_HD_Telugu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" group-title="TELUGU",Telugu: Sony_BBC_Earth_HD_Telugu
+http://humiptv.live:8080/live/anandhu974/00472110362xx/223.ts
+#EXTINF:-1 tvg-id="v6telugu.in" tvg-name="Telugu:  V6_News" tvg-logo="" group-title="TELUGU",Telugu:  V6_News
+http://humiptv.live:8080/live/anandhu974/00472110362xx/228.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu:  Sri_Venkateshwar_Bhakti" tvg-logo="" group-title="TELUGU",Telugu:  Sri_Venkateshwar_Bhakti
+http://humiptv.live:8080/live/anandhu974/00472110362xx/233.ts
+#EXTINF:-1 tvg-id="abnandhrajyothy.in" tvg-name="Telugu:  ABN_Andhra_Jyothi" tvg-logo="" group-title="TELUGU",Telugu:  ABN_Andhra_Jyothi
+http://humiptv.live:8080/live/anandhu974/00472110362xx/234.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: NTV TELUGU" tvg-logo="" group-title="TELUGU",Telugu: NTV TELUGU
+http://humiptv.live:8080/live/anandhu974/00472110362xx/235.ts
+#EXTINF:-1 tvg-id="etvplus.in" tvg-name="Telugu: ETV Plus" tvg-logo="" group-title="TELUGU",Telugu: ETV Plus
+http://humiptv.live:8080/live/anandhu974/00472110362xx/242.ts
+#EXTINF:-1 tvg-id="rajmusixtelugu.in" tvg-name="IN: Raj Music Telugu" tvg-logo="" group-title="TELUGU",IN: Raj Music Telugu
+http://humiptv.live:8080/live/anandhu974/00472110362xx/243.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: Vissa TV" tvg-logo="" group-title="TELUGU",Telugu: Vissa TV
+http://humiptv.live:8080/live/anandhu974/00472110362xx/244.ts
+#EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="Telugu: Zee Telugu HD" tvg-logo="" group-title="TELUGU",Telugu: Zee Telugu HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/1605.ts
+#EXTINF:-1 tvg-id="ddsaptagiri.in" tvg-name="Telugu: DD Saptagiri" tvg-logo="" group-title="TELUGU",Telugu: DD Saptagiri
+http://humiptv.live:8080/live/anandhu974/00472110362xx/4053.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: STAR MAA MOVIES HD" tvg-logo="" group-title="TELUGU",Telugu: STAR MAA MOVIES HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/9015.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: Zee Cinemalu HD" tvg-logo="" group-title="TELUGU",Telugu: Zee Cinemalu HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/9016.ts
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="Telugu: Etv HD" tvg-logo="" group-title="TELUGU",Telugu: Etv HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/9017.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: GEMINI COMEDY HD" tvg-logo="" group-title="TELUGU",Telugu: GEMINI COMEDY HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/9042.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: STAR MAA GOLD" tvg-logo="" group-title="TELUGU",Telugu: STAR MAA GOLD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/9043.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: GEMINI LIFE HD" tvg-logo="" group-title="TELUGU",Telugu: GEMINI LIFE HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/9044.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV Cinema" tvg-logo="" group-title="TELUGU",Telugu: ETV Cinema
+http://humiptv.live:8080/live/anandhu974/00472110362xx/9045.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV AndhraPradesh" tvg-logo="" group-title="TELUGU",Telugu: ETV AndhraPradesh
+http://humiptv.live:8080/live/anandhu974/00472110362xx/9046.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: TV9 NEWS HD" tvg-logo="" group-title="TELUGU",Telugu: TV9 NEWS HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/9047.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: Sakshi TV (News)" tvg-logo="" group-title="TELUGU",Telugu: Sakshi TV (News)
+http://humiptv.live:8080/live/anandhu974/00472110362xx/9048.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: T News HD" tvg-logo="" group-title="TELUGU",Telugu: T News HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/9049.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV Telangana" tvg-logo="" group-title="TELUGU",Telugu: ETV Telangana
+http://humiptv.live:8080/live/anandhu974/00472110362xx/9050.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: ETV Life" tvg-logo="" group-title="TELUGU",Telugu: ETV Life
+http://humiptv.live:8080/live/anandhu974/00472110362xx/9052.ts
+#EXTINF:-1 tvg-id="etvabhiruchi.in" tvg-name="Telugu: ETV Abhiruchi" tvg-logo="" group-title="TELUGU",Telugu: ETV Abhiruchi
+http://humiptv.live:8080/live/anandhu974/00472110362xx/9053.ts
+#EXTINF:-1 tvg-id="svbc.in" tvg-name="Telugu: SVBC HD" tvg-logo="" group-title="TELUGU",Telugu: SVBC HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/9054.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu: Subha vaartha" tvg-logo="" group-title="TELUGU",Telugu: Subha vaartha
+http://humiptv.live:8080/live/anandhu974/00472110362xx/9055.ts
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="Telugu: ETV (FHD)" tvg-logo="" group-title="TELUGU",Telugu: ETV (FHD)
+http://humiptv.live:8080/live/anandhu974/00472110362xx/23312.ts
+#EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Telugu: STAR-MAA (FHD)" tvg-logo="https://www.pngkit.com/png/detail/852-8523902_maa-tv-star-maa-hd-logo.png" group-title="TELUGU",Telugu: STAR-MAA (FHD)
+http://humiptv.live:8080/live/anandhu974/00472110362xx/23313.ts
+#EXTINF:-1 tvg-id="starmaamovieshd.in" tvg-name="Telugu: STAR-MAA-MOVIE (FHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20180531131824" group-title="TELUGU",Telugu: STAR-MAA-MOVIE (FHD)
+http://humiptv.live:8080/live/anandhu974/00472110362xx/23314.ts
+#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="Telugu: GEMINI (FHD)" tvg-logo="https://banner2.cleanpng.com/20180403/kkw/kisspng-gemini-tv-television-show-television-channel-gemin-gemini-5ac30d84a16399.8260756515227324206611.jpg" group-title="TELUGU",Telugu: GEMINI (FHD)
+http://humiptv.live:8080/live/anandhu974/00472110362xx/23315.ts
+#EXTINF:-1 tvg-id="zeeteluguhd.in" tvg-name="Telugu: ZEE-TELUGU (FHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Zee_Telugu_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180924091239" group-title="TELUGU",Telugu: ZEE-TELUGU (FHD)
+http://humiptv.live:8080/live/anandhu974/00472110362xx/23316.ts
+#EXTINF:-1 tvg-id="zeecinemaluhd.in" tvg-name="Telugu: ZEE-CINEMALU (FHD)" tvg-logo="" group-title="TELUGU",Telugu: ZEE-CINEMALU (FHD)
+http://humiptv.live:8080/live/anandhu974/00472110362xx/23317.ts
+#EXTINF:-1 tvg-id="bhaktitv.in" tvg-name="Telugu: BHAKTI TV" tvg-logo="" group-title="TELUGU",Telugu: BHAKTI TV
+http://humiptv.live:8080/live/anandhu974/00472110362xx/34581.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU:  RAJ NEWS" tvg-logo="" group-title="TELUGU",TELUGU:  RAJ NEWS
+http://humiptv.live:8080/live/anandhu974/00472110362xx/52504.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU: Star Maa Music" tvg-logo="" group-title="TELUGU",TELUGU: Star Maa Music
+http://humiptv.live:8080/live/anandhu974/00472110362xx/57772.ts
+#EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="Telugu: GEMINI MOVIE (FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwK-S38Qg_uSb8APgv7HtuAbTA5frEX-YkXQ&usqp=CAU" group-title="TELUGU",Telugu: GEMINI MOVIE (FHD)
+http://humiptv.live:8080/live/anandhu974/00472110362xx/23797.ts
+#EXTINF:-1 tvg-id="geminimusic.in" tvg-name="Telugu: GEMINI MUSIC (FHD)" tvg-logo="" group-title="TELUGU",Telugu: GEMINI MUSIC (FHD)
+http://humiptv.live:8080/live/anandhu974/00472110362xx/23796.ts
+#EXTINF:-1 tvg-id="starsports1telugu.in" tvg-name="CRI: Star Sports 1 (Telugu)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Star_Sports_1_Telugu_HD.png/revision/latest/scale-to-width-down/250?cb=20211017160105" group-title="CRICKET",CRI: Star Sports 1 (Telugu)
+http://humiptv.live:8080/live/anandhu974/00472110362xx/82826.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telugu Active" tvg-logo="" group-title="INDIAN ACTIVE",Telugu Active
+http://humiptv.live:8080/live/anandhu974/00472110362xx/108875.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Telugu_2022_2021_Collection_vol_1" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg?w=2000" group-title="TELUGU MOVIES 24/7",24/7: Telugu_2022_2021_Collection_vol_1
+http://humiptv.live:8080/live/anandhu974/00472110362xx/121374.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 1 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 1 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74809.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 2 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 2 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74810.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 3 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 3 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74811.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 4 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 4 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74812.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 5 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 5 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74813.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 6 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 6 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74814.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 7 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 7 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74815.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 8 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 8 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74816.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 9 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 9 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74817.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 10 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 10 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74818.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 11 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 11 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74819.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 12 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 12 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74820.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 13 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 13 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74821.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 14 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 14 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74822.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 15 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 15 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74823.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 17 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 17 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74824.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 18 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 18 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74825.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 19 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 19 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74826.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELUGU | TOLLYWOOD MOVIES 16 HD" tvg-logo="" group-title="TELUGU MOVIES 24/7",TELUGU | TOLLYWOOD MOVIES 16 HD
+http://humiptv.live:8080/live/anandhu974/00472110362xx/74827.ts
