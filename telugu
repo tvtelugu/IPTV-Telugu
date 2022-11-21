@@ -239,8 +239,8 @@ https://ranjan.radioca.st/stream
 https://mahi.radioca.st/stream
 
 
-
-
+#EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022",MTV HD
+https://jiolivestreaming.akamaized.net/bpk-tv/MTV_HD_Plus_voot_MOB/output03/index.m3u8?hdnts=st=1668954723~exp=1669041123~acl=/*~hmac=157d393594fc8dbd8041bc1d647c6ed7108369a2fcb09bf7ae9c6b0a84eeebbf
 #EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022",Sports 18
 http://starshare.live:8080/live/Hasan57938/3579147249/128843.ts
 #EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022",A Sports ARY
