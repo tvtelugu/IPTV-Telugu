@@ -265,6 +265,17 @@ http://starshare.live:8080/live/Hasan57938/3579147249/129501.ts
 http://starshare.live:8080/live/Hasan57938/3579147249/129502.ts
 
 
+#EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022 (Backup)",HDCHN
+https://thenayeemparvez.chadasaniya.cf/fifa-api/crichd.php?id=hdchnl1
+#EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022 (Backup)",A Sports HD
+https://thenayeemparvez.chadasaniya.cf/fifa-api/crichd.php?id=asportshd
+#EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022 (Backup)",USA Fox 1
+https://thenayeemparvez.chadasaniya.cf/fifa-api/crichd.php?id=usafox1
+#EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022 (Backup)",Bein 1 Max
+https://thenayeemparvez.chadasaniya.cf/fifa-api/crichd.php?id=bein1max
+#EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022 (Backup)",Bein 2 Max
+https://thenayeemparvez.chadasaniya.cf/fifa-api/crichd.php?id=bein2max
+
 
 #EXTINF:-1 tvg-id="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY2NDQ3ZWYtMjg0Zi00ZGYwLWJmNzctYzgwZTkzMTcyY2E0XkEyXkFqcGdeQXVyMTU2NDkwOTAw._V1_.jpg" group-title="🎬 Dubbed Movies",Anel Meley Panithuli (2022) (Multi Audio)
 https://assets-1.mypowerdisk.com/transcode_video/01892f53e3e0949b44c85a4479dbe29e/dash/622b591ca37ce86fc242bc11d205e9d4.mpd
