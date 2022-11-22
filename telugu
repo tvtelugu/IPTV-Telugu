@@ -239,8 +239,8 @@ https://ranjan.radioca.st/stream
 https://mahi.radioca.st/stream
 
 
-#EXTINF:-0 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Logo-700x394.png" group-title="🟢 T20I",Prime video
-https://red.redcdn.cfd/red.php?id=2
+#EXTINF:-0 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Logo-700x394.png" group-title="🟢 T20I",DD Sports
+http://starshare.live:8080/live/Hasan57938/3579147249/124294.ts
 
 #EXTINF:-0 tvg-id="" group-title="🟢 FIFA World Cup 2022",FS1
 http://89.187.175.143/3056/index.m3u8
