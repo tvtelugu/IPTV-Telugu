@@ -2,9 +2,7 @@
 #EXTINF:-0 tvg-id="Telugu" tvg-name="IPTV Telugu" tvg-logo="https://i.postimg.cc/PfSfj5xm/photo-2022-10-14-14-15-53.jpg", 𝐈𝐏𝐓𝐕 𝐓𝐞𝐥𝐮𝐠𝐮™ 🕊 Exclusive ミ★𝐌𝐚𝐝𝐡𝐮 @ https://t.me/tvtelugu ★彡
 https://github.com/madhukar7322/IPTV-Telugu/blob/main/iptv-telugu.ts?raw=true
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Telugu" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1008/PORTRAIT/k54DafKg.png" group-title="🟢 Entertinment",Zee Telugu HD
-http://starshare.live:8080/live/Hasan57938/3579147249/1605.ts
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Telugu" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1008/PORTRAIT/k54DafKg.png" group-title="🟢 Entertinment",Zee Telugu HD
-http://txm.flysat.live:2089/152089379394485/152013396269847/198014?play_token=gshPkLfSH0
+http://eu.majes-line.co:80/play/live.php?mac=00:1a:79:28:2F:20&stream=281780&extension=ts&play_token=c9BWvbxvEL
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="🟢 Entertinment",Zee Telugu
 https://madplayjio.ml/MADPLAYJIOX/autoq.php?c=Zee_Telugu
 #EXTINF:-0 tvg-id="Telugu" tvg-name="ETV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" group-title="🟢 Entertinment",ETV HD
