@@ -277,8 +277,7 @@ https://thenayeemparvez.chadasaniya.cf/fifa-api/crichd.php?id=bein1max
 https://thenayeemparvez.chadasaniya.cf/fifa-api/crichd.php?id=bein2max
 
 
-#EXTINF:-1 tvg-id="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY2NDQ3ZWYtMjg0Zi00ZGYwLWJmNzctYzgwZTkzMTcyY2E0XkEyXkFqcGdeQXVyMTU2NDkwOTAw._V1_.jpg" group-title="🎬 Dubbed Movies",Anel Meley Panithuli (2022) (Multi Audio)
-https://assets-1.mypowerdisk.com/transcode_video/01892f53e3e0949b44c85a4479dbe29e/dash/622b591ca37ce86fc242bc11d205e9d4.mpd
+
 #EXTINF:-1 tvg-id="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNlOWQ2YzEtYTc5Yy00MjcyLTg2YTgtMGVmM2YzZTk4N2JjXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg" group-title="🎬  Movies",Sardar (2022)
 https://assets-1.mypowerdisk.com/transcode_video/2a87deac4662902f9e2e2f2085de4a5d/dash/9184be534342b6224b6a53078a5c1e15.mpd
 #EXTINF:-1 tvg-id="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI4NTcxMmMtMDBlYi00YjRjLWJlZDUtZDhlMjU4YWEwZTY0XkEyXkFqcGdeQXVyMTQ5MDM3NTY1._V1_.jpg" group-title="🎬  Movies",Iravatham (2022)
@@ -447,6 +446,8 @@ http://starshare.live:8080/movie/Hasan57938/3579147249/122593.mkv
 http://starshare.live:8080/movie/Hasan57938/3579147249/122594.mkv
 #EXTINF:-1 tvg-id="" tvg-name="First Day First Show (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muQsPsvXvTWZ3XyxNpzh4Pebsme.jpg" group-title="🎬  Telugu (2022)",First Day First Show (2022)
 http://starshare.live:8080/movie/Hasan57938/3579147249/122595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Major (2022) (TELUGU)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEyNGJlODUtNTdjYS00ZWM1LTk4ZjAtY2FhYmY4NjE0Yzg4XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_.jpg" group-title="🎬  TELUGU",Major (2022) (TELUGU)
+http://starshare.live:8080/movie/Hasan57938/3579147249/96724.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ranga Ranga Vaibhavanga (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FS54rmiP3vgghIujafaU6BqeBf.jpg" group-title="🎬  Telugu (2022)",Ranga Ranga Vaibhavanga (2022)
 http://starshare.live:8080/movie/Hasan57938/3579147249/122596.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Saakini Daakini (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggD6ddmE2Uz2AVgbF48vMZvg3sf.jpg" group-title="🎬  Telugu (2022)",Saakini Daakini (2022)
@@ -547,9 +548,21 @@ http://starshare.live:8080/movie/Hasan57938/3579147249/127307.mkv
 http://starshare.live:8080/movie/Hasan57938/3579147249/121061.mkv
 #EXTINF:-1 tvg-id="" tvg-name="F3 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6yJv8fyNONChZ6bSAGsLEnvDKt.jpg" group-title="🎬  Telugu (2022)",F3 (2022)
 http://starshare.live:8080/movie/Hasan57938/3579147249/114970.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bheemla Nayak (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k58Hepal4H7Fj8H3Jh27v6tVsE1.jpg" group-title="🎬  TELUGU",Bheemla Nayak (2022)
+http://starshare.live:8080/movie/Hasan57938/3579147249/78113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="K.G.F: Chapter 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wobXQ8VLfCHvgbevNMy8Rxvo41.jpg" group-title="🎬  TELUGU",K.G.F: Chapter 2 (2022)
+http://starshare.live:8080/movie/Hasan57938/3579147249/86150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RRR (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncXklBeNi7X7OETqmDVEgaf8ItQ.jpg" group-title="🎬  TELUGU",RRR (2022)
+http://starshare.live:8080/movie/Hasan57938/3579147249/86703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anbarivu (2022)" tvg-logo="http://starshare.live:8080/images/0f4e3f520a32a10de50217a1712e4b28.jpg" group-title="🎬  TELUGU",Anbarivu (2022)
+http://starshare.live:8080/movie/Hasan57938/3579147249/64409.mp4
 
 
 
+
+
+#EXTINF:-1 tvg-id="VOD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY2NDQ3ZWYtMjg0Zi00ZGYwLWJmNzctYzgwZTkzMTcyY2E0XkEyXkFqcGdeQXVyMTU2NDkwOTAw._V1_.jpg" group-title="🎬  Multi (2022)",Anel Meley Panithuli (2022)
+http://starshare.live:8080/movie/Hasan57938/3579147249/129589.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Monica, O My Darling (2022)( Tamil+Telugu+Hindi+Malayalam+English)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEksr0T34utTkeg0DB1Au4M0jto.jpg" group-title=🎬  Multi (2022),Monica, O My Darling (2022)( Tamil+Telugu+Hindi+Malayalam+English)
 http://starshare.live:8080/movie/Hasan57938/3579147249/128814.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Rorschach (2022)(Tamil+Telugu+Hindi+Malayalam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKVeDdgpjR8CAEd73ioDe7wni4o.jpg" group-title=🎬  Multi (2022),Rorschach (2022)(Tamil+Telugu+Hindi+Malayalam)
@@ -644,8 +657,6 @@ http://starshare.live:8080/movie/Hasan57938/3579147249/64406.mp4
 http://starshare.live:8080/movie/Hasan57938/3579147249/64407.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Anaganaga Oka Nenu (2021)" group-title="🎬  TELUGU",Anaganaga Oka Nenu (2021)
 http://starshare.live:8080/movie/Hasan57938/3579147249/64408.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anbarivu (2022)" tvg-logo="http://starshare.live:8080/images/0f4e3f520a32a10de50217a1712e4b28.jpg" group-title="🎬  TELUGU",Anbarivu (2022)
-http://starshare.live:8080/movie/Hasan57938/3579147249/64409.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ankahi Kahaniya (2021)" tvg-logo="http://starshare.live:8080/images/0686bc750dacf833241ee005547ca733.jpg" group-title="🎬  TELUGU",Ankahi Kahaniya (2021)
 http://starshare.live:8080/movie/Hasan57938/3579147249/64410.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Anubhavinchu Raja (2021)" tvg-logo="http://starshare.live:8080/images/d2b8b14d1a09f116e7c1919af72d6f7a.jpg" group-title="🎬  TELUGU",Anubhavinchu Raja (2021)
@@ -3122,16 +3133,8 @@ http://starshare.live:8080/movie/Hasan57938/3579147249/39416.mkv
 http://starshare.live:8080/movie/Hasan57938/3579147249/26533.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nannevaru Apaleru 2021." tvg-logo="https://i.extraimages.net/images/2021/05/12/photocollage_202151216263992.jpg" group-title="🎬  TELUGU",Nannevaru Apaleru 2021.
 http://starshare.live:8080/movie/Hasan57938/3579147249/26534.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bheemla Nayak (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k58Hepal4H7Fj8H3Jh27v6tVsE1.jpg" group-title="🎬  TELUGU",Bheemla Nayak (2022)
-http://starshare.live:8080/movie/Hasan57938/3579147249/78113.mkv
-#EXTINF:-1 tvg-id="" tvg-name="K.G.F: Chapter 2 (2022) (Telugu)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wobXQ8VLfCHvgbevNMy8Rxvo41.jpg" group-title="🎬  TELUGU",K.G.F: Chapter 2 (2022) (Telugu)
-http://starshare.live:8080/movie/Hasan57938/3579147249/86150.mkv
-#EXTINF:-1 tvg-id="" tvg-name="RRR (2022) (TELUGU)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncXklBeNi7X7OETqmDVEgaf8ItQ.jpg" group-title="🎬  TELUGU",RRR (2022) (TELUGU)
-http://starshare.live:8080/movie/Hasan57938/3579147249/86703.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Akhanda (2021)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g841pE2duYUJDUsy6i2NXqCzVBO.jpg" group-title="🎬  TELUGU",Akhanda (2021).
 http://starshare.live:8080/movie/Hasan57938/3579147249/86952.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Major (2022) (TELUGU)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEyNGJlODUtNTdjYS00ZWM1LTk4ZjAtY2FhYmY4NjE0Yzg4XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_.jpg" group-title="🎬  TELUGU",Major (2022) (TELUGU)
-http://starshare.live:8080/movie/Hasan57938/3579147249/96724.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Red (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u00WWJsijXwkkXqc8hHJAKGJ3mh.jpg" group-title="🎬  TELUGU",Red (2021)
 http://starshare.live:8080/movie/Hasan57938/3579147249/23691.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Middle Class Melodies (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wY0bivHEaQiLHmmMQeddWOJa1Lm.jpg" group-title="🎬  TELUGU",Middle Class Melodies (2020)
