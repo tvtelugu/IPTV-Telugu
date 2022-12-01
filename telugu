@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz" 𝐈𝐏𝐓𝐕 𝐓𝐞𝐥𝐮𝐠𝐮™ 🕊 Exclusive ミ★𝐌𝐚𝐝𝐡𝐮 @ https://t.me/tvtelugu ★彡
 #EXTINF:-0 tvg-id="Telugu" tvg-name="IPTV Telugu" tvg-logo="https://i.postimg.cc/PfSfj5xm/photo-2022-10-14-14-15-53.jpg", 𝐈𝐏𝐓𝐕 𝐓𝐞𝐥𝐮𝐠𝐮™ 🕊 Exclusive ミ★𝐌𝐚𝐝𝐡𝐮 @ https://t.me/tvtelugu ★彡
 https://github.com/madhukar7322/IPTV-Telugu/blob/main/iptv-telugu.ts?raw=true
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Via Play" tvg-logo="https://mma.prnewswire.com/media/1655843/ADT10_Logo.jpg" group-title="🟢 T10",VIA Play 1080
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Via Play" tvg-logo="https://mma.prnewswire.com/media/1655843/ADT10_Logo.jpg" group-title="🟢 T10",VIA Play 1080P
 https://d3cq7cdp2cfi92.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/0842e810-7b15-40c7-a2ed-eb9f3263106c/3.m3u8
-#EXTINF:-0 tvg-id="Telugu" tvg-name="Via Play" tvg-logo="https://mma.prnewswire.com/media/1655843/ADT10_Logo.jpg" group-title="🟢 T10",VIA Play 1080
+#EXTINF:-0 tvg-id="Telugu" tvg-name="Via Play" tvg-logo="https://mma.prnewswire.com/media/1655843/ADT10_Logo.jpg" group-title="🟢 T10",VIA Play 720P
 https://d3cq7cdp2cfi92.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/ec2549a0-60e9-4de6-b036-7161675cd9d4/2.m3u8
 #EXTINF:-0 tvg-id="Telugu" tvg-name="Zee Telugu" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1008/PORTRAIT/k54DafKg.png" group-title="🟢 Entertinment",Zee Telugu HD
 http://eu.majes-line.co:80/play/live.php?mac=00:1a:79:28:2F:20&stream=281780&extension=ts&play_token=c9BWvbxvEL
