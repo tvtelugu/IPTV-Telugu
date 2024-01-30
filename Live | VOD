@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTM3U × @IPTVTelugu
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Animal (2023)" tvg-logo="https://ww9.1todaypk.xyz/uploads/Animal-Telugu-Poster.jpg" group-title="Movies || Telugu",Animal (2023)
 https://maxhd.icu/Animal%20(2023)%20Telugu%20720p%20HD%20-%20Bolly2Tolly.live.mp4
 #EXTINF:-1 tvg-id="ext" tvg-name="Salaar (2023)" tvg-logo="https://www.bolly2tolly.live/wp-content/uploads/2023/12/Salaar-part-1-telugu-movie-online-bolly2tolly-185x275.jpg" group-title="Movies || Telugu",Salaar (2023)
@@ -24,9 +29,7 @@ https://maxhd.icu/90s%20Middle%20Class%20Biopic%20EP5%20Fair%20and%20Cream%20720
 https://maxhd.icu/90s%20Middle%20Class%20Biopic%20EP6%20A%20new%20pair%20of%20chappals%20720p%20-%20Bolly2Tolly.live.mp4
 
 
-#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
-#EXTM3U × @IPTVTelugu
-#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=959
