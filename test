@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #EXTM3U
+#EXTINF:-1, Sree Ram
+https://ia601308.us.archive.org/2/items/jai-shreeraam/JaiShreeraam.mp4
 #EXTINF:-1,POR
 https://my-bucket-s3-ap-east-amazonaws.stephatrnieesada.sbs/io/s_q1lu3k7wsm/s221/Paramporul-Telugu-zra6d-2023.mp4
 
